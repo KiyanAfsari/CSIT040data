@@ -1,0 +1,2382 @@
+Location,Time,Day of Week,Number of Drinks,Number of Pastries,Total Bill,Age
+Knowledge Village,Morning,Monday,3,1,18,24
+DIFC,Morning,Monday,16,0,80,32
+DIFC,Morning,Tuesday,16,4,92,37
+DIFC,Morning,Wednesday,8,8,64,33
+DIFC,Morning,Thursday,12,0,60,55
+DIFC,Morning,Friday,1,1,8,33
+DIFC,Morning,Monday,1,3,14,31
+DIFC,Morning,Sunday,1,3,14,32
+DIFC,Afternoon,Monday,12,4,72,30
+DIFC,Afternoon,Tuesday,12,0,60,52
+DIFC,Afternoon,Wednesday,8,8,64,26
+DIFC,Afternoon,Monday,8,4,52,28
+DIFC,Afternoon,Friday,6,0,30,31
+DIFC,Afternoon,Saturday,6,0,30,55
+DIFC,Afternoon,Sunday,6,1,33,34
+DIFC,Evening,Monday,6,0,30,46
+DIFC,Evening,Monday,8,0,40,35
+DIFC,Evening,Wednesday,2,0,10,36
+DIFC,Evening,Thursday,4,4,32,42
+DIFC,Evening,Friday,1,3,14,42
+DIFC,Evening,Saturday,1,1,8,45
+DIFC,Evening,Sunday,1,0,5,38
+Knowledge Village,Morning,Monday,19,9,122,34
+Knowledge Village,Morning,Tuesday,19,4,107,54
+Knowledge Village,Morning,Wednesday,14,9,97,24
+Knowledge Village,Morning,Thursday,4,4,32,20
+Knowledge Village,Morning,Friday,7,3,44,25
+Knowledge Village,Morning,Saturday,4,3,29,43
+Knowledge Village,Morning,Sunday,7,3,44,41
+Knowledge Village,Afternoon,Monday,9,0,45,21
+Knowledge Village,Afternoon,Tuesday,9,9,72,
+Knowledge Village,Afternoon,Wednesday,4,4,32,53
+Knowledge Village,Afternoon,Thursday,19,4,107,
+Knowledge Village,Afternoon,Friday,7,3,44,25
+Knowledge Village,Afternoon,Saturday,3,0,15,35
+Knowledge Village,Afternoon,Sunday,3,3,24,21
+Knowledge Village,Evening,Monday,2,2,16,47
+Knowledge Village,Evening,Tuesday,2,0,10,22
+Knowledge Village,Evening,Wednesday,2,0,10,20
+Knowledge Village,Evening,Thursday,9,2,51,24
+Knowledge Village,Evening,Friday,1,1,8,22
+Knowledge Village,Evening,Saturday,3,3,24,50
+Knowledge Village,Evening,Sunday,1,1,8,25
+Dubai Mall,Morning,Monday,1,2,11,
+Dubai Mall,Morning,Tuesday,3,0,15,19
+Dubai Mall,Morning,Wednesday,1,2,11,
+Dubai Mall,Morning,Thursday,1,0,5,23
+Dubai Mall,Morning,Friday,16,8,104,41
+Dubai Mall,Morning,Saturday,12,4,72,
+Dubai Mall,Morning,Sunday,12,0,60,47
+Dubai Mall,Afternoon,Monday,2,2,16,20
+Dubai Mall,Afternoon,Tuesday,3,1,18,42
+Dubai Mall,Afternoon,Wednesday,2,1,13,26
+Dubai Mall,Afternoon,Thursday,4,0,20,41
+Dubai Mall,Afternoon,Friday,12,8,84,27
+Dubai Mall,Afternoon,Saturday,8,0,40,50
+Dubai Mall,Afternoon,Sunday,12,4,72,55
+Dubai Mall,Evening,Monday,2,0,10,52
+Dubai Mall,Evening,Tuesday,1,2,11,20
+Dubai Mall,Evening,Wednesday,2,2,16,30
+Dubai Mall,Evening,Thursday,4,2,26,51
+Dubai Mall,Evening,Friday,16,0,80,25
+Dubai Mall,Evening,Saturday,16,0,80,24
+Dubai Mall,Evening,Sunday,4,0,20,27
+Deira,Evening,Monday,2,1,13,52
+Deira,Morning,Wednesday,1,1,8,50
+Deira,Evening,Monday,2,0,10,25
+Deira,Morning,Tuesday,0,0,0,23
+Deira,Afternoon,Friday,0,0,0,53
+Deira,Morning,Thursday,1,0,5,18
+Deira,Afternoon,Tuesday,1,0,5,46
+Deira,Afternoon,Wednesday,1,0,5,22
+Deira,Morning,Friday,1,1,8,51
+Deira,Afternoon,Monday,1,1,8,25
+Deira,Evening,Tuesday,2,0,10,51
+Deira,Evening,Friday,1,0,5,25
+Deira,Morning,Tuesday,2,1,13,46
+Deira,Morning,Sunday,0,0,0,24
+Deira,Afternoon,Thursday,1,1,8,51
+Deira,Afternoon,Friday,2,1,13,18
+Deira,Morning,Tuesday,2,0,10,55
+Deira,Morning,Friday,1,0,5,24
+Deira,Morning,Saturday,1,1,8,52
+Deira,Afternoon,Sunday,1,1,8,48
+Deira,Evening,Tuesday,1,0,5,51
+Mirdif,Morning,Monday,1,1,8,
+Mirdif,Morning,Tuesday,2,0,10,
+Mirdif,Morning,Wednesday,0,0,0,
+Mirdif,Morning,Thursday,1,1,8,25
+Mirdif,Morning,Friday,0,1,3,28
+Mirdif,Morning,Saturday,2,1,13,
+Mirdif,Morning,Sunday,2,0,10,
+Mirdif,Afternoon,Monday,1,1,8,42
+Mirdif,Afternoon,Tuesday,2,1,13,44
+Mirdif,Afternoon,Wednesday,2,1,13,
+Mirdif,Afternoon,Thursday,2,1,13,18
+Mirdif,Afternoon,Friday,1,0,5,
+Mirdif,Afternoon,Saturday,0,0,0,
+Mirdif,Afternoon,Sunday,1,0,5,35
+Mirdif,Evening,Monday,0,0,0,49
+Mirdif,Evening,Tuesday,0,0,0,
+Mirdif,Evening,Wednesday,2,0,10,
+Mirdif,Evening,Thursday,1,0,5,54
+Mirdif,Evening,Friday,2,0,10,
+Mirdif,Evening,Saturday,1,0,5,35
+Mirdif,Evening,Sunday,2,0,10,40
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Tuesday,12,0,60,26
+DIFC,Morning,Wednesday,4,8,44,30
+DIFC,Morning,Thursday,4,4,32,33
+DIFC,Morning,Friday,3,3,24,
+DIFC,Morning,Saturday,3,1,18,26
+DIFC,Morning,Sunday,4,1,23,39
+DIFC,Afternoon,Monday,8,4,52,21
+DIFC,Afternoon,Tuesday,8,8,64,32
+DIFC,Afternoon,Wednesday,16,4,92,41
+DIFC,Afternoon,Thursday,12,0,60,
+DIFC,Afternoon,Friday,4,3,29,29
+DIFC,Afternoon,Saturday,3,0,15,47
+DIFC,Afternoon,Sunday,3,0,15,43
+DIFC,Evening,Monday,8,4,52,31
+DIFC,Evening,Tuesday,6,4,42,50
+DIFC,Evening,Wednesday,4,4,32,48
+DIFC,Evening,Thursday,8,2,46,27
+DIFC,Evening,Friday,3,0,15,21
+DIFC,Evening,Saturday,1,3,14,19
+DIFC,Evening,Sunday,4,3,29,28
+Knowledge Village,Morning,Monday,14,4,82,19
+Knowledge Village,Morning,Tuesday,9,4,57,54
+Knowledge Village,Morning,Wednesday,14,4,82,23
+Knowledge Village,Morning,Thursday,14,9,97,
+Knowledge Village,Morning,Friday,3,1,18,21
+Knowledge Village,Morning,Saturday,7,0,35,23
+Knowledge Village,Morning,Sunday,1,0,5,47
+Knowledge Village,Afternoon,Monday,14,9,97,55
+Knowledge Village,Afternoon,Tuesday,14,0,70,25
+Knowledge Village,Afternoon,Wednesday,19,4,107,24
+Knowledge Village,Afternoon,Thursday,9,9,72,20
+Knowledge Village,Afternoon,Friday,7,1,38,25
+Knowledge Village,Afternoon,Saturday,7,1,38,23
+Knowledge Village,Afternoon,Sunday,3,3,24,24
+Knowledge Village,Evening,Monday,4,4,32,19
+Knowledge Village,Evening,Tuesday,7,4,47,23
+Knowledge Village,Evening,Wednesday,4,4,32,25
+Knowledge Village,Evening,Thursday,2,2,16,23
+Knowledge Village,Evening,Friday,7,0,35,19
+Knowledge Village,Evening,Saturday,3,1,18,47
+Knowledge Village,Evening,Sunday,7,1,38,
+Dubai Mall,Morning,Monday,3,0,15,25
+Dubai Mall,Morning,Tuesday,2,2,16,
+Dubai Mall,Morning,Wednesday,1,0,5,52
+Dubai Mall,Morning,Thursday,2,2,16,
+Dubai Mall,Morning,Friday,8,8,64,45
+Dubai Mall,Morning,Saturday,16,4,92,
+Dubai Mall,Morning,Sunday,8,8,64,34
+Dubai Mall,Afternoon,Monday,3,1,18,29
+Dubai Mall,Afternoon,Tuesday,3,0,15,41
+Dubai Mall,Afternoon,Wednesday,2,1,13,
+Dubai Mall,Afternoon,Thursday,1,2,11,37
+Dubai Mall,Afternoon,Friday,12,0,60,
+Dubai Mall,Afternoon,Saturday,16,0,80,50
+Dubai Mall,Afternoon,Sunday,12,8,84,41
+Dubai Mall,Evening,Monday,1,2,11,40
+Dubai Mall,Evening,Tuesday,3,0,15,55
+Dubai Mall,Evening,Wednesday,3,1,18,52
+Dubai Mall,Evening,Thursday,2,2,16,
+Dubai Mall,Evening,Friday,12,4,72,35
+Dubai Mall,Evening,Saturday,8,0,40,
+Dubai Mall,Evening,Sunday,4,4,32,47
+Deira,Evening,Wednesday,1,0,5,48
+Deira,Evening,Saturday,1,1,8,20
+Deira,Evening,Tuesday,2,0,10,49
+Deira,Evening,Sunday,1,0,5,23
+Deira,Morning,Sunday,0,0,0,24
+Deira,Evening,Wednesday,1,1,8,46
+Deira,Evening,Friday,1,0,5,19
+Deira,Morning,Friday,1,0,5,24
+Deira,Afternoon,Monday,1,1,8,49
+Deira,Afternoon,Tuesday,1,1,8,25
+Deira,Evening,Friday,1,1,8,20
+Deira,Evening,Saturday,1,0,5,49
+Deira,Morning,Saturday,2,0,10,23
+Deira,Morning,Monday,0,0,0,19
+Deira,Morning,Wednesday,0,0,0,51
+Deira,Afternoon,Tuesday,1,0,5,19
+Deira,Afternoon,Thursday,2,0,10,22
+Deira,Afternoon,Friday,1,0,5,48
+Deira,Afternoon,Saturday,1,0,5,51
+Deira,Evening,Saturday,1,0,5,50
+Deira,Morning,Sunday,1,0,5,48
+Mirdif,Morning,Monday,2,1,13,
+Mirdif,Morning,Tuesday,2,0,10,
+Mirdif,Morning,Wednesday,1,0,5,
+Mirdif,Morning,Thursday,1,0,5,30
+Mirdif,Morning,Friday,2,0,10,
+Mirdif,Morning,Saturday,2,0,10,50
+Mirdif,Morning,Sunday,0,0,0,
+Mirdif,Afternoon,Monday,1,0,5,43
+Mirdif,Afternoon,Tuesday,2,0,10,
+Mirdif,Afternoon,Wednesday,1,1,8,
+Mirdif,Afternoon,Thursday,1,0,5,54
+Mirdif,Afternoon,Friday,2,0,10,
+Mirdif,Afternoon,Saturday,1,0,5,42
+Mirdif,Afternoon,Sunday,0,0,0,
+Mirdif,Evening,Monday,2,0,10,
+Mirdif,Evening,Tuesday,1,0,5,51
+Mirdif,Evening,Wednesday,0,0,0,
+Mirdif,Evening,Thursday,2,1,13,51
+Mirdif,Evening,Friday,1,0,5,
+Mirdif,Evening,Saturday,1,0,5,55
+Mirdif,Evening,Sunday,2,0,10,
+DIFC,Morning,Monday,16,8,104,31
+DIFC,Morning,Tuesday,8,8,64,22
+DIFC,Morning,Wednesday,4,8,44,32
+DIFC,Morning,Thursday,12,8,84,54
+DIFC,Morning,Friday,4,1,23,45
+DIFC,Morning,Saturday,1,0,5,32
+DIFC,Morning,Sunday,4,1,23,41
+DIFC,Afternoon,Monday,16,0,80,27
+DIFC,Afternoon,Tuesday,12,0,60,35
+DIFC,Afternoon,Wednesday,8,0,40,30
+DIFC,Afternoon,Thursday,12,0,60,27
+DIFC,Afternoon,Friday,3,0,15,33
+DIFC,Afternoon,Saturday,4,3,29,33
+DIFC,Afternoon,Sunday,1,0,5,30
+DIFC,Evening,Monday,6,0,30,32
+DIFC,Evening,Tuesday,4,2,26,28
+DIFC,Evening,Wednesday,4,4,32,44
+DIFC,Evening,Thursday,2,0,10,20
+DIFC,Evening,Friday,6,1,33,48
+DIFC,Evening,Saturday,6,3,39,41
+DIFC,Evening,Sunday,6,3,39,52
+Knowledge Village,Morning,Monday,9,9,72,24
+Knowledge Village,Morning,Tuesday,14,4,82,21
+Knowledge Village,Morning,Wednesday,19,0,95,22
+Knowledge Village,Morning,Thursday,4,9,47,18
+Knowledge Village,Morning,Friday,1,0,5,23
+Knowledge Village,Morning,Saturday,7,0,35,23
+Knowledge Village,Morning,Sunday,7,1,38,18
+Knowledge Village,Afternoon,Monday,19,4,107,19
+Knowledge Village,Afternoon,Tuesday,4,9,47,46
+Knowledge Village,Afternoon,Wednesday,14,0,70,23
+Knowledge Village,Afternoon,Thursday,9,4,57,19
+Knowledge Village,Afternoon,Friday,3,1,18,23
+Knowledge Village,Afternoon,Saturday,4,0,20,23
+Knowledge Village,Afternoon,Sunday,1,3,14,49
+Knowledge Village,Evening,Monday,9,2,51,21
+Knowledge Village,Evening,Tuesday,9,4,57,26
+Knowledge Village,Evening,Wednesday,9,2,51,19
+Knowledge Village,Evening,Thursday,4,2,26,50
+Knowledge Village,Evening,Friday,4,0,20,34
+Knowledge Village,Evening,Saturday,4,0,20,20
+Knowledge Village,Evening,Sunday,7,0,35,23
+Dubai Mall,Morning,Monday,3,1,18,27
+Dubai Mall,Morning,Tuesday,4,0,20,
+Dubai Mall,Morning,Wednesday,1,0,5,21
+Dubai Mall,Morning,Thursday,1,2,11,31
+Dubai Mall,Morning,Friday,4,4,32,20
+Dubai Mall,Morning,Saturday,12,0,60,24
+Dubai Mall,Morning,Sunday,12,8,84,46
+Dubai Mall,Afternoon,Monday,3,0,15,26
+Dubai Mall,Afternoon,Tuesday,3,1,18,53
+Dubai Mall,Afternoon,Wednesday,3,0,15,54
+Dubai Mall,Afternoon,Thursday,4,0,20,22
+Dubai Mall,Afternoon,Friday,12,4,72,31
+Dubai Mall,Afternoon,Saturday,12,0,60,51
+Dubai Mall,Afternoon,Sunday,4,4,32,26
+Dubai Mall,Evening,Monday,4,1,23,21
+Dubai Mall,Evening,Tuesday,3,1,18,51
+Dubai Mall,Evening,Wednesday,4,2,26,45
+Dubai Mall,Evening,Thursday,3,2,21,19
+Dubai Mall,Evening,Friday,16,0,80,18
+Dubai Mall,Evening,Saturday,4,0,20,39
+Dubai Mall,Evening,Sunday,8,0,40,55
+Deira,Afternoon,Tuesday,1,0,5,20
+Deira,Afternoon,Saturday,1,0,5,18
+Deira,Evening,Thursday,1,0,5,49
+Deira,Evening,Friday,1,1,8,22
+Deira,Evening,Saturday,0,1,3,22
+Deira,Afternoon,Thursday,1,1,8,50
+Deira,Afternoon,Saturday,1,1,8,22
+Deira,Evening,Thursday,0,0,0,22
+Deira,Evening,Friday,2,1,13,52
+Deira,Evening,Sunday,1,1,8,20
+Deira,Morning,Wednesday,1,0,5,22
+Deira,Morning,Friday,1,0,5,49
+Deira,Morning,Saturday,1,0,5,20
+Deira,Morning,Sunday,1,0,5,20
+Deira,Afternoon,Tuesday,2,1,13,55
+Deira,Evening,Wednesday,2,0,10,24
+Deira,Evening,Saturday,1,0,5,46
+Deira,Morning,Tuesday,1,1,8,25
+Deira,Morning,Friday,1,0,5,54
+Deira,Afternoon,Sunday,1,1,8,55
+Deira,Evening,Friday,0,1,3,23
+Mirdif,Morning,Monday,1,0,5,
+Mirdif,Morning,Tuesday,1,0,5,43
+Mirdif,Morning,Wednesday,1,0,5,31
+Mirdif,Morning,Thursday,2,0,10,
+Mirdif,Morning,Friday,1,0,5,22
+Mirdif,Morning,Saturday,2,0,10,
+Mirdif,Morning,Sunday,1,0,5,
+Mirdif,Afternoon,Monday,0,0,0,52
+Mirdif,Afternoon,Tuesday,0,1,3,
+Mirdif,Afternoon,Wednesday,2,0,10,
+Mirdif,Afternoon,Thursday,0,1,3,41
+Mirdif,Afternoon,Friday,1,1,8,41
+Mirdif,Afternoon,Saturday,1,0,5,
+Mirdif,Afternoon,Sunday,1,0,5,30
+Mirdif,Evening,Monday,2,0,10,28
+Mirdif,Evening,Tuesday,1,0,5,
+Mirdif,Evening,Wednesday,2,0,10,24
+Mirdif,Evening,Thursday,2,1,13,30
+Mirdif,Evening,Friday,0,0,0,34
+Mirdif,Evening,Saturday,1,1,8,
+Mirdif,Evening,Sunday,1,1,8,
+DIFC,Morning,Monday,12,0,60,28
+DIFC,Morning,Tuesday,16,4,92,54
+DIFC,Morning,Wednesday,16,8,104,29
+DIFC,Morning,Thursday,12,4,72,47
+DIFC,Morning,Friday,6,1,33,31
+DIFC,Morning,Saturday,3,0,15,54
+DIFC,Morning,Sunday,3,0,15,37
+DIFC,Afternoon,Monday,16,8,104,50
+DIFC,Afternoon,Tuesday,8,8,64,36
+DIFC,Afternoon,Wednesday,8,0,40,40
+DIFC,Afternoon,Thursday,16,4,92,46
+DIFC,Afternoon,Friday,1,0,5,32
+DIFC,Afternoon,Saturday,6,3,39,26
+DIFC,Afternoon,Sunday,1,1,8,41
+DIFC,Evening,Monday,6,4,42,22
+DIFC,Evening,Tuesday,8,4,52,28
+DIFC,Evening,Wednesday,6,4,42,36
+DIFC,Evening,Thursday,8,4,52,40
+DIFC,Evening,Friday,1,1,8,27
+DIFC,Evening,Saturday,4,0,20,28
+DIFC,Evening,Sunday,6,1,33,
+Knowledge Village,Morning,Monday,19,9,122,25
+Knowledge Village,Morning,Tuesday,19,0,95,33
+Knowledge Village,Morning,Wednesday,14,9,97,
+Knowledge Village,Morning,Thursday,19,0,95,22
+Knowledge Village,Morning,Friday,1,0,5,46
+Knowledge Village,Morning,Saturday,1,3,14,55
+Knowledge Village,Morning,Sunday,7,3,44,
+Knowledge Village,Afternoon,Monday,9,0,45,42
+Knowledge Village,Afternoon,Tuesday,9,0,45,38
+Knowledge Village,Afternoon,Wednesday,4,4,32,18
+Knowledge Village,Afternoon,Thursday,4,0,20,
+Knowledge Village,Afternoon,Friday,3,3,24,55
+Knowledge Village,Afternoon,Saturday,4,3,29,55
+Knowledge Village,Afternoon,Sunday,1,0,5,22
+Knowledge Village,Evening,Monday,7,2,41,33
+Knowledge Village,Evening,Tuesday,4,4,32,51
+Knowledge Village,Evening,Wednesday,4,2,26,21
+Knowledge Village,Evening,Thursday,7,0,35,30
+Knowledge Village,Evening,Friday,7,0,35,
+Knowledge Village,Evening,Saturday,4,3,29,20
+Knowledge Village,Evening,Sunday,1,0,5,45
+Dubai Mall,Morning,Monday,1,0,5,38
+Dubai Mall,Morning,Tuesday,4,2,26,35
+Dubai Mall,Morning,Wednesday,2,1,13,46
+Dubai Mall,Morning,Thursday,3,2,21,
+Dubai Mall,Morning,Friday,4,8,44,43
+Dubai Mall,Morning,Saturday,16,4,92,36
+Dubai Mall,Morning,Sunday,8,4,52,26
+Dubai Mall,Afternoon,Monday,4,0,20,
+Dubai Mall,Afternoon,Tuesday,4,1,23,37
+Dubai Mall,Afternoon,Wednesday,1,2,11,40
+Dubai Mall,Afternoon,Thursday,4,1,23,26
+Dubai Mall,Afternoon,Friday,8,4,52,
+Dubai Mall,Afternoon,Saturday,12,8,84,48
+Dubai Mall,Afternoon,Sunday,8,0,40,55
+Dubai Mall,Evening,Monday,4,1,23,55
+Dubai Mall,Evening,Tuesday,1,0,5,25
+Dubai Mall,Evening,Wednesday,1,1,8,
+Dubai Mall,Evening,Thursday,1,0,5,27
+Dubai Mall,Evening,Friday,12,0,60,
+Dubai Mall,Evening,Saturday,8,8,64,28
+Dubai Mall,Evening,Sunday,12,4,72,31
+Deira,Morning,Tuesday,1,0,5,49
+Deira,Morning,Wednesday,1,0,5,49
+Deira,Morning,Friday,2,0,10,25
+Deira,Afternoon,Saturday,0,0,0,18
+Deira,Evening,Saturday,0,0,0,49
+Deira,Morning,Friday,0,1,3,26
+Deira,Evening,Wednesday,1,0,5,30
+Deira,Morning,Monday,1,0,5,50
+Deira,Morning,Tuesday,1,0,5,31
+Deira,Evening,Sunday,0,1,3,51
+Deira,Afternoon,Monday,1,1,8,30
+Deira,Evening,Thursday,0,1,3,28
+Deira,Evening,Friday,1,1,8,47
+Deira,Evening,Saturday,2,0,10,34
+Deira,Morning,Tuesday,2,0,10,27
+Deira,Afternoon,Monday,2,1,13,49
+Deira,Afternoon,Friday,1,1,8,30
+Deira,Afternoon,Saturday,1,0,5,55
+Deira,Morning,Tuesday,2,0,10,32
+Deira,Morning,Thursday,1,1,8,35
+Deira,Afternoon,Tuesday,1,0,5,49
+Mirdif,Morning,Monday,2,0,10,
+Mirdif,Morning,Tuesday,1,1,8,36
+Mirdif,Morning,Wednesday,1,0,5,
+Mirdif,Morning,Thursday,2,0,10,
+Mirdif,Morning,Friday,0,1,3,
+Mirdif,Morning,Saturday,1,0,5,
+Mirdif,Morning,Sunday,2,0,10,48
+Mirdif,Afternoon,Monday,2,0,10,37
+Mirdif,Afternoon,Tuesday,2,1,13,
+Mirdif,Afternoon,Wednesday,0,1,3,33
+Mirdif,Afternoon,Thursday,1,1,8,
+Mirdif,Afternoon,Friday,0,0,0,
+Mirdif,Afternoon,Saturday,0,0,0,29
+Mirdif,Afternoon,Sunday,1,0,5,
+Mirdif,Evening,Monday,2,0,10,45
+Mirdif,Evening,Tuesday,1,0,5,
+Mirdif,Evening,Wednesday,0,0,0,
+Mirdif,Evening,Thursday,1,0,5,
+Mirdif,Evening,Friday,0,0,0,51
+Mirdif,Evening,Saturday,1,0,5,54
+Mirdif,Evening,Sunday,1,0,5,
+DIFC,Morning,Monday,12,4,72,26
+DIFC,Morning,Tuesday,16,8,104,31
+DIFC,Morning,Wednesday,12,0,60,29
+DIFC,Morning,Thursday,12,4,72,31
+DIFC,Morning,Friday,6,3,39,41
+DIFC,Morning,Saturday,6,0,30,34
+DIFC,Morning,Sunday,3,1,18,35
+DIFC,Afternoon,Monday,4,8,44,38
+DIFC,Afternoon,Tuesday,12,0,60,40
+DIFC,Afternoon,Wednesday,8,0,40,51
+DIFC,Afternoon,Thursday,16,0,80,31
+DIFC,Afternoon,Friday,1,1,8,37
+DIFC,Afternoon,Saturday,1,1,8,43
+DIFC,Afternoon,Sunday,4,1,23,39
+DIFC,Evening,Monday,6,0,30,39
+DIFC,Evening,Tuesday,2,0,10,41
+DIFC,Evening,Wednesday,8,0,40,29
+DIFC,Evening,Thursday,2,0,10,51
+DIFC,Evening,Friday,4,3,29,50
+DIFC,Evening,Saturday,4,3,29,50
+DIFC,Evening,Sunday,1,3,14,38
+Knowledge Village,Morning,Monday,4,0,20,18
+Knowledge Village,Morning,Tuesday,14,4,82,19
+Knowledge Village,Morning,Wednesday,4,9,47,
+Knowledge Village,Morning,Thursday,9,4,57,22
+Knowledge Village,Morning,Friday,3,3,24,36
+Knowledge Village,Morning,Saturday,4,0,20,25
+Knowledge Village,Morning,Sunday,4,0,20,55
+Knowledge Village,Afternoon,Monday,4,0,20,35
+Knowledge Village,Afternoon,Tuesday,19,9,122,20
+Knowledge Village,Afternoon,Wednesday,19,4,107,
+Knowledge Village,Afternoon,Thursday,14,0,70,35
+Knowledge Village,Afternoon,Friday,4,1,23,51
+Knowledge Village,Afternoon,Saturday,3,1,18,29
+Knowledge Village,Afternoon,Sunday,1,0,5,20
+Knowledge Village,Evening,Monday,9,0,45,43
+Knowledge Village,Evening,Tuesday,4,4,32,36
+Knowledge Village,Evening,Wednesday,2,2,16,24
+Knowledge Village,Evening,Thursday,4,4,32,30
+Knowledge Village,Evening,Friday,3,0,15,41
+Knowledge Village,Evening,Saturday,7,0,35,26
+Knowledge Village,Evening,Sunday,3,3,24,19
+Dubai Mall,Morning,Monday,4,0,20,53
+Dubai Mall,Morning,Tuesday,3,0,15,40
+Dubai Mall,Morning,Wednesday,1,1,8,41
+Dubai Mall,Morning,Thursday,4,1,23,36
+Dubai Mall,Morning,Friday,16,4,92,21
+Dubai Mall,Morning,Saturday,12,4,72,29
+Dubai Mall,Morning,Sunday,12,0,60,31
+Dubai Mall,Afternoon,Monday,2,0,10,49
+Dubai Mall,Afternoon,Tuesday,3,2,21,52
+Dubai Mall,Afternoon,Wednesday,4,2,26,
+Dubai Mall,Afternoon,Thursday,2,2,16,45
+Dubai Mall,Afternoon,Friday,12,4,72,34
+Dubai Mall,Afternoon,Saturday,8,4,52,
+Dubai Mall,Afternoon,Sunday,12,8,84,47
+Dubai Mall,Evening,Monday,3,0,15,22
+Dubai Mall,Evening,Tuesday,3,2,21,
+Dubai Mall,Evening,Wednesday,1,0,5,
+Dubai Mall,Evening,Thursday,2,2,16,32
+Dubai Mall,Evening,Friday,8,8,64,
+Dubai Mall,Evening,Saturday,16,0,80,43
+Dubai Mall,Evening,Sunday,8,4,52,24
+Deira,Afternoon,Thursday,2,0,10,28
+Deira,Afternoon,Sunday,2,0,10,35
+Deira,Morning,Thursday,2,1,13,34
+Deira,Morning,Friday,1,0,5,26
+Deira,Morning,Sunday,0,1,3,30
+Deira,Afternoon,Thursday,1,1,8,30
+Deira,Afternoon,Friday,1,0,5,33
+Deira,Morning,Tuesday,1,0,5,30
+Deira,Morning,Wednesday,2,0,10,27
+Deira,Morning,Friday,1,0,5,34
+Deira,Afternoon,Tuesday,1,1,8,27
+Deira,Afternoon,Thursday,1,1,8,33
+Deira,Evening,Wednesday,1,1,8,30
+Deira,Evening,Thursday,2,1,13,31
+Deira,Evening,Saturday,1,1,8,35
+Deira,Morning,Wednesday,2,1,13,27
+Deira,Morning,Friday,1,1,8,26
+Deira,Afternoon,Monday,0,0,0,33
+Deira,Evening,Tuesday,1,1,8,27
+Deira,Evening,Sunday,1,0,5,33
+Deira,Morning,Tuesday,1,0,5,27
+Mirdif,Morning,Monday,1,1,8,
+Mirdif,Morning,Tuesday,1,0,5,33
+Mirdif,Morning,Wednesday,2,0,10,51
+Mirdif,Morning,Thursday,2,0,10,
+Mirdif,Morning,Friday,2,1,13,
+Mirdif,Morning,Saturday,1,0,5,20
+Mirdif,Morning,Sunday,1,0,5,49
+Mirdif,Afternoon,Monday,1,0,5,44
+Mirdif,Afternoon,Tuesday,2,0,10,38
+Mirdif,Afternoon,Wednesday,0,1,3,36
+Mirdif,Afternoon,Thursday,0,1,3,31
+Mirdif,Afternoon,Friday,2,0,10,
+Mirdif,Afternoon,Saturday,2,1,13,47
+Mirdif,Afternoon,Sunday,2,0,10,20
+Mirdif,Evening,Monday,1,1,8,21
+Mirdif,Evening,Tuesday,1,1,8,
+Mirdif,Evening,Wednesday,2,0,10,52
+Mirdif,Evening,Thursday,1,1,8,31
+Mirdif,Evening,Friday,1,0,5,
+Mirdif,Evening,Saturday,1,0,5,33
+Mirdif,Evening,Sunday,1,0,5,31
+DIFC,Morning,Monday,8,0,40,34
+DIFC,Morning,Tuesday,12,0,60,24
+DIFC,Morning,Wednesday,16,8,104,51
+DIFC,Morning,Thursday,8,8,64,45
+DIFC,Morning,Friday,4,0,20,38
+DIFC,Morning,Saturday,3,0,15,41
+DIFC,Morning,Sunday,6,3,39,42
+DIFC,Afternoon,Monday,4,8,44,44
+DIFC,Afternoon,Tuesday,8,4,52,26
+DIFC,Afternoon,Wednesday,8,8,64,44
+DIFC,Afternoon,Thursday,8,0,40,48
+DIFC,Afternoon,Friday,1,3,14,23
+DIFC,Afternoon,Saturday,1,1,8,34
+DIFC,Afternoon,Sunday,1,3,14,35
+DIFC,Evening,Monday,6,4,42,45
+DIFC,Evening,Tuesday,4,0,20,40
+DIFC,Evening,Wednesday,2,4,22,54
+DIFC,Evening,Thursday,8,4,52,44
+DIFC,Evening,Friday,4,1,23,33
+DIFC,Evening,Saturday,3,1,18,43
+DIFC,Evening,Sunday,3,3,24,26
+Knowledge Village,Morning,Monday,4,0,20,27
+Knowledge Village,Morning,Tuesday,4,0,20,
+Knowledge Village,Morning,Wednesday,19,9,122,21
+Knowledge Village,Morning,Thursday,14,9,97,25
+Knowledge Village,Morning,Friday,4,3,29,30
+Knowledge Village,Morning,Saturday,1,3,14,22
+Knowledge Village,Morning,Sunday,7,1,38,20
+Knowledge Village,Afternoon,Monday,4,4,32,23
+Knowledge Village,Afternoon,Tuesday,19,4,107,
+Knowledge Village,Afternoon,Wednesday,14,0,70,19
+Knowledge Village,Afternoon,Thursday,4,4,32,43
+Knowledge Village,Afternoon,Friday,3,3,24,53
+Knowledge Village,Afternoon,Saturday,4,0,20,24
+Knowledge Village,Afternoon,Sunday,4,0,20,20
+Knowledge Village,Evening,Monday,2,4,22,20
+Knowledge Village,Evening,Tuesday,9,0,45,20
+Knowledge Village,Evening,Wednesday,2,2,16,18
+Knowledge Village,Evening,Thursday,7,4,47,23
+Knowledge Village,Evening,Friday,4,3,29,46
+Knowledge Village,Evening,Saturday,7,0,35,27
+Knowledge Village,Evening,Sunday,7,0,35,21
+Dubai Mall,Morning,Monday,2,0,10,32
+Dubai Mall,Morning,Tuesday,4,1,23,48
+Dubai Mall,Morning,Wednesday,3,1,18,34
+Dubai Mall,Morning,Thursday,4,2,26,39
+Dubai Mall,Morning,Friday,4,4,32,44
+Dubai Mall,Morning,Saturday,8,0,40,45
+Dubai Mall,Morning,Sunday,4,4,32,47
+Dubai Mall,Afternoon,Monday,1,2,11,25
+Dubai Mall,Afternoon,Tuesday,2,0,10,22
+Dubai Mall,Afternoon,Wednesday,2,2,16,
+Dubai Mall,Afternoon,Thursday,1,0,5,43
+Dubai Mall,Afternoon,Friday,16,0,80,41
+Dubai Mall,Afternoon,Saturday,4,0,20,23
+Dubai Mall,Afternoon,Sunday,8,0,40,28
+Dubai Mall,Evening,Monday,2,2,16,39
+Dubai Mall,Evening,Tuesday,1,0,5,47
+Dubai Mall,Evening,Wednesday,3,2,21,
+Dubai Mall,Evening,Thursday,1,1,8,34
+Dubai Mall,Evening,Friday,8,8,64,
+Dubai Mall,Evening,Saturday,16,0,80,
+Dubai Mall,Evening,Sunday,12,0,60,18
+Deira,Morning,Wednesday,2,0,10,30
+Deira,Morning,Thursday,1,1,8,29
+Deira,Afternoon,Thursday,1,1,8,34
+Deira,Afternoon,Saturday,1,0,5,26
+Deira,Evening,Thursday,0,0,0,26
+Deira,Morning,Tuesday,1,1,8,33
+Deira,Morning,Sunday,1,0,5,32
+Deira,Evening,Monday,1,1,8,26
+Deira,Evening,Tuesday,2,0,10,35
+Deira,Evening,Wednesday,0,0,0,34
+Deira,Evening,Saturday,2,1,13,52
+Deira,Evening,Sunday,1,0,5,31
+Deira,Afternoon,Wednesday,2,0,10,49
+Deira,Evening,Friday,2,1,13,35
+Deira,Morning,Wednesday,0,1,3,32
+Deira,Morning,Sunday,1,0,5,29
+Deira,Afternoon,Monday,0,1,3,33
+Deira,Afternoon,Thursday,2,1,13,30
+Deira,Evening,Friday,2,0,10,29
+Deira,Morning,Thursday,2,1,13,30
+Deira,Afternoon,Wednesday,1,1,8,31
+Mirdif,Morning,Monday,1,0,5,21
+Mirdif,Morning,Tuesday,1,0,5,37
+Mirdif,Morning,Wednesday,0,0,0,46
+Mirdif,Morning,Thursday,0,1,3,
+Mirdif,Morning,Friday,1,0,5,
+Mirdif,Morning,Saturday,2,1,13,
+Mirdif,Morning,Sunday,1,1,8,
+Mirdif,Afternoon,Monday,0,0,0,
+Mirdif,Afternoon,Tuesday,1,1,8,
+Mirdif,Afternoon,Wednesday,1,0,5,23
+Mirdif,Afternoon,Thursday,2,1,13,20
+Mirdif,Afternoon,Friday,1,0,5,47
+Mirdif,Afternoon,Saturday,1,0,5,44
+Mirdif,Afternoon,Sunday,0,1,3,26
+Mirdif,Evening,Monday,2,0,10,29
+Mirdif,Evening,Tuesday,1,0,5,23
+Mirdif,Evening,Wednesday,2,0,10,54
+Mirdif,Evening,Thursday,0,0,0,21
+Mirdif,Evening,Friday,0,0,0,
+Mirdif,Evening,Saturday,0,1,3,24
+Mirdif,Evening,Sunday,2,0,10,
+DIFC,Morning,Monday,16,0,80,28
+DIFC,Morning,Tuesday,4,0,20,19
+DIFC,Morning,Wednesday,16,4,92,34
+DIFC,Morning,Thursday,16,0,80,
+DIFC,Morning,Friday,4,0,20,44
+DIFC,Morning,Saturday,3,0,15,39
+DIFC,Morning,Sunday,6,3,39,36
+DIFC,Afternoon,Monday,4,8,44,48
+DIFC,Afternoon,Tuesday,8,8,64,49
+DIFC,Afternoon,Wednesday,4,4,32,48
+DIFC,Afternoon,Thursday,4,0,20,39
+DIFC,Afternoon,Friday,6,1,33,29
+DIFC,Afternoon,Saturday,3,0,15,40
+DIFC,Afternoon,Sunday,1,3,14,41
+DIFC,Evening,Monday,8,0,40,28
+DIFC,Evening,Tuesday,8,4,52,
+DIFC,Evening,Wednesday,4,4,32,
+DIFC,Evening,Thursday,2,0,10,53
+DIFC,Evening,Friday,6,1,33,
+DIFC,Evening,Saturday,3,3,24,18
+DIFC,Evening,Sunday,4,1,23,
+Knowledge Village,Morning,Monday,4,9,47,34
+Knowledge Village,Morning,Tuesday,19,4,107,54
+Knowledge Village,Morning,Wednesday,19,9,122,45
+Knowledge Village,Morning,Thursday,19,0,95,54
+Knowledge Village,Morning,Friday,1,0,5,18
+Knowledge Village,Morning,Saturday,7,3,44,42
+Knowledge Village,Morning,Sunday,3,1,18,
+Knowledge Village,Afternoon,Monday,14,0,70,
+Knowledge Village,Afternoon,Tuesday,9,0,45,23
+Knowledge Village,Afternoon,Wednesday,9,9,72,32
+Knowledge Village,Afternoon,Thursday,4,4,32,23
+Knowledge Village,Afternoon,Friday,4,3,29,
+Knowledge Village,Afternoon,Saturday,3,3,24,30
+Knowledge Village,Afternoon,Sunday,1,3,14,32
+Knowledge Village,Evening,Monday,7,0,35,34
+Knowledge Village,Evening,Tuesday,2,0,10,23
+Knowledge Village,Evening,Wednesday,7,0,35,25
+Knowledge Village,Evening,Thursday,2,0,10,50
+Knowledge Village,Evening,Friday,1,3,14,50
+Knowledge Village,Evening,Saturday,4,3,29,
+Knowledge Village,Evening,Sunday,7,0,35,49
+Dubai Mall,Morning,Monday,1,0,5,27
+Dubai Mall,Morning,Tuesday,2,2,16,
+Dubai Mall,Morning,Wednesday,4,2,26,30
+Dubai Mall,Morning,Thursday,4,2,26,22
+Dubai Mall,Morning,Friday,8,4,52,21
+Dubai Mall,Morning,Saturday,8,8,64,43
+Dubai Mall,Morning,Sunday,4,0,20,28
+Dubai Mall,Afternoon,Monday,1,2,11,42
+Dubai Mall,Afternoon,Tuesday,2,2,16,49
+Dubai Mall,Afternoon,Wednesday,3,1,18,24
+Dubai Mall,Afternoon,Thursday,4,2,26,31
+Dubai Mall,Afternoon,Friday,16,0,80,48
+Dubai Mall,Afternoon,Saturday,4,0,20,23
+Dubai Mall,Afternoon,Sunday,16,8,104,49
+Dubai Mall,Evening,Monday,3,1,18,48
+Dubai Mall,Evening,Tuesday,4,1,23,50
+Dubai Mall,Evening,Wednesday,4,1,23,28
+Dubai Mall,Evening,Thursday,4,0,20,50
+Dubai Mall,Evening,Friday,8,0,40,29
+Dubai Mall,Evening,Saturday,4,4,32,
+Dubai Mall,Evening,Sunday,4,4,32,
+Deira,Afternoon,Sunday,1,1,8,30
+Deira,Evening,Wednesday,1,1,8,30
+Deira,Morning,Wednesday,1,0,5,29
+Deira,Morning,Friday,0,0,0,27
+Deira,Afternoon,Tuesday,1,1,8,35
+Deira,Afternoon,Wednesday,1,0,5,34
+Deira,Morning,Monday,2,0,10,34
+Deira,Morning,Tuesday,1,0,5,29
+Deira,Afternoon,Friday,1,0,5,34
+Deira,Morning,Monday,2,1,13,30
+Deira,Morning,Sunday,1,0,5,30
+Deira,Evening,Tuesday,1,0,5,33
+Deira,Evening,Wednesday,0,0,0,33
+Deira,Evening,Sunday,2,1,13,27
+Deira,Morning,Monday,0,0,0,34
+Deira,Afternoon,Wednesday,1,0,5,26
+Deira,Afternoon,Sunday,0,0,0,30
+Deira,Evening,Wednesday,0,0,0,27
+Deira,Evening,Friday,2,0,10,26
+Deira,Morning,Saturday,0,0,0,40
+Deira,Afternoon,Wednesday,2,0,10,42
+Mirdif,Morning,Monday,1,0,5,47
+Mirdif,Morning,Tuesday,1,1,8,22
+Mirdif,Morning,Wednesday,1,0,5,
+Mirdif,Morning,Thursday,0,1,3,53
+Mirdif,Morning,Friday,1,1,8,
+Mirdif,Morning,Saturday,1,1,8,28
+Mirdif,Morning,Sunday,1,0,5,
+Mirdif,Afternoon,Monday,0,0,0,
+Mirdif,Afternoon,Tuesday,1,0,5,29
+Mirdif,Afternoon,Wednesday,1,1,8,
+Mirdif,Afternoon,Thursday,1,0,5,25
+Mirdif,Afternoon,Friday,0,1,3,26
+Mirdif,Afternoon,Saturday,1,0,5,38
+Mirdif,Afternoon,Sunday,0,0,0,35
+Mirdif,Evening,Monday,2,1,13,40
+Mirdif,Evening,Tuesday,1,0,5,30
+Mirdif,Evening,Wednesday,1,0,5,19
+Mirdif,Evening,Thursday,1,1,8,20
+Mirdif,Evening,Friday,0,0,0,
+Mirdif,Evening,Saturday,2,0,10,26
+Mirdif,Evening,Sunday,0,0,0,55
+DIFC,Morning,Monday,8,4,52,23
+DIFC,Morning,Tuesday,8,4,52,45
+DIFC,Morning,Wednesday,12,8,84,25
+DIFC,Morning,Thursday,12,4,72,34
+DIFC,Morning,Friday,4,0,20,33
+DIFC,Morning,Saturday,1,0,5,33
+DIFC,Morning,Sunday,1,0,5,44
+DIFC,Afternoon,Monday,12,8,84,31
+DIFC,Afternoon,Tuesday,4,8,44,38
+DIFC,Afternoon,Wednesday,4,8,44,47
+DIFC,Afternoon,Thursday,8,8,64,24
+DIFC,Afternoon,Friday,1,1,8,24
+DIFC,Afternoon,Saturday,1,3,14,35
+DIFC,Afternoon,Sunday,6,3,39,38
+DIFC,Evening,Monday,4,0,20,29
+DIFC,Evening,Tuesday,6,4,42,
+DIFC,Evening,Wednesday,2,2,16,20
+DIFC,Evening,Thursday,4,0,20,34
+DIFC,Evening,Friday,6,1,33,25
+DIFC,Evening,Saturday,4,3,29,34
+DIFC,Evening,Sunday,1,1,8,
+Knowledge Village,Morning,Monday,14,0,70,42
+Knowledge Village,Morning,Tuesday,9,4,57,45
+Knowledge Village,Morning,Wednesday,14,0,70,41
+Knowledge Village,Morning,Thursday,19,4,107,25
+Knowledge Village,Morning,Friday,1,1,8,29
+Knowledge Village,Morning,Saturday,3,0,15,46
+Knowledge Village,Morning,Sunday,7,0,35,37
+Knowledge Village,Afternoon,Monday,19,0,95,
+Knowledge Village,Afternoon,Tuesday,14,4,82,49
+Knowledge Village,Afternoon,Wednesday,14,9,97,39
+Knowledge Village,Afternoon,Thursday,9,4,57,25
+Knowledge Village,Afternoon,Friday,4,3,29,26
+Knowledge Village,Afternoon,Saturday,7,0,35,34
+Knowledge Village,Afternoon,Sunday,7,0,35,22
+Knowledge Village,Evening,Monday,4,0,20,48
+Knowledge Village,Evening,Tuesday,2,2,16,
+Knowledge Village,Evening,Wednesday,2,4,22,47
+Knowledge Village,Evening,Thursday,7,2,41,20
+Knowledge Village,Evening,Friday,7,0,35,
+Knowledge Village,Evening,Saturday,3,3,24,21
+Knowledge Village,Evening,Sunday,4,3,29,23
+Dubai Mall,Morning,Monday,4,2,26,49
+Dubai Mall,Morning,Tuesday,4,1,23,40
+Dubai Mall,Morning,Wednesday,2,1,13,32
+Dubai Mall,Morning,Thursday,1,2,11,38
+Dubai Mall,Morning,Friday,4,4,32,
+Dubai Mall,Morning,Saturday,16,4,92,32
+Dubai Mall,Morning,Sunday,12,8,84,30
+Dubai Mall,Afternoon,Monday,3,0,15,39
+Dubai Mall,Afternoon,Tuesday,3,1,18,25
+Dubai Mall,Afternoon,Wednesday,3,1,18,
+Dubai Mall,Afternoon,Thursday,4,2,26,43
+Dubai Mall,Afternoon,Friday,8,8,64,50
+Dubai Mall,Afternoon,Saturday,16,8,104,19
+Dubai Mall,Afternoon,Sunday,12,4,72,
+Dubai Mall,Evening,Monday,1,0,5,19
+Dubai Mall,Evening,Tuesday,1,2,11,23
+Dubai Mall,Evening,Wednesday,4,2,26,28
+Dubai Mall,Evening,Thursday,3,2,21,33
+Dubai Mall,Evening,Friday,16,4,92,54
+Dubai Mall,Evening,Saturday,4,4,32,33
+Dubai Mall,Evening,Sunday,4,8,44,26
+Deira,Morning,Tuesday,1,0,5,37
+Deira,Morning,Wednesday,0,0,0,43
+Deira,Evening,Tuesday,0,0,0,38
+Deira,Morning,Thursday,2,1,13,45
+Deira,Morning,Friday,1,0,5,42
+Deira,Morning,Saturday,0,1,3,45
+Deira,Afternoon,Wednesday,1,0,5,42
+Deira,Afternoon,Saturday,0,1,3,36
+Deira,Afternoon,Sunday,1,0,5,44
+Deira,Evening,Wednesday,2,0,10,44
+Deira,Morning,Monday,2,0,10,36
+Deira,Morning,Thursday,0,0,0,40
+Deira,Morning,Sunday,1,1,8,36
+Deira,Afternoon,Sunday,1,1,8,42
+Deira,Evening,Monday,2,0,10,40
+Deira,Morning,Friday,1,1,8,43
+Deira,Evening,Tuesday,0,0,0,39
+Deira,Evening,Saturday,2,1,13,39
+Deira,Morning,Wednesday,1,1,8,43
+Deira,Morning,Sunday,1,0,5,39
+Deira,Afternoon,Saturday,1,1,8,40
+Mirdif,Morning,Monday,1,0,5,46
+Mirdif,Morning,Tuesday,2,1,13,23
+Mirdif,Morning,Wednesday,2,0,10,
+Mirdif,Morning,Thursday,2,1,13,50
+Mirdif,Morning,Friday,0,0,0,38
+Mirdif,Morning,Saturday,2,0,10,
+Mirdif,Morning,Sunday,1,0,5,29
+Mirdif,Afternoon,Monday,0,0,0,
+Mirdif,Afternoon,Tuesday,1,0,5,39
+Mirdif,Afternoon,Wednesday,1,0,5,45
+Mirdif,Afternoon,Thursday,2,0,10,43
+Mirdif,Afternoon,Friday,1,0,5,26
+Mirdif,Afternoon,Saturday,1,1,8,47
+Mirdif,Afternoon,Sunday,0,0,0,51
+Mirdif,Evening,Monday,1,0,5,30
+Mirdif,Evening,Tuesday,1,0,5,
+Mirdif,Evening,Wednesday,1,0,5,29
+Mirdif,Evening,Thursday,1,0,5,47
+Mirdif,Evening,Friday,2,1,13,
+Mirdif,Evening,Saturday,0,0,0,37
+Mirdif,Evening,Sunday,1,1,8,45
+DIFC,Morning,Monday,4,4,32,20
+DIFC,Morning,Tuesday,4,0,20,18
+DIFC,Morning,Wednesday,4,8,44,
+DIFC,Morning,Thursday,4,0,20,
+DIFC,Morning,Friday,3,3,24,40
+DIFC,Morning,Saturday,4,1,23,26
+DIFC,Morning,Sunday,1,3,14,46
+DIFC,Afternoon,Monday,12,8,84,34
+DIFC,Afternoon,Tuesday,4,4,32,28
+DIFC,Afternoon,Wednesday,16,4,92,49
+DIFC,Afternoon,Thursday,16,4,92,46
+DIFC,Afternoon,Friday,1,3,14,51
+DIFC,Afternoon,Saturday,6,0,30,49
+DIFC,Afternoon,Sunday,3,3,24,22
+DIFC,Evening,Monday,4,4,32,33
+DIFC,Evening,Tuesday,2,4,22,
+DIFC,Evening,Wednesday,6,4,42,
+DIFC,Evening,Thursday,6,4,42,52
+DIFC,Evening,Friday,1,3,14,33
+DIFC,Evening,Saturday,1,0,5,49
+DIFC,Evening,Sunday,4,1,23,
+Knowledge Village,Morning,Monday,14,4,82,
+Knowledge Village,Morning,Tuesday,19,0,95,
+Knowledge Village,Morning,Wednesday,19,0,95,18
+Knowledge Village,Morning,Thursday,9,9,72,29
+Knowledge Village,Morning,Friday,3,3,24,28
+Knowledge Village,Morning,Saturday,4,1,23,25
+Knowledge Village,Morning,Sunday,4,0,20,44
+Knowledge Village,Afternoon,Monday,14,4,82,31
+Knowledge Village,Afternoon,Tuesday,14,0,70,27
+Knowledge Village,Afternoon,Wednesday,4,0,20,44
+Knowledge Village,Afternoon,Thursday,9,0,45,39
+Knowledge Village,Afternoon,Friday,7,1,38,20
+Knowledge Village,Afternoon,Saturday,1,0,5,44
+Knowledge Village,Afternoon,Sunday,7,1,38,36
+Knowledge Village,Evening,Monday,7,2,41,
+Knowledge Village,Evening,Tuesday,9,2,51,25
+Knowledge Village,Evening,Wednesday,7,4,47,27
+Knowledge Village,Evening,Thursday,7,0,35,32
+Knowledge Village,Evening,Friday,3,1,18,46
+Knowledge Village,Evening,Saturday,7,3,44,37
+Knowledge Village,Evening,Sunday,4,0,20,24
+Dubai Mall,Morning,Monday,2,0,10,50
+Dubai Mall,Morning,Tuesday,4,0,20,27
+Dubai Mall,Morning,Wednesday,2,2,16,
+Dubai Mall,Morning,Thursday,1,2,11,21
+Dubai Mall,Morning,Friday,4,4,32,19
+Dubai Mall,Morning,Saturday,12,4,72,54
+Dubai Mall,Morning,Sunday,12,0,60,38
+Dubai Mall,Afternoon,Monday,2,2,16,20
+Dubai Mall,Afternoon,Tuesday,2,2,16,35
+Dubai Mall,Afternoon,Wednesday,1,2,11,37
+Dubai Mall,Afternoon,Thursday,2,0,10,39
+Dubai Mall,Afternoon,Friday,4,8,44,21
+Dubai Mall,Afternoon,Saturday,16,8,104,22
+Dubai Mall,Afternoon,Sunday,16,0,80,
+Dubai Mall,Evening,Monday,3,0,15,19
+Dubai Mall,Evening,Tuesday,1,0,5,24
+Dubai Mall,Evening,Wednesday,2,0,10,34
+Dubai Mall,Evening,Thursday,3,0,15,47
+Dubai Mall,Evening,Friday,12,8,84,44
+Dubai Mall,Evening,Saturday,16,4,92,21
+Dubai Mall,Evening,Sunday,8,8,64,26
+Deira,Evening,Sunday,0,0,0,40
+Deira,Afternoon,Wednesday,1,1,8,37
+Deira,Afternoon,Sunday,1,0,5,43
+Deira,Evening,Tuesday,1,0,5,43
+Deira,Evening,Wednesday,1,1,8,43
+Deira,Evening,Thursday,2,0,10,42
+Deira,Evening,Saturday,1,1,8,40
+Deira,Afternoon,Monday,2,0,10,39
+Deira,Morning,Monday,2,0,10,39
+Deira,Afternoon,Wednesday,0,0,0,36
+Deira,Afternoon,Saturday,2,0,10,44
+Deira,Morning,Thursday,0,1,3,36
+Deira,Afternoon,Tuesday,1,0,5,44
+Deira,Afternoon,Wednesday,0,1,3,38
+Deira,Evening,Thursday,1,1,8,37
+Deira,Evening,Saturday,2,1,13,37
+Deira,Morning,Monday,1,1,8,36
+Deira,Morning,Saturday,1,0,5,44
+Deira,Afternoon,Wednesday,1,0,5,39
+Deira,Afternoon,Sunday,0,0,0,42
+Deira,Evening,Sunday,2,0,10,39
+Mirdif,Morning,Monday,0,0,0,40
+Mirdif,Morning,Tuesday,1,0,5,25
+Mirdif,Morning,Wednesday,1,0,5,
+Mirdif,Morning,Thursday,2,1,13,
+Mirdif,Morning,Friday,0,0,0,50
+Mirdif,Morning,Saturday,2,0,10,21
+Mirdif,Morning,Sunday,1,0,5,
+Mirdif,Afternoon,Monday,1,1,8,36
+Mirdif,Afternoon,Tuesday,2,1,13,47
+Mirdif,Afternoon,Wednesday,0,0,0,
+Mirdif,Afternoon,Thursday,0,0,0,21
+Mirdif,Afternoon,Friday,1,0,5,
+Mirdif,Afternoon,Saturday,0,0,0,39
+Mirdif,Afternoon,Sunday,1,0,5,
+Mirdif,Evening,Monday,1,0,5,
+Mirdif,Evening,Tuesday,1,1,8,42
+Mirdif,Evening,Wednesday,1,1,8,35
+Mirdif,Evening,Thursday,1,1,8,
+Mirdif,Evening,Friday,1,0,5,33
+Mirdif,Evening,Saturday,0,0,0,35
+Mirdif,Evening,Sunday,1,0,5,37
+DIFC,Morning,Monday,16,0,80,36
+DIFC,Morning,Tuesday,4,4,32,19
+DIFC,Morning,Wednesday,4,0,20,
+DIFC,Morning,Thursday,12,0,60,18
+DIFC,Morning,Friday,3,0,15,19
+DIFC,Morning,Saturday,6,0,30,32
+DIFC,Morning,Sunday,6,3,39,53
+DIFC,Afternoon,Monday,12,8,84,46
+DIFC,Afternoon,Tuesday,8,4,52,18
+DIFC,Afternoon,Wednesday,12,0,60,
+DIFC,Afternoon,Thursday,4,0,20,29
+DIFC,Afternoon,Friday,1,0,5,52
+DIFC,Afternoon,Saturday,4,3,29,
+DIFC,Afternoon,Sunday,6,1,33,50
+DIFC,Evening,Monday,6,0,30,26
+DIFC,Evening,Tuesday,2,0,10,24
+DIFC,Evening,Wednesday,8,4,52,52
+DIFC,Evening,Thursday,8,2,46,52
+DIFC,Evening,Friday,4,3,29,24
+DIFC,Evening,Saturday,6,0,30,
+DIFC,Evening,Sunday,6,1,33,38
+Knowledge Village,Morning,Monday,19,0,95,52
+Knowledge Village,Morning,Tuesday,14,0,70,21
+Knowledge Village,Morning,Wednesday,14,4,82,55
+Knowledge Village,Morning,Thursday,14,9,97,29
+Knowledge Village,Morning,Friday,1,0,5,29
+Knowledge Village,Morning,Saturday,7,1,38,48
+Knowledge Village,Morning,Sunday,7,0,35,29
+Knowledge Village,Afternoon,Monday,19,0,95,20
+Knowledge Village,Afternoon,Tuesday,9,9,72,32
+Knowledge Village,Afternoon,Wednesday,4,0,20,45
+Knowledge Village,Afternoon,Thursday,9,0,45,20
+Knowledge Village,Afternoon,Friday,7,3,44,46
+Knowledge Village,Afternoon,Saturday,4,0,20,40
+Knowledge Village,Afternoon,Sunday,3,3,24,46
+Knowledge Village,Evening,Monday,9,2,51,34
+Knowledge Village,Evening,Tuesday,7,4,47,
+Knowledge Village,Evening,Wednesday,4,0,20,49
+Knowledge Village,Evening,Thursday,2,4,22,
+Knowledge Village,Evening,Friday,3,0,15,52
+Knowledge Village,Evening,Saturday,4,3,29,23
+Knowledge Village,Evening,Sunday,7,1,38,
+Dubai Mall,Morning,Monday,2,2,16,46
+Dubai Mall,Morning,Tuesday,2,2,16,
+Dubai Mall,Morning,Wednesday,3,0,15,46
+Dubai Mall,Morning,Thursday,2,0,10,27
+Dubai Mall,Morning,Friday,12,8,84,37
+Dubai Mall,Morning,Saturday,8,4,52,55
+Dubai Mall,Morning,Sunday,4,8,44,24
+Dubai Mall,Afternoon,Monday,3,0,15,18
+Dubai Mall,Afternoon,Tuesday,4,2,26,48
+Dubai Mall,Afternoon,Wednesday,3,1,18,
+Dubai Mall,Afternoon,Thursday,1,2,11,
+Dubai Mall,Afternoon,Friday,4,0,20,55
+Dubai Mall,Afternoon,Saturday,8,8,64,
+Dubai Mall,Afternoon,Sunday,16,8,104,24
+Dubai Mall,Evening,Monday,1,1,8,41
+Dubai Mall,Evening,Tuesday,4,1,23,26
+Dubai Mall,Evening,Wednesday,1,2,11,40
+Dubai Mall,Evening,Thursday,2,1,13,
+Dubai Mall,Evening,Friday,4,4,32,
+Dubai Mall,Evening,Saturday,16,0,80,19
+Dubai Mall,Evening,Sunday,16,0,80,53
+Deira,Morning,Wednesday,1,0,5,41
+Deira,Afternoon,Wednesday,1,1,8,44
+Deira,Afternoon,Saturday,0,1,3,37
+Deira,Morning,Tuesday,0,0,0,38
+Deira,Evening,Monday,0,1,3,40
+Deira,Morning,Tuesday,1,1,8,42
+Deira,Morning,Thursday,2,1,13,42
+Deira,Morning,Friday,0,0,0,44
+Deira,Afternoon,Friday,2,0,10,42
+Deira,Evening,Sunday,1,1,8,41
+Deira,Morning,Friday,1,0,5,45
+Deira,Morning,Tuesday,0,0,0,36
+Deira,Afternoon,Friday,0,0,0,45
+Deira,Evening,Monday,2,1,13,41
+Deira,Afternoon,Monday,1,1,8,40
+Deira,Afternoon,Thursday,1,0,5,44
+Deira,Afternoon,Saturday,1,1,8,42
+Deira,Afternoon,Sunday,1,0,5,42
+Deira,Evening,Monday,1,0,5,41
+Deira,Evening,Friday,0,0,0,39
+Deira,Morning,Wednesday,0,0,0,43
+Mirdif,Morning,Monday,2,1,13,20
+Mirdif,Morning,Tuesday,2,0,10,32
+Mirdif,Morning,Wednesday,1,0,5,52
+Mirdif,Morning,Thursday,1,0,5,48
+Mirdif,Morning,Friday,1,0,5,26
+Mirdif,Morning,Saturday,1,0,5,45
+Mirdif,Morning,Sunday,1,1,8,22
+Mirdif,Afternoon,Monday,2,0,10,36
+Mirdif,Afternoon,Tuesday,0,0,0,
+Mirdif,Afternoon,Wednesday,0,0,0,19
+Mirdif,Afternoon,Thursday,1,1,8,24
+Mirdif,Afternoon,Friday,1,1,8,50
+Mirdif,Afternoon,Saturday,1,1,8,48
+Mirdif,Afternoon,Sunday,0,1,3,52
+Mirdif,Evening,Monday,1,0,5,55
+Mirdif,Evening,Tuesday,2,1,13,31
+Mirdif,Evening,Wednesday,1,0,5,
+Mirdif,Evening,Thursday,0,1,3,42
+Mirdif,Evening,Friday,2,1,13,18
+Mirdif,Evening,Saturday,0,0,0,
+Mirdif,Evening,Sunday,0,1,3,40
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Tuesday,16,0,80,52
+DIFC,Morning,Wednesday,4,4,32,
+DIFC,Morning,Thursday,12,0,60,48
+DIFC,Morning,Friday,6,0,30,34
+DIFC,Morning,Saturday,3,0,15,
+DIFC,Morning,Sunday,3,1,18,18
+DIFC,Afternoon,Monday,16,0,80,21
+DIFC,Afternoon,Tuesday,8,4,52,
+DIFC,Afternoon,Wednesday,8,4,52,48
+DIFC,Afternoon,Thursday,4,0,20,18
+DIFC,Afternoon,Friday,3,1,18,
+DIFC,Afternoon,Saturday,4,0,20,42
+DIFC,Afternoon,Sunday,1,3,14,25
+DIFC,Evening,Monday,8,2,46,40
+DIFC,Evening,Tuesday,4,4,32,
+DIFC,Evening,Wednesday,8,4,52,38
+DIFC,Evening,Thursday,6,2,36,38
+DIFC,Evening,Friday,3,1,18,
+DIFC,Evening,Saturday,4,1,23,39
+DIFC,Evening,Sunday,3,3,24,
+Knowledge Village,Morning,Monday,4,9,47,26
+Knowledge Village,Morning,Tuesday,14,4,82,
+Knowledge Village,Morning,Wednesday,9,9,72,33
+Knowledge Village,Morning,Thursday,4,9,47,41
+Knowledge Village,Morning,Friday,4,1,23,
+Knowledge Village,Morning,Saturday,1,3,14,53
+Knowledge Village,Morning,Sunday,7,3,44,48
+Knowledge Village,Afternoon,Monday,9,9,72,25
+Knowledge Village,Afternoon,Tuesday,9,9,72,18
+Knowledge Village,Afternoon,Wednesday,9,0,45,39
+Knowledge Village,Afternoon,Thursday,9,9,72,19
+Knowledge Village,Afternoon,Friday,4,1,23,31
+Knowledge Village,Afternoon,Saturday,3,0,15,25
+Knowledge Village,Afternoon,Sunday,7,0,35,18
+Knowledge Village,Evening,Monday,9,2,51,45
+Knowledge Village,Evening,Tuesday,4,2,26,54
+Knowledge Village,Evening,Wednesday,7,2,41,22
+Knowledge Village,Evening,Thursday,9,4,57,25
+Knowledge Village,Evening,Friday,7,3,44,44
+Knowledge Village,Evening,Saturday,4,0,20,31
+Knowledge Village,Evening,Sunday,3,1,18,41
+Dubai Mall,Morning,Monday,1,2,11,
+Dubai Mall,Morning,Tuesday,3,1,18,31
+Dubai Mall,Morning,Wednesday,2,2,16,47
+Dubai Mall,Morning,Thursday,1,2,11,18
+Dubai Mall,Morning,Friday,16,4,92,27
+Dubai Mall,Morning,Saturday,12,4,72,45
+Dubai Mall,Morning,Sunday,12,8,84,49
+Dubai Mall,Afternoon,Monday,1,0,5,18
+Dubai Mall,Afternoon,Tuesday,3,1,18,
+Dubai Mall,Afternoon,Wednesday,2,0,10,
+Dubai Mall,Afternoon,Thursday,3,1,18,
+Dubai Mall,Afternoon,Friday,12,8,84,29
+Dubai Mall,Afternoon,Saturday,8,0,40,37
+Dubai Mall,Afternoon,Sunday,16,8,104,18
+Dubai Mall,Evening,Monday,2,2,16,27
+Dubai Mall,Evening,Tuesday,1,2,11,27
+Dubai Mall,Evening,Wednesday,1,0,5,39
+Dubai Mall,Evening,Thursday,4,1,23,55
+Dubai Mall,Evening,Friday,12,0,60,40
+Dubai Mall,Evening,Saturday,4,4,32,45
+Dubai Mall,Evening,Sunday,4,0,20,20
+Deira,Afternoon,Tuesday,1,0,5,41
+Deira,Afternoon,Saturday,1,0,5,39
+Deira,Evening,Monday,0,1,3,43
+Deira,Morning,Thursday,2,1,13,36
+Deira,Afternoon,Monday,1,1,8,41
+Deira,Afternoon,Friday,1,0,5,38
+Deira,Morning,Monday,1,1,8,53
+Deira,Morning,Tuesday,2,0,10,51
+Deira,Morning,Wednesday,1,1,8,46
+Deira,Morning,Sunday,0,1,3,55
+Deira,Afternoon,Monday,1,0,5,48
+Deira,Afternoon,Tuesday,0,1,3,54
+Deira,Afternoon,Thursday,1,0,5,50
+Deira,Afternoon,Friday,1,0,5,47
+Deira,Afternoon,Sunday,1,0,5,54
+Deira,Evening,Tuesday,2,0,10,53
+Deira,Evening,Wednesday,0,1,3,50
+Deira,Evening,Friday,1,0,5,49
+Deira,Evening,Saturday,1,1,8,50
+Deira,Evening,Sunday,2,1,13,53
+Deira,Morning,Monday,0,1,3,51
+Mirdif,Morning,Monday,0,0,0,51
+Mirdif,Morning,Tuesday,1,0,5,46
+Mirdif,Morning,Wednesday,2,1,13,46
+Mirdif,Morning,Thursday,2,0,10,21
+Mirdif,Morning,Friday,1,0,5,
+Mirdif,Morning,Saturday,1,0,5,
+Mirdif,Morning,Sunday,0,0,0,54
+Mirdif,Afternoon,Monday,1,0,5,
+Mirdif,Afternoon,Tuesday,0,0,0,36
+Mirdif,Afternoon,Wednesday,0,0,0,
+Mirdif,Afternoon,Thursday,1,1,8,19
+Mirdif,Afternoon,Friday,2,0,10,32
+Mirdif,Afternoon,Saturday,0,0,0,49
+Mirdif,Afternoon,Sunday,2,1,13,34
+Mirdif,Evening,Monday,1,1,8,28
+Mirdif,Evening,Tuesday,0,0,0,
+Mirdif,Evening,Wednesday,0,0,0,19
+Mirdif,Evening,Thursday,0,1,3,37
+Mirdif,Evening,Friday,1,0,5,22
+Mirdif,Evening,Saturday,1,1,8,
+Mirdif,Evening,Sunday,1,1,8,
+DIFC,Morning,Monday,8,8,64,31
+DIFC,Morning,Tuesday,4,8,44,
+DIFC,Morning,Wednesday,4,4,32,40
+DIFC,Morning,Thursday,8,4,52,24
+DIFC,Morning,Friday,3,0,15,21
+DIFC,Morning,Saturday,3,1,18,40
+DIFC,Morning,Sunday,6,0,30,33
+DIFC,Afternoon,Monday,4,4,32,49
+DIFC,Afternoon,Tuesday,4,4,32,55
+DIFC,Afternoon,Wednesday,8,8,64,28
+DIFC,Afternoon,Thursday,4,0,20,37
+DIFC,Afternoon,Friday,1,0,5,41
+DIFC,Afternoon,Saturday,6,1,33,
+DIFC,Afternoon,Sunday,1,0,5,20
+DIFC,Evening,Monday,6,2,36,55
+DIFC,Evening,Tuesday,2,2,16,54
+DIFC,Evening,Wednesday,6,4,42,50
+DIFC,Evening,Thursday,2,4,22,43
+DIFC,Evening,Friday,6,1,33,
+DIFC,Evening,Saturday,4,1,23,55
+DIFC,Evening,Sunday,3,0,15,35
+Knowledge Village,Morning,Monday,4,0,20,55
+Knowledge Village,Morning,Tuesday,9,9,72,18
+Knowledge Village,Morning,Wednesday,4,4,32,54
+Knowledge Village,Morning,Thursday,19,4,107,51
+Knowledge Village,Morning,Friday,7,3,44,35
+Knowledge Village,Morning,Saturday,7,3,44,43
+Knowledge Village,Morning,Sunday,4,1,23,20
+Knowledge Village,Afternoon,Monday,14,4,82,40
+Knowledge Village,Afternoon,Tuesday,9,0,45,37
+Knowledge Village,Afternoon,Wednesday,19,4,107,33
+Knowledge Village,Afternoon,Thursday,19,0,95,
+Knowledge Village,Afternoon,Friday,7,0,35,48
+Knowledge Village,Afternoon,Saturday,4,3,29,41
+Knowledge Village,Afternoon,Sunday,1,3,14,
+Knowledge Village,Evening,Monday,9,4,57,27
+Knowledge Village,Evening,Tuesday,9,2,51,29
+Knowledge Village,Evening,Wednesday,4,2,26,44
+Knowledge Village,Evening,Thursday,4,4,32,40
+Knowledge Village,Evening,Friday,7,0,35,53
+Knowledge Village,Evening,Saturday,3,3,24,28
+Knowledge Village,Evening,Sunday,4,1,23,33
+Dubai Mall,Morning,Monday,1,2,11,53
+Dubai Mall,Morning,Tuesday,4,0,20,25
+Dubai Mall,Morning,Wednesday,1,2,11,39
+Dubai Mall,Morning,Thursday,3,0,15,39
+Dubai Mall,Morning,Friday,16,4,92,29
+Dubai Mall,Morning,Saturday,16,8,104,
+Dubai Mall,Morning,Sunday,16,4,92,50
+Dubai Mall,Afternoon,Monday,3,2,21,53
+Dubai Mall,Afternoon,Tuesday,3,2,21,
+Dubai Mall,Afternoon,Wednesday,3,2,21,
+Dubai Mall,Afternoon,Thursday,3,1,18,36
+Dubai Mall,Afternoon,Friday,8,4,52,27
+Dubai Mall,Afternoon,Saturday,12,4,72,52
+Dubai Mall,Afternoon,Sunday,8,8,64,35
+Dubai Mall,Evening,Monday,1,2,11,
+Dubai Mall,Evening,Tuesday,2,2,16,
+Dubai Mall,Evening,Wednesday,4,2,26,51
+Dubai Mall,Evening,Thursday,1,1,8,41
+Dubai Mall,Evening,Friday,4,8,44,45
+Dubai Mall,Evening,Saturday,4,4,32,34
+Dubai Mall,Evening,Sunday,8,4,52,29
+Deira,Morning,Saturday,1,0,5,54
+Deira,Morning,Sunday,1,0,5,52
+Deira,Afternoon,Monday,1,0,5,52
+Deira,Afternoon,Tuesday,0,0,0,49
+Deira,Afternoon,Wednesday,0,0,0,49
+Deira,Afternoon,Thursday,2,1,13,54
+Deira,Afternoon,Sunday,1,0,5,46
+Deira,Evening,Monday,1,0,5,48
+Deira,Evening,Thursday,1,0,5,47
+Deira,Evening,Friday,1,0,5,48
+Deira,Evening,Saturday,0,0,0,46
+Deira,Evening,Sunday,2,0,10,51
+Deira,Morning,Sunday,1,0,5,53
+Deira,Afternoon,Monday,2,1,13,55
+Deira,Afternoon,Tuesday,1,1,8,50
+Deira,Afternoon,Thursday,1,0,5,53
+Deira,Evening,Thursday,1,0,5,47
+Deira,Morning,Saturday,0,1,3,47
+Deira,Afternoon,Tuesday,1,1,8,46
+Deira,Afternoon,Thursday,0,0,0,47
+Deira,Morning,Wednesday,2,0,10,48
+Mirdif,Morning,Monday,2,0,10,47
+Mirdif,Morning,Tuesday,1,0,5,
+Mirdif,Morning,Wednesday,2,1,13,54
+Mirdif,Morning,Thursday,0,0,0,46
+Mirdif,Morning,Friday,1,0,5,22
+Mirdif,Morning,Saturday,1,0,5,22
+Mirdif,Morning,Sunday,1,1,8,
+Mirdif,Afternoon,Monday,0,1,3,54
+Mirdif,Afternoon,Tuesday,1,1,8,42
+Mirdif,Afternoon,Wednesday,2,1,13,29
+Mirdif,Afternoon,Thursday,1,0,5,
+Mirdif,Afternoon,Friday,1,0,5,
+Mirdif,Afternoon,Saturday,1,0,5,43
+Mirdif,Afternoon,Sunday,1,0,5,53
+Mirdif,Evening,Monday,0,1,3,28
+Mirdif,Evening,Tuesday,1,1,8,
+Mirdif,Evening,Wednesday,1,0,5,22
+Mirdif,Evening,Thursday,1,1,8,20
+Mirdif,Evening,Friday,1,0,5,
+Mirdif,Evening,Saturday,1,0,5,48
+Mirdif,Evening,Sunday,0,0,0,
+DIFC,Morning,Monday,16,0,80,37
+DIFC,Morning,Tuesday,8,8,64,53
+DIFC,Morning,Wednesday,4,0,20,36
+DIFC,Morning,Thursday,4,0,20,27
+DIFC,Morning,Friday,4,0,20,27
+DIFC,Morning,Saturday,3,1,18,26
+DIFC,Morning,Sunday,4,1,23,33
+DIFC,Afternoon,Monday,8,8,64,
+DIFC,Afternoon,Tuesday,16,8,104,21
+DIFC,Afternoon,Wednesday,4,4,32,42
+DIFC,Afternoon,Thursday,4,4,32,41
+DIFC,Afternoon,Friday,6,0,30,32
+DIFC,Afternoon,Saturday,4,0,20,40
+DIFC,Afternoon,Sunday,3,1,18,28
+DIFC,Evening,Monday,6,4,42,42
+DIFC,Evening,Tuesday,2,0,10,
+DIFC,Evening,Wednesday,6,2,36,43
+DIFC,Evening,Thursday,8,0,40,
+DIFC,Evening,Friday,1,1,8,49
+DIFC,Evening,Saturday,1,1,8,48
+DIFC,Evening,Sunday,6,3,39,
+Knowledge Village,Morning,Monday,19,9,122,52
+Knowledge Village,Morning,Tuesday,9,9,72,40
+Knowledge Village,Morning,Wednesday,4,4,32,23
+Knowledge Village,Morning,Thursday,9,4,57,38
+Knowledge Village,Morning,Friday,3,3,24,26
+Knowledge Village,Morning,Saturday,1,0,5,19
+Knowledge Village,Morning,Sunday,1,3,14,55
+Knowledge Village,Afternoon,Monday,14,4,82,31
+Knowledge Village,Afternoon,Tuesday,19,4,107,
+Knowledge Village,Afternoon,Wednesday,4,9,47,39
+Knowledge Village,Afternoon,Thursday,9,0,45,
+Knowledge Village,Afternoon,Friday,4,0,20,39
+Knowledge Village,Afternoon,Saturday,3,0,15,35
+Knowledge Village,Afternoon,Sunday,1,1,8,48
+Knowledge Village,Evening,Monday,9,4,57,21
+Knowledge Village,Evening,Tuesday,4,4,32,21
+Knowledge Village,Evening,Wednesday,4,2,26,50
+Knowledge Village,Evening,Thursday,4,4,32,27
+Knowledge Village,Evening,Friday,7,1,38,50
+Knowledge Village,Evening,Saturday,3,1,18,29
+Knowledge Village,Evening,Sunday,4,3,29,31
+Dubai Mall,Morning,Monday,4,1,23,47
+Dubai Mall,Morning,Tuesday,1,0,5,
+Dubai Mall,Morning,Wednesday,2,1,13,52
+Dubai Mall,Morning,Thursday,4,2,26,23
+Dubai Mall,Morning,Friday,16,0,80,29
+Dubai Mall,Morning,Saturday,12,4,72,29
+Dubai Mall,Morning,Sunday,12,8,84,
+Dubai Mall,Afternoon,Monday,3,1,18,40
+Dubai Mall,Afternoon,Tuesday,3,1,18,30
+Dubai Mall,Afternoon,Wednesday,3,0,15,24
+Dubai Mall,Afternoon,Thursday,3,0,15,45
+Dubai Mall,Afternoon,Friday,16,8,104,34
+Dubai Mall,Afternoon,Saturday,16,4,92,51
+Dubai Mall,Afternoon,Sunday,8,0,40,36
+Dubai Mall,Evening,Monday,2,2,16,37
+Dubai Mall,Evening,Tuesday,4,0,20,25
+Dubai Mall,Evening,Wednesday,4,1,23,40
+Dubai Mall,Evening,Thursday,4,1,23,
+Dubai Mall,Evening,Friday,16,4,92,38
+Dubai Mall,Evening,Saturday,8,0,40,25
+Dubai Mall,Evening,Sunday,12,4,72,33
+Deira,Afternoon,Thursday,2,0,10,53
+Deira,Evening,Monday,0,0,0,50
+Deira,Evening,Sunday,2,1,13,50
+Deira,Afternoon,Wednesday,1,0,5,47
+Deira,Evening,Monday,1,0,5,50
+Deira,Evening,Wednesday,1,1,8,46
+Deira,Evening,Thursday,1,0,5,53
+Deira,Evening,Saturday,1,0,5,46
+Deira,Morning,Wednesday,1,1,8,51
+Deira,Evening,Friday,2,0,10,51
+Deira,Morning,Monday,2,0,10,49
+Deira,Morning,Wednesday,0,1,3,48
+Deira,Afternoon,Saturday,1,1,8,50
+Deira,Evening,Monday,1,1,8,47
+Deira,Evening,Friday,1,1,8,54
+Deira,Afternoon,Monday,0,0,0,49
+Deira,Afternoon,Friday,1,1,8,54
+Deira,Evening,Friday,1,1,8,54
+Deira,Morning,Tuesday,2,0,10,54
+Deira,Morning,Saturday,0,0,0,50
+Deira,Afternoon,Thursday,1,0,5,54
+Mirdif,Morning,Monday,1,1,8,
+Mirdif,Morning,Tuesday,1,1,8,25
+Mirdif,Morning,Wednesday,0,0,0,21
+Mirdif,Morning,Thursday,1,1,8,39
+Mirdif,Morning,Friday,2,1,13,
+Mirdif,Morning,Saturday,1,0,5,25
+Mirdif,Morning,Sunday,1,0,5,42
+Mirdif,Afternoon,Monday,2,0,10,27
+Mirdif,Afternoon,Tuesday,1,0,5,49
+Mirdif,Afternoon,Wednesday,2,1,13,19
+Mirdif,Afternoon,Thursday,1,1,8,28
+Mirdif,Afternoon,Friday,0,0,0,
+Mirdif,Afternoon,Saturday,1,1,8,46
+Mirdif,Afternoon,Sunday,2,1,13,
+Mirdif,Evening,Monday,0,0,0,29
+Mirdif,Evening,Tuesday,2,0,10,23
+Mirdif,Evening,Wednesday,1,1,8,45
+Mirdif,Evening,Thursday,1,1,8,19
+Mirdif,Evening,Friday,1,0,5,41
+Mirdif,Evening,Saturday,2,0,10,42
+Mirdif,Evening,Sunday,2,0,10,
+DIFC,Morning,Monday,4,4,32,48
+DIFC,Morning,Tuesday,16,4,92,
+DIFC,Morning,Wednesday,8,0,40,29
+DIFC,Morning,Thursday,4,8,44,55
+DIFC,Morning,Friday,4,3,29,31
+DIFC,Morning,Saturday,1,3,14,
+DIFC,Morning,Sunday,1,3,14,48
+DIFC,Afternoon,Monday,12,8,84,26
+DIFC,Afternoon,Tuesday,8,0,40,45
+DIFC,Afternoon,Wednesday,16,8,104,41
+DIFC,Afternoon,Thursday,12,4,72,31
+DIFC,Afternoon,Friday,3,1,18,50
+DIFC,Afternoon,Saturday,6,1,33,
+DIFC,Afternoon,Sunday,4,0,20,39
+DIFC,Evening,Monday,6,0,30,38
+DIFC,Evening,Tuesday,6,4,42,42
+DIFC,Evening,Wednesday,6,4,42,
+DIFC,Evening,Thursday,4,4,32,42
+DIFC,Evening,Friday,1,1,8,22
+DIFC,Evening,Saturday,1,3,14,46
+DIFC,Evening,Sunday,6,0,30,43
+Knowledge Village,Morning,Monday,14,4,82,
+Knowledge Village,Morning,Tuesday,14,0,70,50
+Knowledge Village,Morning,Wednesday,14,4,82,54
+Knowledge Village,Morning,Thursday,4,0,20,44
+Knowledge Village,Morning,Friday,1,1,8,41
+Knowledge Village,Morning,Saturday,1,3,14,45
+Knowledge Village,Morning,Sunday,3,1,18,24
+Knowledge Village,Afternoon,Monday,9,0,45,38
+Knowledge Village,Afternoon,Tuesday,4,4,32,
+Knowledge Village,Afternoon,Wednesday,9,4,57,47
+Knowledge Village,Afternoon,Thursday,19,9,122,36
+Knowledge Village,Afternoon,Friday,4,1,23,
+Knowledge Village,Afternoon,Saturday,4,3,29,20
+Knowledge Village,Afternoon,Sunday,4,3,29,44
+Knowledge Village,Evening,Monday,9,0,45,
+Knowledge Village,Evening,Tuesday,2,2,16,30
+Knowledge Village,Evening,Wednesday,2,4,22,23
+Knowledge Village,Evening,Thursday,4,4,32,51
+Knowledge Village,Evening,Friday,3,1,18,18
+Knowledge Village,Evening,Saturday,1,1,8,46
+Knowledge Village,Evening,Sunday,4,3,29,
+Dubai Mall,Morning,Monday,3,0,15,
+Dubai Mall,Morning,Tuesday,4,2,26,34
+Dubai Mall,Morning,Wednesday,3,2,21,35
+Dubai Mall,Morning,Thursday,2,1,13,29
+Dubai Mall,Morning,Saturday,8,8,64,45
+Dubai Mall,Morning,Saturday,8,0,40,22
+Dubai Mall,Morning,Saturday,12,8,84,22
+Dubai Mall,Afternoon,Saturday,4,0,20,22
+Dubai Mall,Afternoon,Tuesday,4,0,20,44
+Dubai Mall,Afternoon,Saturday,2,0,10,29
+Dubai Mall,Afternoon,Thursday,2,1,13,22
+Dubai Mall,Afternoon,Friday,4,8,44,33
+Dubai Mall,Afternoon,Saturday,8,8,64,45
+Dubai Mall,Afternoon,Sunday,16,4,92,54
+Dubai Mall,Evening,Saturday,3,1,18,21
+Dubai Mall,Evening,Tuesday,3,0,15,22
+Dubai Mall,Evening,Saturday,3,2,21,33
+Dubai Mall,Evening,Thursday,4,0,20,43
+Dubai Mall,Evening,Saturday,4,4,32,23
+Dubai Mall,Evening,Saturday,12,4,72,41
+Dubai Mall,Evening,Saturday,16,4,92,
+Deira,Afternoon,Saturday,2,1,13,47
+Deira,Morning,Saturday,1,1,8,55
+Deira,Evening,Monday,0,1,3,54
+Deira,Evening,Saturday,1,1,8,49
+Deira,Morning,Friday,0,0,0,48
+Deira,Afternoon,Saturday,1,0,5,50
+Deira,Afternoon,Friday,2,0,10,50
+Deira,Evening,Thursday,1,0,5,49
+Deira,Morning,Saturday,0,1,3,54
+Deira,Morning,Saturday,2,0,10,51
+Deira,Afternoon,Saturday,1,0,5,48
+Deira,Evening,Saturday,1,0,5,51
+Deira,Evening,Thursday,2,1,13,48
+Deira,Evening,Saturday,2,0,10,53
+Deira,Morning,Monday,2,0,10,54
+Deira,Morning,Saturday,1,0,5,49
+Deira,Afternoon,Wednesday,1,0,5,54
+Deira,Evening,Monday,0,0,0,50
+Deira,Evening,Tuesday,1,1,8,53
+Deira,Evening,Thursday,0,1,3,50
+Deira,Morning,Monday,1,1,8,55
+Mirdif,Morning,Monday,1,1,8,54
+Mirdif,Morning,Tuesday,2,0,10,54
+Mirdif,Morning,Wednesday,0,0,0,37
+Mirdif,Morning,Thursday,1,0,5,18
+Mirdif,Morning,Friday,1,0,5,39
+Mirdif,Morning,Saturday,0,1,3,52
+Mirdif,Morning,Sunday,0,0,0,50
+Mirdif,Afternoon,Monday,2,0,10,
+Mirdif,Afternoon,Tuesday,1,0,5,41
+Mirdif,Afternoon,Wednesday,0,0,0,21
+Mirdif,Afternoon,Thursday,0,0,0,38
+Mirdif,Afternoon,Friday,1,0,5,28
+Mirdif,Afternoon,Saturday,2,0,10,
+Mirdif,Afternoon,Sunday,0,0,0,45
+Mirdif,Evening,Monday,2,0,10,36
+Mirdif,Evening,Tuesday,1,0,5,50
+Mirdif,Evening,Wednesday,1,0,5,
+Mirdif,Evening,Thursday,2,0,10,23
+Mirdif,Evening,Friday,1,0,5,36
+Mirdif,Evening,Saturday,1,0,5,
+Mirdif,Evening,Sunday,2,1,13,
+DIFC,Morning,Monday,12,0,60,43
+DIFC,Morning,Tuesday,4,4,32,28
+DIFC,Morning,Wednesday,12,8,84,30
+DIFC,Morning,Thursday,16,8,104,45
+DIFC,Morning,Friday,1,1,8,35
+DIFC,Morning,Saturday,6,3,39,35
+DIFC,Morning,Sunday,4,3,29,31
+DIFC,Afternoon,Monday,12,4,72,34
+DIFC,Afternoon,Tuesday,8,4,52,55
+DIFC,Afternoon,Wednesday,16,8,104,33
+DIFC,Afternoon,Thursday,4,4,32,53
+DIFC,Afternoon,Friday,1,1,8,49
+DIFC,Afternoon,Saturday,6,3,39,
+DIFC,Afternoon,Sunday,3,3,24,
+DIFC,Evening,Monday,2,4,22,49
+DIFC,Evening,Tuesday,4,4,32,
+DIFC,Evening,Wednesday,8,4,52,53
+DIFC,Evening,Thursday,4,2,26,48
+DIFC,Evening,Friday,1,0,5,
+DIFC,Evening,Saturday,1,1,8,37
+DIFC,Evening,Sunday,3,0,15,
+Knowledge Village,Morning,Monday,9,9,72,45
+Knowledge Village,Morning,Tuesday,9,4,57,21
+Knowledge Village,Morning,Wednesday,9,4,57,30
+Knowledge Village,Morning,Thursday,9,0,45,19
+Knowledge Village,Morning,Friday,4,0,20,
+Knowledge Village,Morning,Saturday,7,0,35,34
+Knowledge Village,Morning,Sunday,3,1,18,45
+Knowledge Village,Afternoon,Monday,14,4,82,18
+Knowledge Village,Afternoon,Tuesday,4,9,47,35
+Knowledge Village,Afternoon,Wednesday,19,4,107,24
+Knowledge Village,Afternoon,Thursday,4,0,20,41
+Knowledge Village,Afternoon,Friday,7,3,44,45
+Knowledge Village,Afternoon,Saturday,7,1,38,53
+Knowledge Village,Afternoon,Sunday,3,0,15,36
+Knowledge Village,Evening,Monday,7,4,47,25
+Knowledge Village,Evening,Tuesday,7,0,35,27
+Knowledge Village,Evening,Wednesday,7,4,47,
+Knowledge Village,Evening,Thursday,7,4,47,
+Knowledge Village,Evening,Friday,1,0,5,36
+Knowledge Village,Evening,Saturday,1,0,5,36
+Knowledge Village,Evening,Sunday,1,3,14,52
+Dubai Mall,Morning,Monday,1,2,11,19
+Dubai Mall,Morning,Tuesday,2,1,13,31
+Dubai Mall,Morning,Wednesday,2,0,10,22
+Dubai Mall,Morning,Thursday,2,2,16,24
+Dubai Mall,Morning,Friday,12,0,60,51
+Dubai Mall,Morning,Saturday,4,4,32,
+Dubai Mall,Morning,Sunday,4,4,32,38
+Dubai Mall,Afternoon,Monday,2,1,13,39
+Dubai Mall,Afternoon,Tuesday,2,1,13,35
+Dubai Mall,Afternoon,Wednesday,4,2,26,
+Dubai Mall,Afternoon,Thursday,2,2,16,37
+Dubai Mall,Afternoon,Friday,8,4,52,38
+Dubai Mall,Afternoon,Saturday,8,8,64,
+Dubai Mall,Afternoon,Sunday,16,0,80,47
+Dubai Mall,Evening,Monday,2,1,13,20
+Dubai Mall,Evening,Tuesday,3,0,15,32
+Dubai Mall,Evening,Wednesday,3,2,21,43
+Dubai Mall,Evening,Thursday,1,1,8,
+Dubai Mall,Evening,Friday,4,8,44,49
+Dubai Mall,Evening,Saturday,4,4,32,27
+Dubai Mall,Evening,Sunday,8,8,64,44
+Deira,Morning,Tuesday,1,0,5,55
+Deira,Morning,Wednesday,1,0,5,54
+Deira,Morning,Saturday,0,0,0,51
+Deira,Afternoon,Thursday,1,1,8,48
+Deira,Afternoon,Friday,2,0,10,46
+Deira,Evening,Monday,2,1,13,52
+Deira,Evening,Sunday,2,0,10,54
+Deira,Morning,Monday,0,1,3,48
+Deira,Morning,Thursday,0,1,3,46
+Deira,Morning,Sunday,2,1,13,52
+Deira,Afternoon,Wednesday,0,0,0,47
+Deira,Morning,Thursday,0,1,3,54
+Deira,Morning,Saturday,2,0,10,52
+Deira,Afternoon,Monday,1,0,5,48
+Deira,Afternoon,Wednesday,2,0,10,53
+Deira,Afternoon,Thursday,0,0,0,54
+Deira,Afternoon,Friday,0,0,0,55
+Deira,Morning,Sunday,1,0,5,52
+Deira,Afternoon,Tuesday,0,0,0,55
+Deira,Afternoon,Thursday,0,0,0,49
+Deira,Evening,Monday,1,1,8,52
+Mirdif,Morning,Monday,0,0,0,
+Mirdif,Morning,Tuesday,0,0,0,25
+Mirdif,Morning,Wednesday,1,0,5,26
+Mirdif,Morning,Thursday,2,0,10,
+Mirdif,Morning,Friday,2,0,10,21
+Mirdif,Morning,Saturday,1,0,5,52
+Mirdif,Morning,Sunday,0,0,0,36
+Mirdif,Afternoon,Monday,2,0,10,53
+Mirdif,Afternoon,Tuesday,1,1,8,26
+Mirdif,Afternoon,Wednesday,2,0,10,25
+Mirdif,Afternoon,Thursday,0,0,0,27
+Mirdif,Afternoon,Friday,1,0,5,42
+Mirdif,Afternoon,Saturday,1,0,5,42
+Mirdif,Afternoon,Sunday,2,0,10,48
+Mirdif,Evening,Monday,0,1,3,53
+Mirdif,Evening,Tuesday,1,1,8,27
+Mirdif,Evening,Wednesday,2,1,13,22
+Mirdif,Evening,Thursday,1,1,8,30
+Mirdif,Evening,Friday,1,0,5,
+Mirdif,Evening,Saturday,1,1,8,
+Mirdif,Evening,Sunday,2,0,10,20
+DIFC,Morning,Monday,4,8,44,52
+DIFC,Morning,Tuesday,16,4,92,18
+DIFC,Morning,Wednesday,16,4,92,22
+DIFC,Morning,Thursday,12,0,60,34
+DIFC,Morning,Friday,1,0,5,33
+DIFC,Morning,Saturday,1,0,5,40
+DIFC,Morning,Sunday,4,0,20,20
+DIFC,Afternoon,Monday,8,8,64,47
+DIFC,Afternoon,Tuesday,12,4,72,42
+DIFC,Afternoon,Wednesday,12,8,84,
+DIFC,Afternoon,Thursday,12,8,84,26
+DIFC,Afternoon,Friday,3,3,24,
+DIFC,Afternoon,Saturday,3,3,24,50
+DIFC,Afternoon,Sunday,1,1,8,19
+DIFC,Evening,Monday,8,4,52,34
+DIFC,Evening,Tuesday,4,4,32,43
+DIFC,Evening,Wednesday,4,4,32,
+DIFC,Evening,Thursday,2,2,16,23
+DIFC,Evening,Friday,4,3,29,26
+DIFC,Evening,Saturday,3,3,24,
+DIFC,Evening,Sunday,3,0,15,45
+Knowledge Village,Morning,Monday,19,0,95,42
+Knowledge Village,Morning,Tuesday,4,9,47,45
+Knowledge Village,Morning,Wednesday,9,9,72,52
+Knowledge Village,Morning,Thursday,9,9,72,20
+Knowledge Village,Morning,Friday,3,3,24,34
+Knowledge Village,Morning,Saturday,1,0,5,24
+Knowledge Village,Morning,Sunday,3,3,24,26
+Knowledge Village,Afternoon,Monday,19,9,122,24
+Knowledge Village,Afternoon,Tuesday,14,4,82,49
+Knowledge Village,Afternoon,Wednesday,9,9,72,20
+Knowledge Village,Afternoon,Thursday,4,4,32,46
+Knowledge Village,Afternoon,Friday,7,3,44,
+Knowledge Village,Afternoon,Saturday,4,1,23,21
+Knowledge Village,Afternoon,Sunday,7,0,35,31
+Knowledge Village,Evening,Monday,4,0,20,35
+Knowledge Village,Evening,Tuesday,7,2,41,49
+Knowledge Village,Evening,Wednesday,4,4,32,26
+Knowledge Village,Evening,Thursday,7,0,35,47
+Knowledge Village,Evening,Friday,3,1,18,
+Knowledge Village,Evening,Saturday,3,3,24,
+Knowledge Village,Evening,Sunday,4,0,20,55
+Dubai Mall,Morning,Monday,2,1,13,46
+Dubai Mall,Morning,Tuesday,4,2,26,19
+Dubai Mall,Morning,Wednesday,4,1,23,45
+Dubai Mall,Morning,Thursday,1,1,8,19
+Dubai Mall,Morning,Friday,4,0,20,
+Dubai Mall,Morning,Saturday,8,8,64,50
+Dubai Mall,Morning,Sunday,16,4,92,18
+Dubai Mall,Afternoon,Monday,1,0,5,
+Dubai Mall,Afternoon,Tuesday,2,2,16,18
+Dubai Mall,Afternoon,Wednesday,1,0,5,
+Dubai Mall,Afternoon,Thursday,2,2,16,30
+Dubai Mall,Afternoon,Friday,4,0,20,43
+Dubai Mall,Afternoon,Saturday,16,0,80,
+Dubai Mall,Afternoon,Sunday,16,4,92,22
+Dubai Mall,Evening,Monday,3,1,18,26
+Dubai Mall,Evening,Tuesday,4,1,23,
+Dubai Mall,Evening,Wednesday,2,0,10,34
+Dubai Mall,Evening,Thursday,4,2,26,50
+Dubai Mall,Evening,Friday,12,0,60,
+Dubai Mall,Evening,Saturday,16,0,80,41
+Dubai Mall,Evening,Sunday,12,8,84,55
+Deira,Evening,Tuesday,1,0,5,47
+Deira,Evening,Sunday,0,0,0,50
+Deira,Morning,Thursday,0,0,0,
+Deira,Afternoon,Saturday,2,0,10,
+Deira,Evening,Thursday,1,1,8,
+Deira,Morning,Thursday,1,0,5,
+Deira,Morning,Friday,2,0,10,
+Deira,Afternoon,Friday,1,1,8,
+Deira,Afternoon,Saturday,1,0,5,
+Deira,Afternoon,Friday,2,1,13,
+Deira,Evening,Tuesday,1,0,5,
+Deira,Evening,Friday,0,0,0,
+Deira,Evening,Saturday,0,0,0,
+Deira,Morning,Wednesday,2,0,10,
+Deira,Morning,Friday,1,0,5,
+Deira,Afternoon,Wednesday,1,0,5,
+Deira,Afternoon,Saturday,1,0,5,
+Deira,Evening,Tuesday,1,0,5,
+Deira,Evening,Wednesday,1,0,5,
+Deira,Evening,Sunday,0,0,0,
+Deira,Morning,Monday,1,1,8,
+Mirdif,Morning,Monday,0,0,0,21
+Mirdif,Morning,Tuesday,2,0,10,42
+Mirdif,Morning,Wednesday,1,0,5,49
+Mirdif,Morning,Thursday,1,0,5,24
+Mirdif,Morning,Friday,2,1,13,23
+Mirdif,Morning,Saturday,2,1,13,26
+Mirdif,Morning,Sunday,2,0,10,53
+Mirdif,Afternoon,Monday,1,0,5,36
+Mirdif,Afternoon,Tuesday,1,0,5,
+Mirdif,Afternoon,Wednesday,1,0,5,49
+Mirdif,Afternoon,Thursday,1,0,5,33
+Mirdif,Afternoon,Friday,1,0,5,38
+Mirdif,Afternoon,Saturday,1,1,8,23
+Mirdif,Afternoon,Sunday,0,1,3,
+Mirdif,Evening,Monday,1,0,5,29
+Mirdif,Evening,Tuesday,1,0,5,25
+Mirdif,Evening,Wednesday,2,1,13,18
+Mirdif,Evening,Thursday,1,0,5,44
+Mirdif,Evening,Friday,1,0,5,38
+Mirdif,Evening,Saturday,1,0,5,
+Mirdif,Evening,Sunday,1,1,8,23
+DIFC,Morning,Monday,4,0,20,46
+DIFC,Morning,Tuesday,4,8,44,19
+DIFC,Morning,Wednesday,16,4,92,25
+DIFC,Morning,Thursday,16,4,92,19
+DIFC,Morning,Friday,6,0,30,
+DIFC,Morning,Saturday,3,3,24,47
+DIFC,Morning,Sunday,6,3,39,54
+DIFC,Afternoon,Monday,4,4,32,24
+DIFC,Afternoon,Tuesday,8,8,64,55
+DIFC,Afternoon,Wednesday,8,4,52,42
+DIFC,Afternoon,Thursday,12,8,84,25
+DIFC,Afternoon,Friday,3,1,18,40
+DIFC,Afternoon,Saturday,6,3,39,35
+DIFC,Afternoon,Sunday,6,0,30,39
+DIFC,Evening,Monday,6,2,36,52
+DIFC,Evening,Tuesday,6,2,36,22
+DIFC,Evening,Wednesday,4,4,32,38
+DIFC,Evening,Thursday,4,2,26,18
+DIFC,Evening,Friday,3,3,24,
+DIFC,Evening,Saturday,6,3,39,
+DIFC,Evening,Sunday,6,1,33,53
+Knowledge Village,Morning,Monday,19,9,122,22
+Knowledge Village,Morning,Tuesday,14,9,97,47
+Knowledge Village,Morning,Wednesday,4,0,20,27
+Knowledge Village,Morning,Thursday,19,0,95,49
+Knowledge Village,Morning,Friday,3,3,24,53
+Knowledge Village,Morning,Saturday,7,0,35,27
+Knowledge Village,Morning,Sunday,4,1,23,53
+Knowledge Village,Afternoon,Monday,14,0,70,
+Knowledge Village,Afternoon,Tuesday,4,9,47,
+Knowledge Village,Afternoon,Wednesday,9,4,57,22
+Knowledge Village,Afternoon,Thursday,19,9,122,18
+Knowledge Village,Afternoon,Friday,4,0,20,
+Knowledge Village,Afternoon,Saturday,4,1,23,38
+Knowledge Village,Afternoon,Sunday,4,3,29,55
+Knowledge Village,Evening,Monday,9,4,57,51
+Knowledge Village,Evening,Tuesday,9,0,45,
+Knowledge Village,Evening,Wednesday,2,0,10,41
+Knowledge Village,Evening,Thursday,4,2,26,22
+Knowledge Village,Evening,Friday,7,0,35,18
+Knowledge Village,Evening,Saturday,7,3,44,25
+Knowledge Village,Evening,Sunday,7,1,38,
+Dubai Mall,Morning,Monday,4,1,23,34
+Dubai Mall,Morning,Tuesday,2,0,10,52
+Dubai Mall,Morning,Wednesday,4,0,20,37
+Dubai Mall,Morning,Thursday,4,0,20,18
+Dubai Mall,Morning,Friday,12,0,60,
+Dubai Mall,Morning,Saturday,16,8,104,
+Dubai Mall,Morning,Sunday,4,8,44,
+Dubai Mall,Afternoon,Monday,3,2,21,41
+Dubai Mall,Afternoon,Tuesday,1,1,8,
+Dubai Mall,Afternoon,Wednesday,1,2,11,43
+Dubai Mall,Afternoon,Thursday,2,0,10,20
+Dubai Mall,Afternoon,Friday,12,8,84,24
+Dubai Mall,Afternoon,Saturday,16,0,80,
+Dubai Mall,Afternoon,Sunday,8,0,40,26
+Dubai Mall,Evening,Monday,1,1,8,29
+Dubai Mall,Evening,Tuesday,4,0,20,44
+Dubai Mall,Evening,Wednesday,2,0,10,50
+Dubai Mall,Evening,Thursday,1,2,11,49
+Dubai Mall,Evening,Friday,4,0,20,23
+Dubai Mall,Evening,Saturday,12,4,72,40
+Dubai Mall,Evening,Sunday,4,8,44,31
+Deira,Morning,Saturday,2,0,10,
+Deira,Morning,Sunday,2,1,13,
+Deira,Afternoon,Sunday,1,0,5,
+Deira,Evening,Wednesday,1,0,5,
+Deira,Evening,Thursday,2,0,10,
+Deira,Evening,Friday,1,0,5,
+Deira,Morning,Monday,2,1,13,
+Deira,Morning,Saturday,0,0,0,
+Deira,Afternoon,Friday,2,1,13,
+Deira,Morning,Monday,0,0,0,
+Deira,Morning,Saturday,2,0,10,
+Deira,Afternoon,Monday,2,0,10,
+Deira,Afternoon,Tuesday,2,1,13,
+Deira,Afternoon,Saturday,1,1,8,
+Deira,Evening,Monday,0,0,0,
+Deira,Evening,Sunday,1,1,8,
+Deira,Morning,Thursday,1,1,8,
+Deira,Afternoon,Tuesday,2,0,10,
+Deira,Afternoon,Wednesday,1,0,5,
+Deira,Evening,Thursday,1,0,5,
+Deira,Evening,Sunday,1,0,5,
+Mirdif,Morning,Monday,1,0,5,33
+Mirdif,Morning,Tuesday,0,0,0,
+Mirdif,Morning,Wednesday,2,1,13,
+Mirdif,Morning,Thursday,1,0,5,42
+Mirdif,Morning,Friday,1,0,5,45
+Mirdif,Morning,Saturday,0,1,3,
+Mirdif,Morning,Sunday,2,0,10,47
+Mirdif,Afternoon,Monday,0,0,0,23
+Mirdif,Afternoon,Tuesday,2,1,13,
+Mirdif,Afternoon,Wednesday,0,0,0,55
+Mirdif,Afternoon,Thursday,2,0,10,42
+Mirdif,Afternoon,Friday,0,0,0,27
+Mirdif,Afternoon,Saturday,1,0,5,33
+Mirdif,Afternoon,Sunday,0,1,3,21
+Mirdif,Evening,Monday,1,0,5,55
+Mirdif,Evening,Tuesday,0,0,0,21
+Mirdif,Evening,Wednesday,0,1,3,
+Mirdif,Evening,Thursday,2,1,13,35
+Mirdif,Evening,Friday,2,1,13,28
+Mirdif,Evening,Saturday,1,0,5,
+Mirdif,Evening,Sunday,1,0,5,28
+DIFC,Morning,Monday,4,0,20,30
+DIFC,Morning,Tuesday,12,4,72,47
+DIFC,Morning,Wednesday,16,0,80,30
+DIFC,Morning,Thursday,8,8,64,26
+DIFC,Morning,Friday,4,3,29,42
+DIFC,Morning,Saturday,4,0,20,30
+DIFC,Morning,Sunday,1,0,5,20
+DIFC,Afternoon,Monday,16,8,104,21
+DIFC,Afternoon,Tuesday,16,4,92,
+DIFC,Afternoon,Wednesday,16,0,80,20
+DIFC,Afternoon,Thursday,4,0,20,35
+DIFC,Afternoon,Friday,1,1,8,
+DIFC,Afternoon,Saturday,6,0,30,45
+DIFC,Afternoon,Sunday,4,1,23,
+DIFC,Evening,Monday,6,0,30,26
+DIFC,Evening,Tuesday,2,2,16,49
+DIFC,Evening,Wednesday,4,4,32,47
+DIFC,Evening,Thursday,2,2,16,49
+DIFC,Evening,Friday,1,3,14,49
+DIFC,Evening,Saturday,4,1,23,41
+DIFC,Evening,Sunday,6,1,33,21
+Knowledge Village,Morning,Monday,4,0,20,31
+Knowledge Village,Morning,Tuesday,4,4,32,30
+Knowledge Village,Morning,Wednesday,9,0,45,
+Knowledge Village,Morning,Thursday,19,9,122,24
+Knowledge Village,Morning,Friday,4,1,23,29
+Knowledge Village,Morning,Saturday,1,3,14,25
+Knowledge Village,Morning,Sunday,1,1,8,20
+Knowledge Village,Afternoon,Monday,19,0,95,34
+Knowledge Village,Afternoon,Tuesday,4,4,32,
+Knowledge Village,Afternoon,Wednesday,19,9,122,22
+Knowledge Village,Afternoon,Thursday,9,0,45,19
+Knowledge Village,Afternoon,Friday,7,0,35,
+Knowledge Village,Afternoon,Saturday,1,3,14,25
+Knowledge Village,Afternoon,Sunday,1,3,14,
+Knowledge Village,Evening,Monday,4,2,26,22
+Knowledge Village,Evening,Tuesday,9,4,57,37
+Knowledge Village,Evening,Wednesday,4,4,32,29
+Knowledge Village,Evening,Thursday,2,4,22,18
+Knowledge Village,Evening,Friday,3,0,15,22
+Knowledge Village,Evening,Saturday,4,0,20,18
+Knowledge Village,Evening,Sunday,4,0,20,25
+Dubai Mall,Morning,Monday,2,1,13,52
+Dubai Mall,Morning,Tuesday,4,1,23,33
+Dubai Mall,Morning,Wednesday,4,2,26,51
+Dubai Mall,Morning,Thursday,1,0,5,38
+Dubai Mall,Morning,Friday,12,0,60,38
+Dubai Mall,Morning,Saturday,16,4,92,27
+Dubai Mall,Morning,Sunday,16,4,92,
+Dubai Mall,Afternoon,Monday,1,0,5,
+Dubai Mall,Afternoon,Tuesday,3,0,15,
+Dubai Mall,Afternoon,Wednesday,4,2,26,47
+Dubai Mall,Afternoon,Thursday,3,0,15,21
+Dubai Mall,Afternoon,Friday,4,8,44,
+Dubai Mall,Afternoon,Saturday,12,8,84,34
+Dubai Mall,Afternoon,Sunday,16,8,104,
+Dubai Mall,Evening,Monday,1,1,8,51
+Dubai Mall,Evening,Tuesday,2,0,10,50
+Dubai Mall,Evening,Wednesday,4,1,23,23
+Dubai Mall,Evening,Thursday,4,0,20,44
+Dubai Mall,Evening,Friday,4,4,32,21
+Dubai Mall,Evening,Saturday,4,0,20,
+Dubai Mall,Evening,Sunday,16,0,80,54
+Deira,Morning,Thursday,0,1,3,
+Deira,Morning,Saturday,2,1,13,
+Deira,Morning,Sunday,1,1,8,
+Deira,Afternoon,Sunday,2,0,10,
+Deira,Evening,Monday,1,0,5,
+Deira,Morning,Monday,2,0,10,
+Deira,Afternoon,Friday,0,0,0,
+Deira,Afternoon,Sunday,0,0,0,
+Deira,Evening,Monday,1,0,5,
+Deira,Afternoon,Friday,2,0,10,
+Deira,Evening,Tuesday,1,1,8,
+Deira,Morning,Monday,2,0,10,
+Deira,Morning,Thursday,1,0,5,
+Deira,Afternoon,Monday,2,0,10,
+Deira,Afternoon,Thursday,2,0,10,
+Deira,Afternoon,Sunday,0,0,0,
+Deira,Evening,Friday,0,0,0,
+Deira,Morning,Thursday,1,0,5,
+Deira,Morning,Sunday,1,0,5,
+Deira,Afternoon,Monday,0,0,0,
+Deira,Afternoon,Sunday,0,0,0,
+Mirdif,Morning,Monday,1,1,8,53
+Mirdif,Morning,Tuesday,1,1,8,
+Mirdif,Morning,Wednesday,1,0,5,35
+Mirdif,Morning,Thursday,0,0,0,24
+Mirdif,Morning,Friday,1,1,8,
+Mirdif,Morning,Saturday,1,0,5,55
+Mirdif,Morning,Sunday,1,0,5,47
+Mirdif,Afternoon,Monday,1,0,5,23
+Mirdif,Afternoon,Tuesday,1,1,8,53
+Mirdif,Afternoon,Wednesday,1,1,8,46
+Mirdif,Afternoon,Thursday,1,0,5,
+Mirdif,Afternoon,Friday,0,0,0,52
+Mirdif,Afternoon,Saturday,2,0,10,
+Mirdif,Afternoon,Sunday,2,0,10,22
+Mirdif,Evening,Monday,1,0,5,51
+Mirdif,Evening,Tuesday,0,1,3,22
+Mirdif,Evening,Wednesday,1,0,5,20
+Mirdif,Evening,Thursday,2,1,13,48
+Mirdif,Evening,Friday,0,0,0,
+Mirdif,Evening,Saturday,2,1,13,41
+Mirdif,Evening,Sunday,2,0,10,
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Tuesday,16,8,104,
+DIFC,Morning,Wednesday,8,4,52,23
+DIFC,Morning,Thursday,12,0,60,
+DIFC,Morning,Friday,4,3,29,48
+DIFC,Morning,Saturday,1,0,5,54
+DIFC,Morning,Sunday,4,1,23,26
+DIFC,Afternoon,Monday,4,4,32,
+DIFC,Afternoon,Tuesday,16,0,80,55
+DIFC,Afternoon,Wednesday,4,8,44,20
+DIFC,Afternoon,Thursday,12,4,72,54
+DIFC,Afternoon,Friday,1,0,5,42
+DIFC,Afternoon,Saturday,6,3,39,22
+DIFC,Afternoon,Sunday,4,0,20,25
+DIFC,Evening,Monday,2,0,10,23
+DIFC,Evening,Tuesday,6,2,36,53
+DIFC,Evening,Wednesday,6,2,36,
+DIFC,Evening,Thursday,6,4,42,
+DIFC,Evening,Friday,6,3,39,42
+DIFC,Evening,Saturday,1,3,14,45
+DIFC,Evening,Sunday,4,1,23,22
+Knowledge Village,Morning,Monday,14,9,97,25
+Knowledge Village,Morning,Tuesday,4,9,47,26
+Knowledge Village,Morning,Wednesday,4,0,20,
+Knowledge Village,Morning,Thursday,4,4,32,22
+Knowledge Village,Morning,Friday,7,3,44,21
+Knowledge Village,Morning,Saturday,3,1,18,19
+Knowledge Village,Morning,Sunday,7,1,38,23
+Knowledge Village,Afternoon,Monday,14,0,70,43
+Knowledge Village,Afternoon,Tuesday,9,0,45,23
+Knowledge Village,Afternoon,Wednesday,9,9,72,
+Knowledge Village,Afternoon,Thursday,4,0,20,50
+Knowledge Village,Afternoon,Friday,3,3,24,23
+Knowledge Village,Afternoon,Saturday,7,3,44,18
+Knowledge Village,Afternoon,Sunday,7,0,35,23
+Knowledge Village,Evening,Monday,2,0,10,49
+Knowledge Village,Evening,Tuesday,9,0,45,19
+Knowledge Village,Evening,Wednesday,2,2,16,
+Knowledge Village,Evening,Thursday,9,2,51,51
+Knowledge Village,Evening,Friday,4,0,20,21
+Knowledge Village,Evening,Saturday,3,3,24,20
+Knowledge Village,Evening,Sunday,3,1,18,19
+Dubai Mall,Morning,Monday,2,0,10,39
+Dubai Mall,Morning,Tuesday,3,1,18,47
+Dubai Mall,Morning,Wednesday,4,0,20,
+Dubai Mall,Morning,Thursday,3,0,15,30
+Dubai Mall,Morning,Friday,16,8,104,
+Dubai Mall,Morning,Saturday,8,8,64,29
+Dubai Mall,Morning,Sunday,12,8,84,47
+Dubai Mall,Afternoon,Monday,1,2,11,47
+Dubai Mall,Afternoon,Tuesday,1,1,8,
+Dubai Mall,Afternoon,Wednesday,1,1,8,36
+Dubai Mall,Afternoon,Thursday,1,1,8,39
+Dubai Mall,Afternoon,Friday,8,8,64,
+Dubai Mall,Afternoon,Saturday,4,4,32,29
+Dubai Mall,Afternoon,Sunday,4,4,32,31
+Dubai Mall,Evening,Monday,3,0,15,33
+Dubai Mall,Evening,Tuesday,2,2,16,26
+Dubai Mall,Evening,Wednesday,3,0,15,53
+Dubai Mall,Evening,Thursday,4,1,23,28
+Dubai Mall,Evening,Friday,4,0,20,
+Dubai Mall,Evening,Saturday,16,4,92,
+Dubai Mall,Evening,Sunday,8,8,64,21
+Deira,Evening,Wednesday,0,0,0,
+Deira,Evening,Sunday,1,0,5,
+Deira,Afternoon,Tuesday,0,1,3,
+Deira,Afternoon,Sunday,0,0,0,
+Deira,Evening,Wednesday,1,0,5,
+Deira,Afternoon,Monday,2,0,10,
+Deira,Evening,Tuesday,0,0,0,
+Deira,Morning,Saturday,1,0,5,
+Deira,Afternoon,Monday,2,0,10,
+Deira,Afternoon,Sunday,2,0,10,
+Deira,Evening,Tuesday,1,0,5,
+Deira,Evening,Wednesday,1,0,5,
+Deira,Evening,Saturday,1,0,5,
+Deira,Morning,Thursday,2,0,10,
+Deira,Evening,Tuesday,2,0,10,
+Deira,Evening,Thursday,1,0,5,
+Deira,Evening,Sunday,1,0,5,
+Deira,Evening,Thursday,1,1,8,
+Deira,Evening,Saturday,2,0,10,
+Deira,Morning,Saturday,1,1,8,
+Deira,Evening,Thursday,2,0,10,
+Mirdif,Morning,Monday,1,0,5,
+Mirdif,Morning,Tuesday,0,0,0,34
+Mirdif,Morning,Wednesday,1,0,5,52
+Mirdif,Morning,Thursday,1,0,5,
+Mirdif,Morning,Friday,2,0,10,
+Mirdif,Morning,Saturday,0,1,3,
+Mirdif,Morning,Sunday,1,1,8,27
+Mirdif,Afternoon,Monday,1,0,5,
+Mirdif,Afternoon,Tuesday,0,0,0,52
+Mirdif,Afternoon,Wednesday,2,0,10,
+Mirdif,Afternoon,Thursday,1,0,5,
+Mirdif,Afternoon,Friday,1,0,5,32
+Mirdif,Afternoon,Saturday,1,0,5,
+Mirdif,Afternoon,Sunday,2,0,10,20
+Mirdif,Evening,Monday,1,0,5,
+Mirdif,Evening,Tuesday,1,0,5,
+Mirdif,Evening,Wednesday,2,1,13,46
+Mirdif,Evening,Thursday,1,0,5,
+Mirdif,Evening,Friday,0,1,3,44
+Mirdif,Evening,Saturday,1,0,5,
+Mirdif,Evening,Sunday,2,0,10,30
+DIFC,Morning,Monday,12,0,60,38
+DIFC,Morning,Tuesday,16,4,92,
+DIFC,Morning,Wednesday,4,4,32,26
+DIFC,Morning,Thursday,16,8,104,45
+DIFC,Morning,Friday,1,1,8,44
+DIFC,Morning,Monday,16,0,80,20
+DIFC,Morning,Monday,4,4,32,30
+DIFC,Morning,Monday,12,8,84,35
+DIFC,Morning,Monday,12,0,60,41
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,16,8,104,31
+DIFC,Morning,Monday,12,0,60,38
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,8,4,52,24
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,4,8,44,41
+DIFC,Morning,Monday,8,0,40,25
+DIFC,Morning,Monday,8,0,40,18
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,16,8,104,18
+DIFC,Morning,Monday,12,0,60,22
+DIFC,Morning,Monday,8,8,64,55
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,16,8,104,41
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,8,0,40,20
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,12,8,84,30
+DIFC,Morning,Monday,16,0,80,29
+DIFC,Morning,Monday,16,0,80,50
+DIFC,Morning,Monday,4,8,44,23
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,4,4,32,24
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,16,8,104,
+DIFC,Morning,Monday,4,8,44,32
+DIFC,Morning,Monday,4,0,20,39
+DIFC,Morning,Monday,4,8,44,
+DIFC,Morning,Monday,12,4,72,55
+DIFC,Morning,Monday,4,0,20,40
+DIFC,Morning,Monday,16,4,92,55
+DIFC,Morning,Monday,16,8,104,
+DIFC,Morning,Monday,12,0,60,33
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,4,4,32,54
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,12,8,84,27
+DIFC,Morning,Monday,4,8,44,19
+DIFC,Morning,Monday,8,4,52,44
+DIFC,Morning,Monday,16,0,80,42
+DIFC,Morning,Monday,4,8,44,24
+DIFC,Morning,Monday,12,8,84,48
+DIFC,Morning,Monday,8,8,64,25
+DIFC,Morning,Monday,4,4,32,19
+DIFC,Morning,Monday,8,4,52,41
+DIFC,Morning,Monday,4,4,32,23
+DIFC,Morning,Monday,12,8,84,47
+DIFC,Morning,Monday,16,4,92,50
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,12,0,60,52
+DIFC,Morning,Monday,4,4,32,
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,8,4,52,46
+DIFC,Morning,Monday,4,4,32,27
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,4,8,44,29
+DIFC,Morning,Monday,12,0,60,41
+DIFC,Morning,Monday,12,4,72,35
+DIFC,Morning,Monday,4,4,32,29
+DIFC,Morning,Monday,8,4,52,29
+DIFC,Morning,Monday,16,0,80,31
+DIFC,Morning,Monday,16,4,92,18
+DIFC,Morning,Monday,8,0,40,30
+DIFC,Morning,Monday,12,4,72,23
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,4,8,44,
+DIFC,Morning,Monday,4,8,44,31
+DIFC,Morning,Monday,12,4,72,22
+DIFC,Morning,Monday,4,4,32,46
+DIFC,Morning,Monday,16,0,80,33
+DIFC,Morning,Monday,8,8,64,29
+DIFC,Morning,Monday,8,8,64,31
+DIFC,Morning,Monday,16,8,104,31
+DIFC,Morning,Monday,16,8,104,32
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,4,0,20,23
+DIFC,Morning,Monday,12,8,84,26
+DIFC,Morning,Monday,12,0,60,50
+DIFC,Morning,Monday,4,4,32,20
+DIFC,Morning,Monday,4,4,32,
+DIFC,Morning,Monday,12,4,72,41
+DIFC,Morning,Monday,16,4,92,37
+DIFC,Morning,Monday,16,4,92,22
+DIFC,Morning,Monday,4,4,32,49
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,16,0,80,23
+DIFC,Morning,Monday,8,8,64,35
+DIFC,Morning,Monday,4,8,44,46
+DIFC,Morning,Monday,12,0,60,20
+DIFC,Morning,Monday,16,0,80,48
+DIFC,Morning,Monday,16,8,104,52
+DIFC,Morning,Monday,12,8,84,45
+DIFC,Morning,Monday,4,8,44,36
+DIFC,Morning,Monday,12,4,72,18
+DIFC,Morning,Monday,4,8,44,54
+DIFC,Morning,Monday,4,8,44,53
+DIFC,Morning,Monday,12,8,84,18
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,8,0,40,53
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,16,0,80,30
+DIFC,Morning,Monday,4,8,44,23
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,16,0,80,24
+DIFC,Morning,Monday,12,0,60,54
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,8,0,40,19
+DIFC,Morning,Monday,4,8,44,48
+DIFC,Morning,Monday,4,8,44,18
+DIFC,Morning,Monday,12,8,84,30
+DIFC,Morning,Monday,8,4,52,45
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,16,8,104,52
+DIFC,Morning,Monday,4,4,32,25
+DIFC,Morning,Monday,8,0,40,53
+DIFC,Morning,Monday,4,8,44,
+DIFC,Morning,Monday,8,4,52,42
+DIFC,Morning,Monday,8,8,64,55
+DIFC,Morning,Monday,4,0,20,31
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,12,4,72,20
+DIFC,Morning,Monday,16,8,104,29
+DIFC,Morning,Monday,12,0,60,23
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,4,8,44,45
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,4,0,20,37
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,12,0,60,30
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,8,4,52,37
+DIFC,Morning,Monday,16,8,104,35
+DIFC,Morning,Monday,8,8,64,48
+DIFC,Morning,Monday,8,4,52,24
+DIFC,Morning,Monday,12,0,60,53
+DIFC,Morning,Monday,16,4,92,50
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,16,0,80,52
+DIFC,Morning,Monday,16,0,80,53
+DIFC,Morning,Monday,8,4,52,47
+DIFC,Morning,Monday,12,0,60,32
+DIFC,Morning,Monday,16,0,80,26
+DIFC,Morning,Monday,8,8,64,39
+DIFC,Morning,Monday,8,8,64,49
+DIFC,Morning,Monday,12,8,84,54
+DIFC,Morning,Monday,4,8,44,31
+DIFC,Morning,Monday,8,4,52,45
+DIFC,Morning,Monday,16,4,92,18
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,4,4,32,24
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,16,8,104,
+DIFC,Morning,Monday,16,0,80,23
+DIFC,Morning,Monday,16,4,92,27
+DIFC,Morning,Monday,8,4,52,44
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,16,8,104,21
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,16,8,104,
+DIFC,Morning,Monday,4,8,44,53
+DIFC,Morning,Monday,8,4,52,50
+DIFC,Morning,Monday,8,8,64,48
+DIFC,Morning,Monday,12,4,72,48
+DIFC,Morning,Monday,16,8,104,36
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,16,8,104,54
+DIFC,Morning,Monday,4,4,32,
+DIFC,Morning,Monday,16,4,92,38
+DIFC,Morning,Monday,12,0,60,18
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,12,0,60,53
+DIFC,Morning,Monday,12,8,84,39
+DIFC,Morning,Monday,4,8,44,30
+DIFC,Morning,Monday,4,0,20,23
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,4,8,44,42
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,16,0,80,26
+DIFC,Morning,Monday,4,8,44,43
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,8,4,52,22
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,12,0,60,28
+DIFC,Morning,Monday,16,0,80,41
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,12,4,72,30
+DIFC,Morning,Monday,4,4,32,22
+DIFC,Morning,Monday,12,0,60,41
+DIFC,Morning,Monday,8,0,40,51
+DIFC,Morning,Monday,8,4,52,51
+DIFC,Morning,Monday,8,0,40,41
+DIFC,Morning,Monday,4,4,32,24
+DIFC,Morning,Monday,8,8,64,21
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,8,8,64,36
+DIFC,Morning,Monday,16,4,92,29
+DIFC,Morning,Monday,8,8,64,52
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,16,0,80,23
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,4,0,20,46
+DIFC,Morning,Monday,8,0,40,48
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,12,4,72,21
+DIFC,Morning,Monday,8,8,64,36
+DIFC,Morning,Monday,16,0,80,55
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,4,0,20,18
+DIFC,Morning,Monday,8,4,52,39
+DIFC,Morning,Monday,12,0,60,42
+DIFC,Morning,Monday,12,8,84,34
+DIFC,Morning,Monday,8,0,40,31
+DIFC,Morning,Monday,16,8,104,43
+DIFC,Morning,Monday,16,0,80,30
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,8,0,40,55
+DIFC,Morning,Monday,4,4,32,
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,4,8,44,23
+DIFC,Morning,Monday,12,4,72,42
+DIFC,Morning,Monday,12,8,84,38
+DIFC,Morning,Monday,8,8,64,18
+DIFC,Morning,Monday,16,0,80,39
+DIFC,Morning,Monday,12,4,72,24
+DIFC,Morning,Monday,16,0,80,43
+DIFC,Morning,Monday,12,8,84,20
+DIFC,Morning,Monday,12,0,60,39
+DIFC,Morning,Monday,8,4,52,24
+DIFC,Morning,Monday,4,8,44,37
+DIFC,Morning,Monday,4,4,32,54
+DIFC,Morning,Monday,8,0,40,24
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,16,4,92,44
+DIFC,Morning,Monday,16,8,104,29
+DIFC,Morning,Monday,12,8,84,20
+DIFC,Morning,Monday,4,4,32,33
+DIFC,Morning,Monday,12,4,72,50
+DIFC,Morning,Monday,16,4,92,32
+DIFC,Morning,Monday,12,0,60,25
+DIFC,Morning,Monday,16,8,104,26
+DIFC,Morning,Monday,12,4,72,32
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,8,0,40,37
+DIFC,Morning,Monday,4,8,44,
+DIFC,Morning,Monday,16,8,104,19
+DIFC,Morning,Monday,12,4,72,48
+DIFC,Morning,Monday,12,4,72,24
+DIFC,Morning,Monday,8,8,64,27
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,16,8,104,51
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,16,4,92,44
+DIFC,Morning,Monday,16,8,104,37
+DIFC,Morning,Monday,16,0,80,20
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,4,0,20,27
+DIFC,Morning,Monday,12,4,72,24
+DIFC,Morning,Monday,12,4,72,25
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,8,4,52,
+DIFC,Morning,Monday,8,4,52,41
+DIFC,Morning,Monday,4,4,32,24
+DIFC,Morning,Monday,8,4,52,23
+DIFC,Morning,Monday,12,8,84,33
+DIFC,Morning,Monday,8,0,40,47
+DIFC,Morning,Monday,8,0,40,23
+DIFC,Morning,Monday,4,0,20,46
+DIFC,Morning,Monday,4,4,32,48
+DIFC,Morning,Monday,12,8,84,51
+DIFC,Morning,Monday,4,8,44,41
+DIFC,Morning,Monday,4,8,44,52
+DIFC,Morning,Monday,4,4,32,20
+DIFC,Morning,Monday,16,4,92,36
+DIFC,Morning,Monday,12,8,84,35
+DIFC,Morning,Monday,16,0,80,46
+DIFC,Morning,Monday,12,8,84,19
+DIFC,Morning,Monday,12,8,84,30
+DIFC,Morning,Monday,16,0,80,50
+DIFC,Morning,Monday,8,4,52,32
+DIFC,Morning,Monday,4,8,44,51
+DIFC,Morning,Monday,8,0,40,26
+DIFC,Morning,Monday,4,8,44,21
+DIFC,Morning,Monday,4,8,44,22
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,8,0,40,33
+DIFC,Morning,Monday,8,0,40,55
+DIFC,Morning,Monday,4,0,20,
+DIFC,Morning,Monday,12,0,60,21
+DIFC,Morning,Monday,8,8,64,38
+DIFC,Morning,Monday,4,0,20,24
+DIFC,Morning,Monday,16,0,80,19
+DIFC,Morning,Monday,16,4,92,44
+DIFC,Morning,Monday,12,8,84,22
+DIFC,Morning,Monday,8,4,52,36
+DIFC,Morning,Monday,12,0,60,34
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,4,0,20,21
+DIFC,Morning,Monday,16,0,80,38
+DIFC,Morning,Monday,16,8,104,
+DIFC,Morning,Monday,16,8,104,50
+DIFC,Morning,Monday,12,4,72,40
+DIFC,Morning,Monday,4,8,44,18
+DIFC,Morning,Monday,8,8,64,32
+DIFC,Morning,Monday,4,8,44,28
+DIFC,Morning,Monday,4,4,32,44
+DIFC,Morning,Monday,16,0,80,26
+DIFC,Morning,Monday,4,0,20,32
+DIFC,Morning,Monday,4,4,32,33
+DIFC,Morning,Monday,16,8,104,
+DIFC,Morning,Monday,8,0,40,38
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,4,8,44,24
+DIFC,Morning,Monday,4,0,20,51
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,4,8,44,52
+DIFC,Morning,Monday,16,8,104,33
+DIFC,Morning,Monday,8,8,64,20
+DIFC,Morning,Monday,8,0,40,
+DIFC,Morning,Monday,8,8,64,
+DIFC,Morning,Monday,4,4,32,28
+DIFC,Morning,Monday,12,4,72,55
+DIFC,Morning,Monday,4,0,20,18
+DIFC,Morning,Monday,12,4,72,20
+DIFC,Morning,Monday,16,4,92,20
+DIFC,Morning,Monday,16,4,92,45
+DIFC,Morning,Monday,16,4,92,
+DIFC,Morning,Monday,12,8,84,31
+DIFC,Morning,Monday,8,0,40,34
+DIFC,Morning,Monday,8,0,40,53
+DIFC,Morning,Monday,4,0,20,20
+DIFC,Morning,Monday,8,4,52,25
+DIFC,Morning,Monday,4,4,32,46
+DIFC,Morning,Monday,4,8,44,26
+DIFC,Morning,Monday,4,0,20,36
+DIFC,Morning,Monday,16,4,92,43
+DIFC,Morning,Monday,8,8,64,30
+DIFC,Morning,Monday,16,0,80,46
+DIFC,Morning,Monday,4,8,44,31
+DIFC,Morning,Monday,16,8,104,35
+DIFC,Morning,Monday,12,4,72,
+DIFC,Morning,Monday,4,0,20,18
+DIFC,Morning,Monday,4,4,32,45
+DIFC,Morning,Monday,8,8,64,40
+DIFC,Morning,Monday,4,8,44,
+DIFC,Morning,Monday,12,8,84,35
+DIFC,Morning,Monday,12,8,84,35
+DIFC,Morning,Monday,16,8,104,24
+DIFC,Morning,Monday,4,8,44,50
+DIFC,Morning,Monday,12,4,72,41
+DIFC,Morning,Monday,4,8,44,
+DIFC,Morning,Monday,4,4,32,18
+DIFC,Morning,Monday,12,0,60,
+DIFC,Morning,Monday,16,8,104,21
+DIFC,Morning,Monday,12,8,84,19
+DIFC,Morning,Monday,16,0,80,
+DIFC,Morning,Monday,4,0,20,54
+DIFC,Morning,Monday,8,0,40,18
+DIFC,Morning,Monday,8,0,40,26
+DIFC,Morning,Monday,12,8,84,
+DIFC,Morning,Monday,16,0,80,18
+DIFC,Morning,Monday,4,8,44,52
+DIFC,Morning,Monday,16,0,80,43
+DIFC,Morning,Monday,12,8,84,35
+DIFC,Morning,Monday,4,8,44,41
