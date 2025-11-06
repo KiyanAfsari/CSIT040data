@@ -1,0 +1,2382 @@
+Location,Time,Day of Week,Number of Drinks,Number of Pastries,Total Bill,Age,Age_group
+Deira,Morning,Thursday,1,0,5,18,18-24
+Deira,Afternoon,Friday,2,1,13,18,18-24
+Deira,Afternoon,Saturday,0,0,0,18,18-24
+Deira,Evening,Friday,1,0,5,19,18-24
+Deira,Afternoon,Tuesday,1,0,5,19,18-24
+Deira,Evening,Saturday,1,1,8,20,18-24
+Deira,Afternoon,Thursday,2,0,10,22,18-24
+Deira,Evening,Friday,1,1,8,22,18-24
+Deira,Evening,Saturday,0,1,3,22,18-24
+Deira,Afternoon,Saturday,1,1,8,22,18-24
+Deira,Morning,Tuesday,0,0,0,23,18-24
+Deira,Evening,Sunday,1,0,5,23,18-24
+Deira,Morning,Saturday,2,0,10,23,18-24
+Deira,Morning,Sunday,0,0,0,24,25-35
+Deira,Morning,Friday,1,0,5,24,25-35
+Deira,Morning,Sunday,0,0,0,24,25-35
+Deira,Evening,Wednesday,2,0,10,24,25-35
+Deira,Evening,Monday,2,0,10,25,25-35
+Deira,Afternoon,Monday,1,1,8,25,25-35
+Deira,Evening,Friday,1,0,5,25,25-35
+Deira,Afternoon,Tuesday,1,1,8,25,25-35
+Deira,Morning,Tuesday,1,1,8,25,25-35
+Deira,Morning,Friday,0,1,3,26,25-35
+Deira,Morning,Friday,1,0,5,26,25-35
+Deira,Afternoon,Saturday,1,0,5,26,25-35
+Deira,Evening,Monday,1,1,8,26,25-35
+Deira,Evening,Friday,2,0,10,26,25-35
+Deira,Morning,Tuesday,2,0,10,27,25-35
+Deira,Morning,Wednesday,2,1,13,27,25-35
+Deira,Evening,Tuesday,1,1,8,27,25-35
+Deira,Morning,Friday,0,0,0,27,25-35
+Deira,Evening,Sunday,2,1,13,27,25-35
+Deira,Afternoon,Thursday,2,0,10,28,25-35
+Deira,Morning,Thursday,1,1,8,29,25-35
+Deira,Morning,Sunday,1,0,5,29,25-35
+Deira,Morning,Wednesday,1,0,5,29,25-35
+Deira,Morning,Tuesday,1,0,5,29,25-35
+Deira,Evening,Wednesday,1,0,5,30,25-35
+Deira,Afternoon,Friday,1,1,8,30,25-35
+Deira,Morning,Sunday,0,1,3,30,25-35
+Deira,Afternoon,Thursday,1,1,8,30,25-35
+Deira,Evening,Wednesday,1,1,8,30,25-35
+Deira,Morning,Wednesday,2,0,10,30,25-35
+Deira,Afternoon,Thursday,2,1,13,30,25-35
+Deira,Morning,Thursday,2,1,13,30,25-35
+Deira,Afternoon,Sunday,1,1,8,30,25-35
+Deira,Evening,Wednesday,1,1,8,30,25-35
+Deira,Morning,Monday,2,1,13,30,25-35
+Deira,Morning,Sunday,1,0,5,30,25-35
+Deira,Afternoon,Sunday,0,0,0,30,25-35
+Deira,Morning,Tuesday,1,0,5,31,25-35
+Deira,Evening,Thursday,2,1,13,31,25-35
+Deira,Evening,Sunday,1,0,5,31,25-35
+Deira,Afternoon,Wednesday,1,1,8,31,25-35
+Deira,Morning,Tuesday,2,0,10,32,25-35
+Deira,Morning,Sunday,1,0,5,32,25-35
+Deira,Morning,Wednesday,0,1,3,32,25-35
+Deira,Afternoon,Friday,1,0,5,33,25-35
+Deira,Afternoon,Thursday,1,1,8,33,25-35
+Deira,Afternoon,Monday,0,0,0,33,25-35
+Deira,Evening,Sunday,1,0,5,33,25-35
+Deira,Morning,Tuesday,1,1,8,33,25-35
+Deira,Afternoon,Monday,0,1,3,33,25-35
+Deira,Evening,Tuesday,1,0,5,33,25-35
+Deira,Evening,Wednesday,0,0,0,33,25-35
+Deira,Evening,Saturday,2,0,10,34,25-35
+Deira,Morning,Thursday,2,1,13,34,25-35
+Deira,Morning,Friday,1,0,5,34,25-35
+Deira,Afternoon,Thursday,1,1,8,34,25-35
+Deira,Evening,Wednesday,0,0,0,34,25-35
+Deira,Afternoon,Wednesday,1,0,5,34,25-35
+Deira,Morning,Monday,2,0,10,34,25-35
+Deira,Afternoon,Friday,1,0,5,34,25-35
+Deira,Morning,Monday,0,0,0,34,25-35
+Deira,Morning,Thursday,1,1,8,35,35-50
+Deira,Afternoon,Sunday,2,0,10,35,35-50
+Deira,Evening,Saturday,1,1,8,35,35-50
+Deira,Evening,Tuesday,2,0,10,35,35-50
+Deira,Evening,Friday,2,1,13,35,35-50
+Deira,Afternoon,Tuesday,1,1,8,35,35-50
+Deira,Afternoon,Saturday,0,1,3,36,35-50
+Deira,Morning,Monday,2,0,10,36,35-50
+Deira,Morning,Sunday,1,1,8,36,35-50
+Deira,Afternoon,Wednesday,0,0,0,36,35-50
+Deira,Morning,Thursday,0,1,3,36,35-50
+Deira,Morning,Monday,1,1,8,36,35-50
+Deira,Morning,Tuesday,0,0,0,36,35-50
+Deira,Morning,Thursday,2,1,13,36,35-50
+Deira,Morning,Tuesday,1,0,5,37,35-50
+Deira,Afternoon,Wednesday,1,1,8,37,35-50
+Deira,Evening,Thursday,1,1,8,37,35-50
+Deira,Evening,Saturday,2,1,13,37,35-50
+Deira,Afternoon,Saturday,0,1,3,37,35-50
+Deira,Evening,Tuesday,0,0,0,38,35-50
+Deira,Afternoon,Wednesday,0,1,3,38,35-50
+Deira,Morning,Tuesday,0,0,0,38,35-50
+Deira,Afternoon,Friday,1,0,5,38,35-50
+Deira,Evening,Tuesday,0,0,0,39,35-50
+Deira,Evening,Saturday,2,1,13,39,35-50
+Deira,Morning,Sunday,1,0,5,39,35-50
+Deira,Afternoon,Monday,2,0,10,39,35-50
+Deira,Morning,Monday,2,0,10,39,35-50
+Deira,Afternoon,Wednesday,1,0,5,39,35-50
+Deira,Evening,Sunday,2,0,10,39,35-50
+Deira,Evening,Friday,0,0,0,39,35-50
+Deira,Afternoon,Saturday,1,0,5,39,35-50
+Deira,Morning,Saturday,0,0,0,40,35-50
+Deira,Morning,Thursday,0,0,0,40,35-50
+Deira,Evening,Monday,2,0,10,40,35-50
+Deira,Afternoon,Saturday,1,1,8,40,35-50
+Deira,Evening,Sunday,0,0,0,40,35-50
+Deira,Evening,Saturday,1,1,8,40,35-50
+Deira,Evening,Monday,0,1,3,40,35-50
+Deira,Afternoon,Monday,1,1,8,40,35-50
+Deira,Morning,Wednesday,1,0,5,41,35-50
+Deira,Evening,Sunday,1,1,8,41,35-50
+Deira,Evening,Monday,2,1,13,41,35-50
+Deira,Evening,Monday,1,0,5,41,35-50
+Deira,Afternoon,Tuesday,1,0,5,41,35-50
+Deira,Afternoon,Monday,1,1,8,41,35-50
+Deira,Afternoon,Wednesday,2,0,10,42,35-50
+Deira,Morning,Friday,1,0,5,42,35-50
+Deira,Afternoon,Wednesday,1,0,5,42,35-50
+Deira,Afternoon,Sunday,1,1,8,42,35-50
+Deira,Evening,Thursday,2,0,10,42,35-50
+Deira,Afternoon,Sunday,0,0,0,42,35-50
+Deira,Morning,Tuesday,1,1,8,42,35-50
+Deira,Morning,Thursday,2,1,13,42,35-50
+Deira,Afternoon,Friday,2,0,10,42,35-50
+Deira,Afternoon,Saturday,1,1,8,42,35-50
+Deira,Afternoon,Sunday,1,0,5,42,35-50
+Deira,Morning,Wednesday,0,0,0,43,35-50
+Deira,Morning,Friday,1,1,8,43,35-50
+Deira,Morning,Wednesday,1,1,8,43,35-50
+Deira,Afternoon,Sunday,1,0,5,43,35-50
+Deira,Evening,Tuesday,1,0,5,43,35-50
+Deira,Evening,Wednesday,1,1,8,43,35-50
+Deira,Morning,Wednesday,0,0,0,43,35-50
+Deira,Evening,Monday,0,1,3,43,35-50
+Deira,Afternoon,Sunday,1,0,5,44,35-50
+Deira,Evening,Wednesday,2,0,10,44,35-50
+Deira,Afternoon,Saturday,2,0,10,44,35-50
+Deira,Afternoon,Tuesday,1,0,5,44,35-50
+Deira,Morning,Saturday,1,0,5,44,35-50
+Deira,Afternoon,Wednesday,1,1,8,44,35-50
+Deira,Morning,Friday,0,0,0,44,35-50
+Deira,Afternoon,Thursday,1,0,5,44,35-50
+Deira,Morning,Thursday,2,1,13,45,35-50
+Deira,Morning,Saturday,0,1,3,45,35-50
+Deira,Morning,Friday,1,0,5,45,35-50
+Deira,Afternoon,Friday,0,0,0,45,35-50
+Deira,Afternoon,Tuesday,1,0,5,46,35-50
+Deira,Morning,Tuesday,2,1,13,46,35-50
+Deira,Evening,Wednesday,1,1,8,46,35-50
+Deira,Evening,Saturday,1,0,5,46,35-50
+Deira,Morning,Wednesday,1,1,8,46,35-50
+Deira,Afternoon,Sunday,1,0,5,46,35-50
+Deira,Evening,Saturday,0,0,0,46,35-50
+Deira,Afternoon,Tuesday,1,1,8,46,35-50
+Deira,Evening,Wednesday,1,1,8,46,35-50
+Deira,Evening,Saturday,1,0,5,46,35-50
+Deira,Afternoon,Friday,2,0,10,46,35-50
+Deira,Morning,Thursday,0,1,3,46,35-50
+Deira,Evening,Friday,1,1,8,47,35-50
+Deira,Afternoon,Friday,1,0,5,47,35-50
+Deira,Evening,Thursday,1,0,5,47,35-50
+Deira,Evening,Thursday,1,0,5,47,35-50
+Deira,Morning,Saturday,0,1,3,47,35-50
+Deira,Afternoon,Thursday,0,0,0,47,35-50
+Deira,Afternoon,Wednesday,1,0,5,47,35-50
+Deira,Evening,Monday,1,1,8,47,35-50
+Deira,Afternoon,Saturday,2,1,13,47,35-50
+Deira,Afternoon,Wednesday,0,0,0,47,35-50
+Deira,Evening,Tuesday,1,0,5,47,35-50
+Deira,Afternoon,Sunday,1,1,8,48,35-50
+Deira,Evening,Wednesday,1,0,5,48,35-50
+Deira,Afternoon,Friday,1,0,5,48,35-50
+Deira,Morning,Sunday,1,0,5,48,35-50
+Deira,Afternoon,Monday,1,0,5,48,35-50
+Deira,Evening,Monday,1,0,5,48,35-50
+Deira,Evening,Friday,1,0,5,48,35-50
+Deira,Morning,Wednesday,2,0,10,48,35-50
+Deira,Morning,Wednesday,0,1,3,48,35-50
+Deira,Morning,Friday,0,0,0,48,35-50
+Deira,Afternoon,Saturday,1,0,5,48,35-50
+Deira,Evening,Thursday,2,1,13,48,35-50
+Deira,Afternoon,Thursday,1,1,8,48,35-50
+Deira,Morning,Monday,0,1,3,48,35-50
+Deira,Afternoon,Monday,1,0,5,48,35-50
+Deira,Evening,Tuesday,2,0,10,49,35-50
+Deira,Afternoon,Monday,1,1,8,49,35-50
+Deira,Evening,Saturday,1,0,5,49,35-50
+Deira,Evening,Thursday,1,0,5,49,35-50
+Deira,Morning,Friday,1,0,5,49,35-50
+Deira,Morning,Tuesday,1,0,5,49,35-50
+Deira,Morning,Wednesday,1,0,5,49,35-50
+Deira,Evening,Saturday,0,0,0,49,35-50
+Deira,Afternoon,Monday,2,1,13,49,35-50
+Deira,Afternoon,Tuesday,1,0,5,49,35-50
+Deira,Afternoon,Wednesday,2,0,10,49,35-50
+Deira,Evening,Friday,1,0,5,49,35-50
+Deira,Afternoon,Tuesday,0,0,0,49,35-50
+Deira,Afternoon,Wednesday,0,0,0,49,35-50
+Deira,Morning,Monday,2,0,10,49,35-50
+Deira,Afternoon,Monday,0,0,0,49,35-50
+Deira,Evening,Wednesday,1,1,8,49,35-50
+Deira,Evening,Thursday,1,0,5,49,35-50
+Deira,Morning,Saturday,1,0,5,49,35-50
+Deira,Afternoon,Thursday,0,0,0,49,35-50
+Deira,Morning,Wednesday,1,1,8,50,50+
+Deira,Evening,Thursday,0,1,3,25,25-35
+Deira,Evening,Sunday,0,0,0,22,18-24
+Deira,Morning,Friday,1,1,8,18,18-24
+Deira,Evening,Tuesday,2,0,10,16,18-24
+Deira,Afternoon,Thursday,1,1,8,20,18-24
+Deira,Evening,Tuesday,1,0,5,19,18-24
+Deira,Morning,Wednesday,0,0,0,23,18-24
+Deira,Afternoon,Saturday,1,0,5,19,18-24
+Deira,Evening,Sunday,0,1,3,21,18-24
+Deira,Morning,Tuesday,2,0,10,16,18-24
+Deira,Morning,Monday,0,1,3,18,18-24
+Deira,Evening,Sunday,2,0,10,22,18-24
+Deira,Morning,Wednesday,1,1,8,23,18-24
+Deira,Evening,Friday,2,0,10,24,25-35
+Deira,Morning,Saturday,2,0,10,17,18-24
+Deira,Evening,Tuesday,1,0,5,20,18-24
+Deira,Morning,Saturday,0,0,0,20,18-24
+Deira,Evening,Monday,2,1,13,20,18-24
+Deira,Morning,Saturday,1,1,8,18,18-24
+Deira,Evening,Friday,2,1,13,23,18-24
+Deira,Evening,Saturday,2,1,13,20,18-24
+Deira,Morning,Sunday,1,0,5,19,18-24
+Deira,Afternoon,Monday,1,0,5,22,18-24
+Deira,Evening,Monday,2,1,13,24,25-35
+Deira,Morning,Sunday,2,1,13,17,18-24
+Deira,Morning,Saturday,2,0,10,22,18-24
+Deira,Morning,Sunday,1,0,5,17,18-24
+Deira,Evening,Monday,1,1,8,22,18-24
+Deira,Afternoon,Friday,0,0,0,21,18-24
+Deira,Morning,Monday,1,1,8,20,18-24
+Deira,Evening,Tuesday,2,0,10,23,18-24
+Deira,Evening,Sunday,2,1,13,21,18-24
+Deira,Morning,Sunday,1,0,5,24,25-35
+Deira,Afternoon,Thursday,1,0,5,22,18-24
+Deira,Afternoon,Thursday,2,0,10,19,18-24
+Deira,Evening,Thursday,1,0,5,24,25-35
+Deira,Evening,Saturday,2,0,10,17,18-24
+Deira,Evening,Tuesday,1,1,8,20,18-24
+Deira,Morning,Wednesday,1,0,5,22,18-24
+Deira,Evening,Sunday,2,0,10,22,18-24
+Deira,Morning,Thursday,0,1,3,16,18-24
+Deira,Afternoon,Thursday,0,0,0,19,18-24
+Deira,Morning,Tuesday,2,0,10,22,18-24
+Deira,Afternoon,Tuesday,2,1,13,16,18-24
+Deira,Afternoon,Sunday,1,1,8,17,18-24
+Deira,Afternoon,Saturday,1,0,5,23,18-24
+Deira,Morning,Sunday,0,1,3,25,25-35
+Deira,Afternoon,Monday,2,1,13,21,18-24
+Deira,Morning,Sunday,1,1,8,18,18-24
+Deira,Morning,Monday,1,1,8,18,18-24
+Deira,Morning,Tuesday,1,0,5,24,25-35
+Deira,Afternoon,Friday,0,0,0,24,25-35
+Deira,Afternoon,Tuesday,0,0,0,24,25-35
+Deira,Morning,Thursday,0,0,0,25,25-35
+Deira,Afternoon,Saturday,2,0,10,20,18-24
+Deira,Evening,Thursday,1,1,8,16,18-24
+Deira,Morning,Thursday,1,0,5,18,18-24
+Deira,Morning,Friday,2,0,10,24,25-35
+Deira,Afternoon,Friday,1,1,8,24,25-35
+Deira,Afternoon,Saturday,1,0,5,25,25-35
+Deira,Afternoon,Friday,2,1,13,25,25-35
+Deira,Evening,Tuesday,1,0,5,17,18-24
+Deira,Evening,Friday,0,0,0,18,18-24
+Deira,Evening,Saturday,0,0,0,19,18-24
+Deira,Morning,Wednesday,2,0,10,18,18-24
+Deira,Morning,Friday,1,0,5,16,18-24
+Deira,Afternoon,Wednesday,1,0,5,16,18-24
+Deira,Afternoon,Saturday,1,0,5,18,18-24
+Deira,Evening,Tuesday,1,0,5,16,18-24
+Deira,Evening,Wednesday,1,0,5,17,18-24
+Deira,Evening,Sunday,0,0,0,22,18-24
+Deira,Morning,Monday,1,1,8,21,18-24
+Deira,Morning,Saturday,2,0,10,22,18-24
+Deira,Morning,Thursday,1,1,8,22,18-24
+Deira,Afternoon,Tuesday,2,0,10,18,18-24
+Deira,Afternoon,Wednesday,1,0,5,17,18-24
+Deira,Evening,Thursday,1,0,5,16,18-24
+Deira,Evening,Sunday,1,0,5,23,18-24
+Deira,Morning,Thursday,0,1,3,16,18-24
+Deira,Morning,Saturday,2,1,13,16,18-24
+Deira,Morning,Sunday,1,1,8,16,18-24
+Deira,Afternoon,Sunday,2,0,10,25,25-35
+Deira,Evening,Monday,1,0,5,23,18-24
+Deira,Morning,Monday,2,0,10,20,18-24
+Deira,Afternoon,Friday,0,0,0,16,18-24
+Deira,Afternoon,Sunday,0,0,0,23,18-24
+Deira,Evening,Monday,1,0,5,16,18-24
+Deira,Afternoon,Friday,2,0,10,22,18-24
+Deira,Evening,Tuesday,1,1,8,20,18-24
+Deira,Morning,Monday,2,0,10,19,18-24
+Deira,Morning,Thursday,1,0,5,23,18-24
+Deira,Afternoon,Monday,2,0,10,20,18-24
+Deira,Afternoon,Thursday,2,0,10,17,18-24
+Deira,Afternoon,Sunday,0,0,0,22,18-24
+Deira,Evening,Friday,0,0,0,18,18-24
+Deira,Morning,Thursday,1,0,5,16,18-24
+Deira,Morning,Sunday,1,0,5,25,25-35
+Deira,Afternoon,Monday,0,0,0,23,18-24
+Deira,Evening,Tuesday,2,0,10,22,18-24
+Deira,Evening,Thursday,1,0,5,20,18-24
+Deira,Evening,Sunday,1,0,5,62,50+
+Deira,Evening,Thursday,1,1,8,78,50+
+Deira,Evening,Saturday,2,0,10,83,50+
+Deira,Morning,Saturday,1,1,8,80,50+
+Deira,Evening,Thursday,2,0,10,71,50+
+DIFC,Evening,Saturday,3,3,24,18,18-24
+DIFC,Morning,Tuesday,4,0,20,18,18-24
+DIFC,Morning,Thursday,12,0,60,18,18-24
+DIFC,Afternoon,Tuesday,8,4,52,18,18-24
+DIFC,Morning,Sunday,3,1,18,18,18-24
+DIFC,Afternoon,Thursday,4,0,20,18,18-24
+DIFC,Morning,Tuesday,16,4,92,18,18-24
+DIFC,Evening,Thursday,4,2,26,18,18-24
+DIFC,Morning,Monday,8,0,40,18,18-24
+DIFC,Morning,Monday,16,8,104,18,18-24
+DIFC,Morning,Monday,16,4,92,18,18-24
+DIFC,Morning,Monday,12,4,72,18,18-24
+DIFC,Morning,Monday,12,8,84,18,18-24
+DIFC,Morning,Monday,4,8,44,18,18-24
+DIFC,Morning,Monday,16,4,92,18,18-24
+DIFC,Morning,Monday,12,0,60,18,18-24
+DIFC,Morning,Monday,4,0,20,18,18-24
+DIFC,Morning,Monday,8,8,64,18,18-24
+DIFC,Morning,Monday,4,8,44,18,18-24
+DIFC,Morning,Monday,4,0,20,18,18-24
+DIFC,Morning,Monday,4,0,20,18,18-24
+DIFC,Morning,Monday,4,4,32,18,18-24
+DIFC,Morning,Monday,8,0,40,18,18-24
+DIFC,Morning,Monday,16,0,80,18,18-24
+DIFC,Evening,Saturday,1,3,14,19,18-24
+DIFC,Morning,Tuesday,4,0,20,19,18-24
+DIFC,Morning,Tuesday,4,4,32,19,18-24
+DIFC,Morning,Friday,3,0,15,19,18-24
+DIFC,Afternoon,Sunday,1,1,8,19,18-24
+DIFC,Morning,Tuesday,4,8,44,19,18-24
+DIFC,Morning,Thursday,16,4,92,19,18-24
+DIFC,Morning,Monday,4,8,44,19,18-24
+DIFC,Morning,Monday,4,4,32,19,18-24
+DIFC,Morning,Monday,8,0,40,19,18-24
+DIFC,Morning,Monday,16,8,104,19,18-24
+DIFC,Morning,Monday,12,8,84,19,18-24
+DIFC,Morning,Monday,16,0,80,19,18-24
+DIFC,Morning,Monday,12,8,84,19,18-24
+DIFC,Evening,Thursday,2,0,10,20,18-24
+DIFC,Evening,Wednesday,2,2,16,20,18-24
+DIFC,Morning,Monday,4,4,32,20,18-24
+DIFC,Afternoon,Sunday,1,0,5,20,18-24
+DIFC,Morning,Sunday,4,0,20,20,18-24
+DIFC,Morning,Sunday,1,0,5,20,18-24
+DIFC,Afternoon,Wednesday,16,0,80,20,18-24
+DIFC,Afternoon,Wednesday,4,8,44,20,18-24
+DIFC,Morning,Monday,16,0,80,20,18-24
+DIFC,Morning,Monday,8,0,40,20,18-24
+DIFC,Morning,Monday,4,4,32,20,18-24
+DIFC,Morning,Monday,12,0,60,20,18-24
+DIFC,Morning,Monday,12,4,72,20,18-24
+DIFC,Morning,Monday,12,8,84,20,18-24
+DIFC,Morning,Monday,12,8,84,20,18-24
+DIFC,Morning,Monday,16,0,80,20,18-24
+DIFC,Morning,Monday,4,4,32,20,18-24
+DIFC,Morning,Monday,8,8,64,20,18-24
+DIFC,Morning,Monday,12,4,72,20,18-24
+DIFC,Morning,Monday,16,4,92,20,18-24
+DIFC,Morning,Monday,4,0,20,20,18-24
+DIFC,Afternoon,Monday,8,4,52,21,18-24
+DIFC,Evening,Friday,3,0,15,21,18-24
+DIFC,Afternoon,Monday,16,0,80,21,18-24
+DIFC,Morning,Friday,3,0,15,21,18-24
+DIFC,Afternoon,Tuesday,16,8,104,21,18-24
+DIFC,Afternoon,Monday,16,8,104,21,18-24
+DIFC,Evening,Sunday,6,1,33,21,18-24
+DIFC,Morning,Monday,16,8,104,21,18-24
+DIFC,Morning,Monday,8,8,64,21,18-24
+DIFC,Morning,Monday,12,4,72,21,18-24
+DIFC,Morning,Monday,4,8,44,21,18-24
+DIFC,Morning,Monday,12,0,60,21,18-24
+DIFC,Morning,Monday,4,0,20,21,18-24
+DIFC,Morning,Monday,16,8,104,21,18-24
+DIFC,Morning,Tuesday,8,8,64,22,18-24
+DIFC,Evening,Monday,6,4,42,22,18-24
+DIFC,Afternoon,Sunday,3,3,24,22,18-24
+DIFC,Evening,Friday,1,1,8,22,18-24
+DIFC,Morning,Wednesday,16,4,92,22,18-24
+DIFC,Evening,Tuesday,6,2,36,22,18-24
+DIFC,Afternoon,Saturday,6,3,39,22,18-24
+DIFC,Evening,Sunday,4,1,23,22,18-24
+DIFC,Morning,Monday,12,0,60,22,18-24
+DIFC,Morning,Monday,12,4,72,22,18-24
+DIFC,Morning,Monday,16,4,92,22,18-24
+DIFC,Morning,Monday,8,4,52,22,18-24
+DIFC,Morning,Monday,4,4,32,22,18-24
+DIFC,Morning,Monday,4,8,44,22,18-24
+DIFC,Morning,Monday,12,8,84,22,18-24
+DIFC,Afternoon,Friday,1,3,14,23,18-24
+DIFC,Morning,Monday,8,4,52,23,18-24
+DIFC,Evening,Thursday,2,2,16,23,18-24
+DIFC,Morning,Wednesday,8,4,52,23,18-24
+DIFC,Evening,Monday,2,0,10,23,18-24
+DIFC,Morning,Monday,4,8,44,23,18-24
+DIFC,Morning,Monday,4,4,32,23,18-24
+DIFC,Morning,Monday,12,4,72,23,18-24
+DIFC,Morning,Monday,4,0,20,23,18-24
+DIFC,Morning,Monday,16,0,80,23,18-24
+DIFC,Morning,Monday,4,8,44,23,18-24
+DIFC,Morning,Monday,12,0,60,23,18-24
+DIFC,Morning,Monday,16,0,80,23,18-24
+DIFC,Morning,Monday,4,0,20,23,18-24
+DIFC,Morning,Monday,16,0,80,23,18-24
+DIFC,Morning,Monday,4,8,44,23,18-24
+DIFC,Morning,Monday,8,4,52,23,18-24
+DIFC,Morning,Monday,8,0,40,23,18-24
+DIFC,Morning,Tuesday,12,0,60,24,25-35
+DIFC,Afternoon,Thursday,8,8,64,24,25-35
+DIFC,Afternoon,Friday,1,1,8,24,25-35
+DIFC,Evening,Tuesday,2,0,10,24,25-35
+DIFC,Evening,Friday,4,3,29,24,25-35
+DIFC,Morning,Thursday,8,4,52,24,25-35
+DIFC,Afternoon,Monday,4,4,32,24,25-35
+DIFC,Morning,Monday,8,4,52,24,25-35
+DIFC,Morning,Monday,4,4,32,24,25-35
+DIFC,Morning,Monday,4,8,44,24,25-35
+DIFC,Morning,Monday,16,0,80,24,25-35
+DIFC,Morning,Monday,8,4,52,24,25-35
+DIFC,Morning,Monday,4,4,32,24,25-35
+DIFC,Morning,Monday,4,4,32,24,25-35
+DIFC,Morning,Monday,12,4,72,24,25-35
+DIFC,Morning,Monday,8,4,52,24,25-35
+DIFC,Morning,Monday,8,0,40,24,25-35
+DIFC,Morning,Monday,12,4,72,24,25-35
+DIFC,Morning,Monday,12,4,72,24,25-35
+DIFC,Morning,Monday,4,4,32,24,25-35
+DIFC,Morning,Monday,4,0,20,24,25-35
+DIFC,Morning,Monday,4,8,44,24,25-35
+DIFC,Morning,Monday,16,8,104,24,25-35
+DIFC,Morning,Wednesday,12,8,84,25,25-35
+DIFC,Evening,Friday,6,1,33,25,25-35
+DIFC,Afternoon,Sunday,1,3,14,25,25-35
+DIFC,Morning,Wednesday,16,4,92,25,25-35
+DIFC,Afternoon,Thursday,12,8,84,25,25-35
+DIFC,Afternoon,Sunday,4,0,20,25,25-35
+DIFC,Morning,Monday,8,0,40,25,25-35
+DIFC,Morning,Monday,8,8,64,25,25-35
+DIFC,Morning,Monday,4,4,32,25,25-35
+DIFC,Morning,Monday,12,0,60,25,25-35
+DIFC,Morning,Monday,12,4,72,25,25-35
+DIFC,Morning,Monday,8,4,52,25,25-35
+DIFC,Afternoon,Wednesday,8,8,64,26,25-35
+DIFC,Morning,Tuesday,12,0,60,26,25-35
+DIFC,Morning,Saturday,3,1,18,26,25-35
+DIFC,Afternoon,Saturday,6,3,39,26,25-35
+DIFC,Morning,Monday,12,4,72,26,25-35
+DIFC,Afternoon,Tuesday,8,4,52,26,25-35
+DIFC,Evening,Sunday,3,3,24,26,25-35
+DIFC,Morning,Saturday,4,1,23,26,25-35
+DIFC,Evening,Monday,6,0,30,26,25-35
+DIFC,Morning,Saturday,3,1,18,26,25-35
+DIFC,Afternoon,Monday,12,8,84,26,25-35
+DIFC,Afternoon,Thursday,12,8,84,26,25-35
+DIFC,Evening,Friday,4,3,29,26,25-35
+DIFC,Morning,Thursday,8,8,64,26,25-35
+DIFC,Evening,Monday,6,0,30,26,25-35
+DIFC,Morning,Sunday,4,1,23,26,25-35
+DIFC,Morning,Wednesday,4,4,32,26,25-35
+DIFC,Morning,Monday,12,8,84,26,25-35
+DIFC,Morning,Monday,16,0,80,26,25-35
+DIFC,Morning,Monday,16,0,80,26,25-35
+DIFC,Morning,Monday,16,8,104,26,25-35
+DIFC,Morning,Monday,8,0,40,26,25-35
+DIFC,Morning,Monday,16,0,80,26,25-35
+DIFC,Morning,Monday,4,8,44,26,25-35
+DIFC,Morning,Monday,8,0,40,26,25-35
+DIFC,Evening,Thursday,8,2,46,27,25-35
+DIFC,Afternoon,Monday,16,0,80,27,25-35
+DIFC,Afternoon,Thursday,12,0,60,27,25-35
+DIFC,Evening,Friday,1,1,8,27,25-35
+DIFC,Morning,Thursday,4,0,20,27,25-35
+DIFC,Morning,Friday,4,0,20,27,25-35
+DIFC,Morning,Monday,12,8,84,27,25-35
+DIFC,Morning,Monday,4,4,32,27,25-35
+DIFC,Morning,Monday,16,4,92,27,25-35
+DIFC,Morning,Monday,8,8,64,27,25-35
+DIFC,Morning,Monday,4,0,20,27,25-35
+DIFC,Afternoon,Thursday,8,4,52,28,25-35
+DIFC,Evening,Sunday,4,3,29,28,25-35
+DIFC,Evening,Tuesday,4,2,26,28,25-35
+DIFC,Morning,Monday,12,0,60,28,25-35
+DIFC,Evening,Tuesday,8,4,52,28,25-35
+DIFC,Evening,Saturday,4,0,20,28,25-35
+DIFC,Morning,Monday,16,0,80,28,25-35
+DIFC,Evening,Monday,8,0,40,28,25-35
+DIFC,Afternoon,Tuesday,4,4,32,28,25-35
+DIFC,Afternoon,Wednesday,8,8,64,28,25-35
+DIFC,Afternoon,Sunday,3,1,18,28,25-35
+DIFC,Morning,Tuesday,4,4,32,28,25-35
+DIFC,Morning,Monday,12,0,60,28,25-35
+DIFC,Morning,Monday,4,8,44,28,25-35
+DIFC,Morning,Monday,4,4,32,28,25-35
+DIFC,Afternoon,Friday,4,3,29,29,25-35
+DIFC,Morning,Wednesday,16,8,104,29,25-35
+DIFC,Morning,Wednesday,12,0,60,29,25-35
+DIFC,Evening,Wednesday,8,0,40,29,25-35
+DIFC,Afternoon,Friday,6,1,33,29,25-35
+DIFC,Evening,Monday,4,0,20,29,25-35
+DIFC,Afternoon,Thursday,4,0,20,29,25-35
+DIFC,Morning,Wednesday,8,0,40,29,25-35
+DIFC,Morning,Monday,16,0,80,29,25-35
+DIFC,Morning,Monday,4,8,44,29,25-35
+DIFC,Morning,Monday,4,4,32,29,25-35
+DIFC,Morning,Monday,8,4,52,29,25-35
+DIFC,Morning,Monday,8,8,64,29,25-35
+DIFC,Morning,Monday,16,8,104,29,25-35
+DIFC,Morning,Monday,16,4,92,29,25-35
+DIFC,Morning,Monday,16,8,104,29,25-35
+DIFC,Afternoon,Monday,12,4,72,30,25-35
+DIFC,Morning,Wednesday,4,8,44,30,25-35
+DIFC,Afternoon,Wednesday,8,0,40,30,25-35
+DIFC,Afternoon,Sunday,1,0,5,30,25-35
+DIFC,Morning,Wednesday,12,8,84,30,25-35
+DIFC,Morning,Monday,4,0,20,30,25-35
+DIFC,Morning,Wednesday,16,0,80,30,25-35
+DIFC,Morning,Saturday,4,0,20,30,25-35
+DIFC,Morning,Monday,4,4,32,30,25-35
+DIFC,Morning,Monday,12,8,84,30,25-35
+DIFC,Morning,Monday,8,0,40,30,25-35
+DIFC,Morning,Monday,16,0,80,30,25-35
+DIFC,Morning,Monday,12,8,84,30,25-35
+DIFC,Morning,Monday,12,0,60,30,25-35
+DIFC,Morning,Monday,4,8,44,30,25-35
+DIFC,Morning,Monday,12,4,72,30,25-35
+DIFC,Morning,Monday,16,0,80,30,25-35
+DIFC,Morning,Monday,12,8,84,30,25-35
+DIFC,Morning,Monday,8,8,64,30,25-35
+DIFC,Morning,Saturday,1,3,14,31,25-35
+DIFC,Afternoon,Friday,6,0,30,31,25-35
+DIFC,Evening,Monday,8,4,52,31,25-35
+DIFC,Morning,Monday,16,8,104,31,25-35
+DIFC,Morning,Friday,6,1,33,31,25-35
+DIFC,Morning,Tuesday,16,8,104,31,25-35
+DIFC,Morning,Thursday,12,4,72,31,25-35
+DIFC,Afternoon,Thursday,16,0,80,31,25-35
+DIFC,Afternoon,Monday,12,8,84,31,25-35
+DIFC,Morning,Monday,8,8,64,31,25-35
+DIFC,Morning,Friday,4,3,29,31,25-35
+DIFC,Afternoon,Thursday,12,4,72,31,25-35
+DIFC,Morning,Sunday,4,3,29,31,25-35
+DIFC,Morning,Monday,16,8,104,31,25-35
+DIFC,Morning,Monday,16,0,80,31,25-35
+DIFC,Morning,Monday,4,8,44,31,25-35
+DIFC,Morning,Monday,8,8,64,31,25-35
+DIFC,Morning,Monday,16,8,104,31,25-35
+DIFC,Morning,Monday,4,0,20,31,25-35
+DIFC,Morning,Monday,4,8,44,31,25-35
+DIFC,Morning,Monday,8,0,40,31,25-35
+DIFC,Morning,Monday,12,8,84,31,25-35
+DIFC,Morning,Monday,4,8,44,31,25-35
+DIFC,Morning,Monday,16,0,80,32,25-35
+DIFC,Morning,Sunday,1,3,14,32,25-35
+DIFC,Afternoon,Tuesday,8,8,64,32,25-35
+DIFC,Morning,Wednesday,4,8,44,32,25-35
+DIFC,Morning,Saturday,1,0,5,32,25-35
+DIFC,Evening,Monday,6,0,30,32,25-35
+DIFC,Afternoon,Friday,1,0,5,32,25-35
+DIFC,Morning,Saturday,6,0,30,32,25-35
+DIFC,Afternoon,Friday,6,0,30,32,25-35
+DIFC,Morning,Monday,4,8,44,32,25-35
+DIFC,Morning,Monday,16,8,104,32,25-35
+DIFC,Morning,Monday,12,0,60,32,25-35
+DIFC,Morning,Monday,16,4,92,32,25-35
+DIFC,Morning,Monday,12,4,72,32,25-35
+DIFC,Morning,Monday,8,4,52,32,25-35
+DIFC,Morning,Monday,8,8,64,32,25-35
+DIFC,Morning,Monday,4,0,20,32,25-35
+DIFC,Morning,Wednesday,8,8,64,33,25-35
+DIFC,Morning,Friday,1,1,8,33,25-35
+DIFC,Morning,Thursday,4,4,32,33,25-35
+DIFC,Afternoon,Friday,3,0,15,33,25-35
+DIFC,Afternoon,Saturday,4,3,29,33,25-35
+DIFC,Evening,Friday,4,1,23,33,25-35
+DIFC,Morning,Friday,4,0,20,33,25-35
+DIFC,Morning,Saturday,1,0,5,33,25-35
+DIFC,Evening,Monday,4,4,32,33,25-35
+DIFC,Evening,Friday,1,3,14,33,25-35
+DIFC,Morning,Sunday,6,0,30,33,25-35
+DIFC,Morning,Sunday,4,1,23,33,25-35
+DIFC,Afternoon,Wednesday,16,8,104,33,25-35
+DIFC,Morning,Friday,1,0,5,33,25-35
+DIFC,Morning,Monday,12,0,60,33,25-35
+DIFC,Morning,Monday,16,0,80,33,25-35
+DIFC,Morning,Monday,4,4,32,33,25-35
+DIFC,Morning,Monday,12,8,84,33,25-35
+DIFC,Morning,Monday,8,0,40,33,25-35
+DIFC,Morning,Monday,4,4,32,33,25-35
+DIFC,Morning,Monday,16,8,104,33,25-35
+DIFC,Afternoon,Sunday,6,1,33,34,25-35
+DIFC,Morning,Saturday,6,0,30,34,25-35
+DIFC,Morning,Monday,8,0,40,34,25-35
+DIFC,Afternoon,Saturday,1,1,8,34,25-35
+DIFC,Morning,Wednesday,16,4,92,34,25-35
+DIFC,Morning,Thursday,12,4,72,34,25-35
+DIFC,Evening,Thursday,4,0,20,34,25-35
+DIFC,Evening,Saturday,4,3,29,34,25-35
+DIFC,Afternoon,Monday,12,8,84,34,25-35
+DIFC,Morning,Friday,6,0,30,34,25-35
+DIFC,Afternoon,Monday,12,4,72,34,25-35
+DIFC,Morning,Thursday,12,0,60,34,25-35
+DIFC,Evening,Monday,8,4,52,34,25-35
+DIFC,Morning,Monday,12,8,84,34,25-35
+DIFC,Morning,Monday,12,0,60,34,25-35
+DIFC,Morning,Monday,8,0,40,34,25-35
+DIFC,Evening,Tuesday,8,0,40,35,35-50
+DIFC,Afternoon,Tuesday,12,0,60,35,35-50
+DIFC,Morning,Sunday,3,1,18,35,35-50
+DIFC,Afternoon,Sunday,1,3,14,35,35-50
+DIFC,Afternoon,Saturday,1,3,14,35,35-50
+DIFC,Evening,Sunday,3,0,15,35,35-50
+DIFC,Morning,Friday,1,1,8,35,35-50
+DIFC,Morning,Saturday,6,3,39,35,35-50
+DIFC,Afternoon,Saturday,6,3,39,35,35-50
+DIFC,Afternoon,Thursday,4,0,20,35,35-50
+DIFC,Morning,Monday,12,8,84,35,35-50
+DIFC,Morning,Monday,12,4,72,35,35-50
+DIFC,Morning,Monday,8,8,64,35,35-50
+DIFC,Morning,Monday,16,8,104,35,35-50
+DIFC,Morning,Monday,12,8,84,35,35-50
+DIFC,Morning,Monday,16,8,104,35,35-50
+DIFC,Morning,Monday,12,8,84,35,35-50
+DIFC,Morning,Monday,12,8,84,35,35-50
+DIFC,Morning,Monday,12,8,84,35,35-50
+DIFC,Evening,Wednesday,2,0,10,36,35-50
+DIFC,Afternoon,Tuesday,8,8,64,36,35-50
+DIFC,Evening,Wednesday,6,4,42,36,35-50
+DIFC,Morning,Sunday,6,3,39,36,35-50
+DIFC,Morning,Monday,16,0,80,36,35-50
+DIFC,Morning,Wednesday,4,0,20,36,35-50
+DIFC,Morning,Monday,4,8,44,36,35-50
+DIFC,Morning,Monday,16,8,104,36,35-50
+DIFC,Morning,Monday,8,8,64,36,35-50
+DIFC,Morning,Monday,8,8,64,36,35-50
+DIFC,Morning,Monday,16,4,92,36,35-50
+DIFC,Morning,Monday,8,4,52,36,35-50
+DIFC,Morning,Monday,4,0,20,36,35-50
+DIFC,Morning,Tuesday,16,4,92,37,35-50
+DIFC,Morning,Sunday,3,0,15,37,35-50
+DIFC,Afternoon,Friday,1,1,8,37,35-50
+DIFC,Afternoon,Thursday,4,0,20,37,35-50
+DIFC,Morning,Monday,16,0,80,37,35-50
+DIFC,Evening,Saturday,1,1,8,37,35-50
+DIFC,Morning,Monday,16,4,92,37,35-50
+DIFC,Morning,Monday,4,0,20,37,35-50
+DIFC,Morning,Monday,8,4,52,37,35-50
+DIFC,Morning,Monday,4,8,44,37,35-50
+DIFC,Morning,Monday,8,0,40,37,35-50
+DIFC,Morning,Monday,16,8,104,37,35-50
+DIFC,Evening,Sunday,1,0,5,38,35-50
+DIFC,Afternoon,Monday,4,8,44,38,35-50
+DIFC,Evening,Sunday,1,3,14,38,35-50
+DIFC,Morning,Friday,4,0,20,38,35-50
+DIFC,Afternoon,Tuesday,4,8,44,38,35-50
+DIFC,Afternoon,Sunday,6,3,39,38,35-50
+DIFC,Evening,Sunday,6,1,33,38,35-50
+DIFC,Evening,Wednesday,8,4,52,38,35-50
+DIFC,Evening,Thursday,6,2,36,38,35-50
+DIFC,Evening,Monday,6,0,30,38,35-50
+DIFC,Evening,Wednesday,4,4,32,38,35-50
+DIFC,Morning,Monday,12,0,60,38,35-50
+DIFC,Morning,Monday,12,0,60,38,35-50
+DIFC,Morning,Monday,16,4,92,38,35-50
+DIFC,Morning,Monday,12,8,84,38,35-50
+DIFC,Morning,Monday,8,8,64,38,35-50
+DIFC,Morning,Monday,16,0,80,38,35-50
+DIFC,Morning,Monday,8,0,40,38,35-50
+DIFC,Morning,Sunday,4,1,23,39,35-50
+DIFC,Afternoon,Sunday,4,1,23,39,35-50
+DIFC,Evening,Monday,6,0,30,39,35-50
+DIFC,Morning,Saturday,3,0,15,39,35-50
+DIFC,Afternoon,Thursday,4,0,20,39,35-50
+DIFC,Evening,Saturday,4,1,23,39,35-50
+DIFC,Afternoon,Sunday,4,0,20,39,35-50
+DIFC,Afternoon,Sunday,6,0,30,39,35-50
+DIFC,Morning,Monday,4,0,20,39,35-50
+DIFC,Morning,Monday,8,8,64,39,35-50
+DIFC,Morning,Monday,12,8,84,39,35-50
+DIFC,Morning,Monday,8,4,52,39,35-50
+DIFC,Morning,Monday,16,0,80,39,35-50
+DIFC,Morning,Monday,12,0,60,39,35-50
+DIFC,Afternoon,Wednesday,8,0,40,40,35-50
+DIFC,Evening,Thursday,8,4,52,40,35-50
+DIFC,Afternoon,Tuesday,12,0,60,40,35-50
+DIFC,Evening,Tuesday,4,0,20,40,35-50
+DIFC,Afternoon,Saturday,3,0,15,40,35-50
+DIFC,Morning,Friday,3,3,24,40,35-50
+DIFC,Evening,Monday,8,2,46,40,35-50
+DIFC,Morning,Wednesday,4,4,32,40,35-50
+DIFC,Morning,Saturday,3,1,18,40,35-50
+DIFC,Afternoon,Saturday,4,0,20,40,35-50
+DIFC,Morning,Saturday,1,0,5,40,35-50
+DIFC,Afternoon,Friday,3,1,18,40,35-50
+DIFC,Morning,Monday,4,0,20,40,35-50
+DIFC,Morning,Monday,12,4,72,40,35-50
+DIFC,Morning,Monday,8,8,64,40,35-50
+DIFC,Afternoon,Wednesday,16,4,92,41,35-50
+DIFC,Morning,Sunday,4,1,23,41,35-50
+DIFC,Evening,Saturday,6,3,39,41,35-50
+DIFC,Afternoon,Sunday,1,1,8,41,35-50
+DIFC,Morning,Friday,6,3,39,41,35-50
+DIFC,Evening,Tuesday,2,0,10,41,35-50
+DIFC,Morning,Saturday,3,0,15,41,35-50
+DIFC,Afternoon,Sunday,1,3,14,41,35-50
+DIFC,Afternoon,Friday,1,0,5,41,35-50
+DIFC,Afternoon,Thursday,4,4,32,41,35-50
+DIFC,Afternoon,Wednesday,16,8,104,41,35-50
+DIFC,Evening,Saturday,4,1,23,41,35-50
+DIFC,Morning,Monday,12,0,60,41,35-50
+DIFC,Morning,Monday,4,8,44,41,35-50
+DIFC,Morning,Monday,16,8,104,41,35-50
+DIFC,Morning,Monday,8,4,52,41,35-50
+DIFC,Morning,Monday,12,0,60,41,35-50
+DIFC,Morning,Monday,12,4,72,41,35-50
+DIFC,Morning,Monday,16,0,80,41,35-50
+DIFC,Morning,Monday,12,0,60,41,35-50
+DIFC,Morning,Monday,8,0,40,41,35-50
+DIFC,Morning,Monday,8,4,52,41,35-50
+DIFC,Morning,Monday,4,8,44,41,35-50
+DIFC,Morning,Monday,12,4,72,41,35-50
+DIFC,Morning,Monday,4,8,44,41,35-50
+DIFC,Evening,Thursday,4,4,32,42,35-50
+DIFC,Evening,Friday,1,3,14,42,35-50
+DIFC,Morning,Sunday,6,3,39,42,35-50
+DIFC,Afternoon,Saturday,4,0,20,42,35-50
+DIFC,Afternoon,Wednesday,4,4,32,42,35-50
+DIFC,Evening,Monday,6,4,42,42,35-50
+DIFC,Evening,Tuesday,6,4,42,42,35-50
+DIFC,Evening,Thursday,4,4,32,42,35-50
+DIFC,Afternoon,Tuesday,12,4,72,42,35-50
+DIFC,Afternoon,Wednesday,8,4,52,42,35-50
+DIFC,Morning,Friday,4,3,29,42,35-50
+DIFC,Afternoon,Friday,1,0,5,42,35-50
+DIFC,Evening,Friday,6,3,39,42,35-50
+DIFC,Morning,Monday,16,0,80,42,35-50
+DIFC,Morning,Monday,8,4,52,42,35-50
+DIFC,Morning,Monday,4,8,44,42,35-50
+DIFC,Morning,Monday,12,0,60,42,35-50
+DIFC,Morning,Monday,12,4,72,42,35-50
+DIFC,Afternoon,Sunday,3,0,15,43,35-50
+DIFC,Afternoon,Saturday,1,1,8,43,35-50
+DIFC,Evening,Saturday,3,1,18,43,35-50
+DIFC,Evening,Thursday,2,4,22,43,35-50
+DIFC,Evening,Wednesday,6,2,36,43,35-50
+DIFC,Evening,Sunday,6,0,30,43,35-50
+DIFC,Morning,Monday,12,0,60,43,35-50
+DIFC,Evening,Tuesday,4,4,32,43,35-50
+DIFC,Morning,Monday,4,8,44,43,35-50
+DIFC,Morning,Monday,16,8,104,43,35-50
+DIFC,Morning,Monday,16,0,80,43,35-50
+DIFC,Morning,Monday,16,4,92,43,35-50
+DIFC,Morning,Monday,16,0,80,43,35-50
+DIFC,Evening,Wednesday,4,4,32,44,35-50
+DIFC,Afternoon,Monday,4,8,44,44,35-50
+DIFC,Afternoon,Wednesday,8,8,64,44,35-50
+DIFC,Evening,Thursday,8,4,52,44,35-50
+DIFC,Morning,Friday,4,0,20,44,35-50
+DIFC,Morning,Sunday,1,0,5,44,35-50
+DIFC,Morning,Friday,1,1,8,44,35-50
+DIFC,Morning,Monday,8,4,52,44,35-50
+DIFC,Morning,Monday,8,4,52,44,35-50
+DIFC,Morning,Monday,16,4,92,44,35-50
+DIFC,Morning,Monday,16,4,92,44,35-50
+DIFC,Morning,Monday,16,4,92,44,35-50
+DIFC,Morning,Monday,4,4,32,44,35-50
+DIFC,Evening,Saturday,1,1,8,45,35-50
+DIFC,Morning,Friday,4,1,23,45,35-50
+DIFC,Morning,Thursday,8,8,64,45,35-50
+DIFC,Evening,Monday,6,4,42,45,35-50
+DIFC,Morning,Tuesday,8,4,52,45,35-50
+DIFC,Afternoon,Tuesday,8,0,40,45,35-50
+DIFC,Morning,Thursday,16,8,104,45,35-50
+DIFC,Evening,Sunday,3,0,15,45,35-50
+DIFC,Afternoon,Saturday,6,0,30,45,35-50
+DIFC,Evening,Saturday,1,3,14,45,35-50
+DIFC,Morning,Thursday,16,8,104,45,35-50
+DIFC,Morning,Monday,12,8,84,45,35-50
+DIFC,Morning,Monday,8,4,52,45,35-50
+DIFC,Morning,Monday,4,8,44,45,35-50
+DIFC,Morning,Monday,8,4,52,45,35-50
+DIFC,Morning,Monday,16,4,92,45,35-50
+DIFC,Morning,Monday,4,4,32,45,35-50
+DIFC,Evening,Monday,6,0,30,46,35-50
+DIFC,Afternoon,Thursday,16,4,92,46,35-50
+DIFC,Morning,Sunday,1,3,14,46,35-50
+DIFC,Afternoon,Thursday,16,4,92,46,35-50
+DIFC,Afternoon,Monday,12,8,84,46,35-50
+DIFC,Evening,Saturday,1,3,14,46,35-50
+DIFC,Morning,Monday,4,0,20,46,35-50
+DIFC,Morning,Monday,8,4,52,46,35-50
+DIFC,Morning,Monday,4,4,32,46,35-50
+DIFC,Morning,Monday,4,8,44,46,35-50
+DIFC,Morning,Monday,4,0,20,46,35-50
+DIFC,Morning,Monday,4,0,20,46,35-50
+DIFC,Morning,Monday,16,0,80,46,35-50
+DIFC,Morning,Monday,4,4,32,46,35-50
+DIFC,Morning,Monday,16,0,80,46,35-50
+DIFC,Afternoon,Saturday,3,0,15,47,35-50
+DIFC,Morning,Thursday,12,4,72,47,35-50
+DIFC,Afternoon,Wednesday,4,8,44,47,35-50
+DIFC,Afternoon,Monday,8,8,64,47,35-50
+DIFC,Morning,Saturday,3,3,24,47,35-50
+DIFC,Morning,Tuesday,12,4,72,47,35-50
+DIFC,Evening,Wednesday,4,4,32,47,35-50
+DIFC,Morning,Monday,12,8,84,47,35-50
+DIFC,Morning,Monday,8,4,52,47,35-50
+DIFC,Morning,Monday,8,0,40,47,35-50
+DIFC,Evening,Wednesday,4,4,32,48,35-50
+DIFC,Evening,Friday,6,1,33,48,35-50
+DIFC,Afternoon,Thursday,8,0,40,48,35-50
+DIFC,Afternoon,Monday,4,8,44,48,35-50
+DIFC,Afternoon,Wednesday,4,4,32,48,35-50
+DIFC,Morning,Thursday,12,0,60,48,35-50
+DIFC,Afternoon,Wednesday,8,4,52,48,35-50
+DIFC,Evening,Saturday,1,1,8,48,35-50
+DIFC,Morning,Monday,4,4,32,48,35-50
+DIFC,Morning,Sunday,1,3,14,48,35-50
+DIFC,Evening,Thursday,4,2,26,48,35-50
+DIFC,Morning,Friday,4,3,29,48,35-50
+DIFC,Morning,Monday,12,8,84,48,35-50
+DIFC,Morning,Monday,16,0,80,48,35-50
+DIFC,Morning,Monday,4,8,44,48,35-50
+DIFC,Morning,Monday,8,8,64,48,35-50
+DIFC,Morning,Monday,8,8,64,48,35-50
+DIFC,Morning,Monday,12,4,72,48,35-50
+DIFC,Morning,Monday,8,0,40,48,35-50
+DIFC,Morning,Monday,12,4,72,48,35-50
+DIFC,Morning,Monday,4,4,32,48,35-50
+DIFC,Afternoon,Tuesday,8,8,64,49,35-50
+DIFC,Afternoon,Wednesday,16,4,92,49,35-50
+DIFC,Afternoon,Saturday,6,0,30,49,35-50
+DIFC,Evening,Saturday,1,0,5,49,35-50
+DIFC,Afternoon,Monday,4,4,32,49,35-50
+DIFC,Evening,Friday,1,1,8,49,35-50
+DIFC,Afternoon,Friday,1,1,8,49,35-50
+DIFC,Evening,Monday,2,4,22,49,35-50
+DIFC,Evening,Tuesday,2,2,16,49,35-50
+DIFC,Evening,Thursday,2,2,16,49,35-50
+DIFC,Evening,Friday,1,3,14,49,35-50
+DIFC,Morning,Monday,4,4,32,49,35-50
+DIFC,Morning,Monday,8,8,64,49,35-50
+DIFC,Evening,Tuesday,6,4,42,50,50+
+DIFC,Afternoon,Monday,16,8,104,50,50+
+DIFC,Evening,Friday,4,3,29,50,50+
+DIFC,Evening,Saturday,4,3,29,50,50+
+DIFC,Afternoon,Sunday,6,1,33,50,50+
+DIFC,Evening,Wednesday,6,4,42,50,50+
+DIFC,Afternoon,Friday,3,1,18,50,50+
+DIFC,Afternoon,Saturday,3,3,24,50,50+
+DIFC,Morning,Monday,16,0,80,50,50+
+DIFC,Morning,Monday,16,4,92,50,50+
+DIFC,Morning,Monday,12,0,60,50,50+
+DIFC,Morning,Monday,16,4,92,50,50+
+DIFC,Morning,Monday,8,4,52,50,50+
+DIFC,Morning,Monday,12,4,72,50,50+
+DIFC,Morning,Monday,16,0,80,50,50+
+DIFC,Morning,Monday,16,8,104,50,50+
+DIFC,Morning,Monday,4,8,44,50,50+
+DIFC,Afternoon,Wednesday,8,0,40,51,50+
+DIFC,Evening,Thursday,2,0,10,51,50+
+DIFC,Morning,Wednesday,16,8,104,51,50+
+DIFC,Afternoon,Friday,1,3,14,51,50+
+DIFC,Morning,Monday,8,0,40,51,50+
+DIFC,Morning,Monday,8,4,52,51,50+
+DIFC,Morning,Monday,16,8,104,51,50+
+DIFC,Morning,Monday,12,8,84,51,50+
+DIFC,Morning,Monday,4,8,44,51,50+
+DIFC,Morning,Monday,4,0,20,51,50+
+DIFC,Afternoon,Tuesday,12,0,60,52,50+
+DIFC,Evening,Sunday,6,3,39,52,50+
+DIFC,Evening,Thursday,6,4,42,52,50+
+DIFC,Afternoon,Friday,1,0,5,52,50+
+DIFC,Evening,Wednesday,8,4,52,52,50+
+DIFC,Evening,Thursday,8,2,46,52,50+
+DIFC,Morning,Tuesday,16,0,80,52,50+
+DIFC,Morning,Monday,4,8,44,52,50+
+DIFC,Evening,Monday,6,2,36,52,50+
+DIFC,Morning,Monday,12,0,60,52,50+
+DIFC,Morning,Monday,16,8,104,52,50+
+DIFC,Morning,Monday,16,8,104,52,50+
+DIFC,Morning,Monday,16,0,80,52,50+
+DIFC,Morning,Monday,8,8,64,52,50+
+DIFC,Morning,Monday,4,8,44,52,50+
+DIFC,Morning,Monday,4,8,44,52,50+
+DIFC,Morning,Monday,4,8,44,52,50+
+DIFC,Evening,Thursday,2,0,10,53,50+
+DIFC,Morning,Sunday,6,3,39,53,50+
+DIFC,Morning,Tuesday,8,8,64,53,50+
+DIFC,Afternoon,Thursday,4,4,32,53,50+
+DIFC,Evening,Wednesday,8,4,52,53,50+
+DIFC,Evening,Sunday,6,1,33,53,50+
+DIFC,Evening,Tuesday,6,2,36,53,50+
+DIFC,Morning,Monday,4,8,44,53,50+
+DIFC,Morning,Monday,8,0,40,53,50+
+DIFC,Morning,Monday,8,0,40,53,50+
+DIFC,Morning,Monday,12,0,60,53,50+
+DIFC,Morning,Monday,16,0,80,53,50+
+DIFC,Morning,Monday,4,8,44,53,50+
+DIFC,Morning,Monday,12,0,60,53,50+
+DIFC,Morning,Monday,8,0,40,53,50+
+DIFC,Morning,Thursday,12,8,84,54,50+
+DIFC,Morning,Tuesday,16,4,92,54,50+
+DIFC,Morning,Saturday,3,0,15,54,50+
+DIFC,Evening,Wednesday,2,4,22,54,50+
+DIFC,Evening,Tuesday,2,2,16,54,50+
+DIFC,Morning,Sunday,6,3,39,54,50+
+DIFC,Morning,Saturday,1,0,5,54,50+
+DIFC,Afternoon,Thursday,12,4,72,54,50+
+DIFC,Morning,Monday,4,4,32,54,50+
+DIFC,Morning,Monday,4,8,44,54,50+
+DIFC,Morning,Monday,12,0,60,54,50+
+DIFC,Morning,Monday,12,8,84,54,50+
+DIFC,Morning,Monday,16,8,104,54,50+
+DIFC,Morning,Monday,4,4,32,54,50+
+DIFC,Morning,Monday,4,0,20,54,50+
+DIFC,Morning,Thursday,12,0,60,55,50+
+DIFC,Afternoon,Saturday,6,0,30,55,50+
+DIFC,Afternoon,Tuesday,4,4,32,55,50+
+DIFC,Evening,Monday,6,2,36,55,50+
+DIFC,Evening,Saturday,4,1,23,55,50+
+DIFC,Morning,Thursday,4,8,44,55,50+
+DIFC,Afternoon,Tuesday,8,4,52,55,50+
+DIFC,Afternoon,Tuesday,8,8,64,55,50+
+DIFC,Afternoon,Tuesday,16,0,80,55,50+
+DIFC,Morning,Monday,8,8,64,55,50+
+DIFC,Morning,Monday,12,4,72,55,50+
+DIFC,Morning,Monday,16,4,92,55,50+
+DIFC,Morning,Monday,8,8,64,55,50+
+DIFC,Morning,Monday,16,0,80,55,50+
+DIFC,Morning,Monday,8,0,40,55,50+
+DIFC,Morning,Monday,8,0,40,55,50+
+DIFC,Morning,Monday,12,4,72,55,50+
+DIFC,Morning,Monday,16,4,92,83,50+
+DIFC,Morning,Friday,3,3,24,76,50+
+DIFC,Afternoon,Thursday,12,0,60,75,50+
+DIFC,Evening,Sunday,6,1,33,82,50+
+DIFC,Morning,Thursday,16,0,80,64,50+
+DIFC,Evening,Tuesday,8,4,52,69,50+
+DIFC,Evening,Wednesday,4,4,32,84,50+
+DIFC,Evening,Friday,6,1,33,61,50+
+DIFC,Evening,Sunday,4,1,23,58,50+
+DIFC,Evening,Tuesday,6,4,42,59,50+
+DIFC,Evening,Sunday,1,1,8,56,50+
+DIFC,Morning,Wednesday,4,8,44,60,50+
+DIFC,Morning,Thursday,4,0,20,85,50+
+DIFC,Evening,Tuesday,2,4,22,68,50+
+DIFC,Evening,Wednesday,6,4,42,64,50+
+DIFC,Evening,Sunday,4,1,23,72,50+
+DIFC,Morning,Wednesday,4,0,20,63,50+
+DIFC,Afternoon,Wednesday,12,0,60,76,50+
+DIFC,Afternoon,Saturday,4,3,29,60,50+
+DIFC,Evening,Saturday,6,0,30,61,50+
+DIFC,Morning,Monday,16,4,92,73,50+
+DIFC,Morning,Wednesday,4,4,32,66,50+
+DIFC,Morning,Saturday,3,0,15,71,50+
+DIFC,Afternoon,Tuesday,8,4,52,79,50+
+DIFC,Afternoon,Friday,3,1,18,70,50+
+DIFC,Evening,Tuesday,4,4,32,72,50+
+DIFC,Evening,Friday,3,1,18,74,50+
+DIFC,Evening,Sunday,3,3,24,60,50+
+DIFC,Morning,Tuesday,4,8,44,82,50+
+DIFC,Afternoon,Saturday,6,1,33,81,50+
+DIFC,Evening,Friday,6,1,33,70,50+
+DIFC,Afternoon,Monday,8,8,64,58,50+
+DIFC,Evening,Tuesday,2,0,10,68,50+
+DIFC,Evening,Thursday,8,0,40,75,50+
+DIFC,Evening,Sunday,6,3,39,82,50+
+DIFC,Morning,Tuesday,16,4,92,80,50+
+DIFC,Morning,Saturday,1,3,14,74,50+
+DIFC,Afternoon,Saturday,6,1,33,59,50+
+DIFC,Evening,Wednesday,6,4,42,82,50+
+DIFC,Afternoon,Saturday,6,3,39,81,50+
+DIFC,Afternoon,Sunday,3,3,24,64,50+
+DIFC,Evening,Tuesday,4,4,32,67,50+
+DIFC,Evening,Friday,1,0,5,81,50+
+DIFC,Evening,Sunday,3,0,15,57,50+
+DIFC,Afternoon,Wednesday,12,8,84,68,50+
+DIFC,Afternoon,Friday,3,3,24,59,50+
+DIFC,Evening,Wednesday,4,4,32,64,50+
+DIFC,Evening,Saturday,3,3,24,72,50+
+DIFC,Morning,Friday,6,0,30,81,50+
+DIFC,Evening,Friday,3,3,24,82,50+
+DIFC,Evening,Saturday,6,3,39,76,50+
+DIFC,Afternoon,Tuesday,16,4,92,58,50+
+DIFC,Afternoon,Friday,1,1,8,64,50+
+DIFC,Afternoon,Sunday,4,1,23,68,50+
+DIFC,Morning,Monday,16,0,80,62,50+
+DIFC,Morning,Tuesday,16,8,104,83,50+
+DIFC,Morning,Thursday,12,0,60,74,50+
+DIFC,Afternoon,Monday,4,4,32,57,50+
+DIFC,Evening,Wednesday,6,2,36,81,50+
+DIFC,Evening,Thursday,6,4,42,72,50+
+DIFC,Morning,Tuesday,16,4,92,59,50+
+DIFC,Morning,Monday,12,8,84,75,50+
+DIFC,Morning,Monday,16,0,80,66,50+
+DIFC,Morning,Monday,4,0,20,65,50+
+DIFC,Morning,Monday,4,0,20,67,50+
+DIFC,Morning,Monday,8,4,52,74,50+
+DIFC,Morning,Monday,8,4,52,76,50+
+DIFC,Morning,Monday,12,8,84,74,50+
+DIFC,Morning,Monday,8,4,52,72,50+
+DIFC,Morning,Monday,16,0,80,85,50+
+DIFC,Morning,Monday,16,8,104,84,50+
+DIFC,Morning,Monday,4,8,44,71,50+
+DIFC,Morning,Monday,16,8,104,74,50+
+DIFC,Morning,Monday,4,0,20,59,50+
+DIFC,Morning,Monday,8,4,52,65,50+
+DIFC,Morning,Monday,4,0,20,57,50+
+DIFC,Morning,Monday,12,0,60,77,50+
+DIFC,Morning,Monday,4,4,32,75,50+
+DIFC,Morning,Monday,12,4,72,56,50+
+DIFC,Morning,Monday,8,0,40,61,50+
+DIFC,Morning,Monday,16,4,92,60,50+
+DIFC,Morning,Monday,16,4,92,79,50+
+DIFC,Morning,Monday,4,8,44,62,50+
+DIFC,Morning,Monday,16,0,80,68,50+
+DIFC,Morning,Monday,4,4,32,71,50+
+DIFC,Morning,Monday,16,4,92,79,50+
+DIFC,Morning,Monday,8,8,64,68,50+
+DIFC,Morning,Monday,8,8,64,75,50+
+DIFC,Morning,Monday,12,8,84,79,50+
+DIFC,Morning,Monday,8,0,40,66,50+
+DIFC,Morning,Monday,4,0,20,64,50+
+DIFC,Morning,Monday,4,8,44,61,50+
+DIFC,Morning,Monday,12,0,60,79,50+
+DIFC,Morning,Monday,4,0,20,70,50+
+DIFC,Morning,Monday,8,0,40,66,50+
+DIFC,Morning,Monday,12,8,84,63,50+
+DIFC,Morning,Monday,16,4,92,73,50+
+DIFC,Morning,Monday,8,0,40,64,50+
+DIFC,Morning,Monday,16,0,80,77,50+
+DIFC,Morning,Monday,16,0,80,72,50+
+DIFC,Morning,Monday,12,4,72,58,50+
+DIFC,Morning,Monday,16,0,80,71,50+
+DIFC,Morning,Monday,8,4,52,69,50+
+DIFC,Morning,Monday,16,8,104,69,50+
+DIFC,Morning,Monday,16,0,80,67,50+
+DIFC,Morning,Monday,12,4,72,78,50+
+DIFC,Morning,Monday,16,8,104,81,50+
+DIFC,Morning,Monday,8,4,52,62,50+
+DIFC,Morning,Monday,12,8,84,63,50+
+DIFC,Morning,Monday,4,4,32,63,50+
+DIFC,Morning,Monday,12,0,60,72,50+
+DIFC,Morning,Monday,4,0,20,66,50+
+DIFC,Morning,Monday,12,4,72,62,50+
+DIFC,Morning,Monday,8,4,52,73,50+
+DIFC,Morning,Monday,16,4,92,66,50+
+DIFC,Morning,Monday,12,4,72,72,50+
+DIFC,Morning,Monday,8,0,40,65,50+
+DIFC,Morning,Monday,12,0,60,74,50+
+DIFC,Morning,Monday,8,0,40,58,50+
+DIFC,Morning,Monday,4,0,20,69,50+
+DIFC,Morning,Monday,8,8,64,73,50+
+DIFC,Morning,Monday,12,4,72,70,50+
+DIFC,Morning,Monday,8,8,64,79,50+
+DIFC,Morning,Monday,12,4,72,73,50+
+DIFC,Morning,Monday,16,4,92,67,50+
+DIFC,Morning,Monday,4,4,32,59,50+
+DIFC,Morning,Monday,8,8,64,76,50+
+DIFC,Morning,Monday,12,0,60,81,50+
+DIFC,Morning,Monday,16,4,92,60,50+
+DIFC,Morning,Monday,12,0,60,70,50+
+DIFC,Morning,Monday,4,8,44,63,50+
+DIFC,Morning,Monday,12,4,72,72,50+
+DIFC,Morning,Monday,12,8,84,59,50+
+DIFC,Morning,Monday,4,0,20,68,50+
+DIFC,Morning,Monday,16,4,92,62,50+
+DIFC,Morning,Monday,16,4,92,69,50+
+DIFC,Morning,Monday,8,4,52,63,50+
+DIFC,Morning,Monday,8,8,64,61,50+
+DIFC,Morning,Monday,4,0,20,66,50+
+DIFC,Morning,Monday,8,0,40,77,50+
+DIFC,Morning,Monday,16,8,104,59,50+
+DIFC,Morning,Monday,16,8,104,74,50+
+DIFC,Morning,Monday,8,0,40,79,50+
+DIFC,Morning,Monday,12,4,72,68,50+
+DIFC,Morning,Monday,8,0,40,69,50+
+DIFC,Morning,Monday,8,8,64,71,50+
+DIFC,Morning,Monday,16,4,92,62,50+
+DIFC,Morning,Monday,12,4,72,60,50+
+DIFC,Morning,Monday,4,8,44,71,50+
+DIFC,Morning,Monday,4,8,44,58,50+
+DIFC,Morning,Monday,12,0,60,57,50+
+DIFC,Morning,Monday,16,0,80,85,50+
+DIFC,Morning,Monday,12,8,84,67,50+
+Dubai Mall,Afternoon,Saturday,1,0,5,18,18-24
+Dubai Mall,Morning,Monday,0,0,0,19,18-24
+Dubai Mall,Evening,Friday,1,1,8,20,18-24
+Dubai Mall,Afternoon,Tuesday,1,0,5,20,18-24
+Dubai Mall,Evening,Sunday,1,1,8,20,18-24
+Dubai Mall,Morning,Saturday,1,0,5,20,18-24
+Dubai Mall,Morning,Sunday,1,0,5,20,18-24
+Dubai Mall,Afternoon,Wednesday,1,0,5,22,18-24
+Dubai Mall,Evening,Thursday,0,0,0,22,18-24
+Dubai Mall,Morning,Wednesday,1,0,5,22,18-24
+Dubai Mall,Evening,Friday,0,1,3,23,18-24
+Dubai Mall,Morning,Friday,1,0,5,24,25-35
+Dubai Mall,Morning,Friday,2,0,10,25,25-35
+Dubai Mall,Morning,Friday,1,1,8,26,25-35
+Dubai Mall,Evening,Thursday,0,0,0,26,25-35
+Dubai Mall,Afternoon,Wednesday,1,0,5,26,25-35
+Dubai Mall,Morning,Wednesday,2,0,10,27,25-35
+Dubai Mall,Afternoon,Tuesday,1,1,8,27,25-35
+Dubai Mall,Morning,Tuesday,1,0,5,27,25-35
+Dubai Mall,Evening,Wednesday,0,0,0,27,25-35
+Dubai Mall,Evening,Thursday,0,1,3,28,25-35
+Dubai Mall,Evening,Friday,2,0,10,29,25-35
+Dubai Mall,Afternoon,Monday,1,1,8,30,25-35
+Dubai Mall,Morning,Tuesday,1,0,5,30,25-35
+Dubai Mall,Evening,Friday,16,0,80,18,18-24
+Dubai Mall,Evening,Sunday,12,0,60,18,18-24
+Dubai Mall,Afternoon,Monday,3,0,15,18,18-24
+Dubai Mall,Morning,Thursday,1,2,11,18,18-24
+Dubai Mall,Afternoon,Monday,1,0,5,18,18-24
+Dubai Mall,Afternoon,Sunday,16,8,104,18,18-24
+Dubai Mall,Morning,Sunday,16,4,92,18,18-24
+Dubai Mall,Afternoon,Tuesday,2,2,16,18,18-24
+Dubai Mall,Morning,Thursday,4,0,20,18,18-24
+Dubai Mall,Morning,Tuesday,3,0,15,19,18-24
+Dubai Mall,Evening,Thursday,3,2,21,19,18-24
+Dubai Mall,Afternoon,Saturday,16,8,104,19,18-24
+Dubai Mall,Evening,Monday,1,0,5,19,18-24
+Dubai Mall,Morning,Friday,4,4,32,19,18-24
+Dubai Mall,Evening,Monday,3,0,15,19,18-24
+Dubai Mall,Evening,Saturday,16,0,80,19,18-24
+Dubai Mall,Morning,Monday,1,2,11,19,18-24
+Dubai Mall,Morning,Tuesday,4,2,26,19,18-24
+Dubai Mall,Morning,Thursday,1,1,8,19,18-24
+Dubai Mall,Afternoon,Monday,2,2,16,20,18-24
+Dubai Mall,Evening,Tuesday,1,2,11,20,18-24
+Dubai Mall,Morning,Friday,4,4,32,20,18-24
+Dubai Mall,Afternoon,Monday,2,2,16,20,18-24
+Dubai Mall,Evening,Sunday,4,0,20,20,18-24
+Dubai Mall,Evening,Monday,2,1,13,20,18-24
+Dubai Mall,Afternoon,Thursday,2,0,10,20,18-24
+Dubai Mall,Morning,Wednesday,1,0,5,21,18-24
+Dubai Mall,Evening,Monday,4,1,23,21,18-24
+Dubai Mall,Morning,Friday,16,4,92,21,18-24
+Dubai Mall,Morning,Friday,8,4,52,21,18-24
+Dubai Mall,Morning,Thursday,1,2,11,21,18-24
+Dubai Mall,Afternoon,Friday,4,8,44,21,18-24
+Dubai Mall,Evening,Saturday,16,4,92,21,18-24
+Dubai Mall,Evening,Monday,3,1,18,21,18-24
+Dubai Mall,Afternoon,Thursday,3,0,15,21,18-24
+Dubai Mall,Evening,Friday,4,4,32,21,18-24
+Dubai Mall,Evening,Sunday,8,8,64,21,18-24
+Dubai Mall,Afternoon,Thursday,4,0,20,22,18-24
+Dubai Mall,Evening,Monday,3,0,15,22,18-24
+Dubai Mall,Afternoon,Tuesday,2,0,10,22,18-24
+Dubai Mall,Morning,Thursday,4,2,26,22,18-24
+Dubai Mall,Afternoon,Saturday,16,8,104,22,18-24
+Dubai Mall,Morning,Saturday,8,0,40,22,18-24
+Dubai Mall,Morning,Sunday,12,8,84,22,18-24
+Dubai Mall,Afternoon,Monday,4,0,20,22,18-24
+Dubai Mall,Afternoon,Thursday,2,1,13,22,18-24
+Dubai Mall,Evening,Tuesday,3,0,15,22,18-24
+Dubai Mall,Morning,Wednesday,2,0,10,22,18-24
+Dubai Mall,Afternoon,Sunday,16,4,92,22,18-24
+Dubai Mall,Morning,Thursday,1,0,5,23,18-24
+Dubai Mall,Afternoon,Saturday,4,0,20,23,18-24
+Dubai Mall,Afternoon,Saturday,4,0,20,23,18-24
+Dubai Mall,Evening,Tuesday,1,2,11,23,18-24
+Dubai Mall,Morning,Thursday,4,2,26,23,18-24
+Dubai Mall,Evening,Friday,4,4,32,23,18-24
+Dubai Mall,Evening,Friday,4,0,20,23,18-24
+Dubai Mall,Evening,Wednesday,4,1,23,23,18-24
+Dubai Mall,Evening,Saturday,16,0,80,24,25-35
+Dubai Mall,Morning,Saturday,12,0,60,24,25-35
+Dubai Mall,Evening,Sunday,8,4,52,24,25-35
+Dubai Mall,Afternoon,Wednesday,3,1,18,24,25-35
+Dubai Mall,Evening,Tuesday,1,0,5,24,25-35
+Dubai Mall,Morning,Sunday,4,8,44,24,25-35
+Dubai Mall,Afternoon,Sunday,16,8,104,24,25-35
+Dubai Mall,Afternoon,Wednesday,3,0,15,24,25-35
+Dubai Mall,Morning,Thursday,2,2,16,24,25-35
+Dubai Mall,Afternoon,Friday,12,8,84,24,25-35
+Dubai Mall,Evening,Friday,16,0,80,25,25-35
+Dubai Mall,Morning,Monday,3,0,15,25,25-35
+Dubai Mall,Evening,Tuesday,1,0,5,25,25-35
+Dubai Mall,Afternoon,Monday,1,2,11,25,25-35
+Dubai Mall,Afternoon,Tuesday,3,1,18,25,25-35
+Dubai Mall,Morning,Tuesday,4,0,20,25,25-35
+Dubai Mall,Evening,Tuesday,4,0,20,25,25-35
+Dubai Mall,Evening,Saturday,8,0,40,25,25-35
+Dubai Mall,Afternoon,Wednesday,2,1,13,26,25-35
+Dubai Mall,Afternoon,Monday,3,0,15,26,25-35
+Dubai Mall,Afternoon,Sunday,4,4,32,26,25-35
+Dubai Mall,Morning,Sunday,8,4,52,26,25-35
+Dubai Mall,Afternoon,Thursday,4,1,23,26,25-35
+Dubai Mall,Evening,Sunday,4,8,44,26,25-35
+Dubai Mall,Evening,Sunday,8,8,64,26,25-35
+Dubai Mall,Evening,Tuesday,4,1,23,26,25-35
+Dubai Mall,Evening,Monday,3,1,18,26,25-35
+Dubai Mall,Afternoon,Sunday,8,0,40,26,25-35
+Dubai Mall,Evening,Tuesday,2,2,16,26,25-35
+Dubai Mall,Afternoon,Friday,12,8,84,27,25-35
+Dubai Mall,Evening,Sunday,4,0,20,27,25-35
+Dubai Mall,Morning,Monday,3,1,18,27,25-35
+Dubai Mall,Evening,Thursday,1,0,5,27,25-35
+Dubai Mall,Morning,Monday,1,0,5,27,25-35
+Dubai Mall,Morning,Tuesday,4,0,20,27,25-35
+Dubai Mall,Morning,Thursday,2,0,10,27,25-35
+Dubai Mall,Morning,Friday,16,4,92,27,25-35
+Dubai Mall,Evening,Monday,2,2,16,27,25-35
+Dubai Mall,Evening,Tuesday,1,2,11,27,25-35
+Dubai Mall,Afternoon,Friday,8,4,52,27,25-35
+Dubai Mall,Evening,Saturday,4,4,32,27,25-35
+Dubai Mall,Morning,Saturday,16,4,92,27,25-35
+Dubai Mall,Evening,Saturday,8,8,64,28,25-35
+Dubai Mall,Afternoon,Sunday,8,0,40,28,25-35
+Dubai Mall,Morning,Sunday,4,0,20,28,25-35
+Dubai Mall,Evening,Wednesday,4,1,23,28,25-35
+Dubai Mall,Evening,Wednesday,4,2,26,28,25-35
+Dubai Mall,Evening,Thursday,4,1,23,28,25-35
+Dubai Mall,Afternoon,Monday,3,1,18,29,25-35
+Dubai Mall,Morning,Saturday,12,4,72,29,25-35
+Dubai Mall,Evening,Friday,8,0,40,29,25-35
+Dubai Mall,Afternoon,Friday,12,8,84,29,25-35
+Dubai Mall,Morning,Friday,16,4,92,29,25-35
+Dubai Mall,Evening,Sunday,8,4,52,29,25-35
+Dubai Mall,Morning,Friday,16,0,80,29,25-35
+Dubai Mall,Morning,Saturday,12,4,72,29,25-35
+Dubai Mall,Morning,Thursday,2,1,13,29,25-35
+Dubai Mall,Afternoon,Wednesday,2,0,10,29,25-35
+Dubai Mall,Evening,Monday,1,1,8,29,25-35
+Dubai Mall,Morning,Saturday,8,8,64,29,25-35
+Dubai Mall,Afternoon,Saturday,4,4,32,29,25-35
+Dubai Mall,Evening,Wednesday,2,2,16,30,25-35
+Dubai Mall,Morning,Wednesday,4,2,26,30,25-35
+Dubai Mall,Morning,Sunday,12,8,84,30,25-35
+Dubai Mall,Afternoon,Tuesday,3,1,18,30,25-35
+Dubai Mall,Afternoon,Thursday,2,2,16,30,25-35
+Dubai Mall,Morning,Thursday,3,0,15,30,25-35
+Dubai Mall,Morning,Thursday,1,2,11,31,25-35
+Dubai Mall,Afternoon,Friday,12,4,72,31,25-35
+Dubai Mall,Evening,Sunday,12,4,72,31,25-35
+Dubai Mall,Morning,Sunday,12,0,60,31,25-35
+Dubai Mall,Afternoon,Thursday,4,2,26,31,25-35
+Dubai Mall,Morning,Tuesday,3,1,18,31,25-35
+Dubai Mall,Morning,Tuesday,2,1,13,31,25-35
+Dubai Mall,Evening,Sunday,4,8,44,31,25-35
+Dubai Mall,Afternoon,Sunday,4,4,32,31,25-35
+Dubai Mall,Evening,Thursday,2,2,16,32,25-35
+Dubai Mall,Morning,Monday,2,0,10,32,25-35
+Dubai Mall,Morning,Wednesday,2,1,13,32,25-35
+Dubai Mall,Morning,Saturday,16,4,92,32,25-35
+Dubai Mall,Evening,Tuesday,3,0,15,32,25-35
+Dubai Mall,Evening,Thursday,3,2,21,33,25-35
+Dubai Mall,Evening,Saturday,4,4,32,33,25-35
+Dubai Mall,Evening,Sunday,12,4,72,33,25-35
+Dubai Mall,Afternoon,Friday,4,8,44,33,25-35
+Dubai Mall,Evening,Wednesday,3,2,21,33,25-35
+Dubai Mall,Morning,Tuesday,4,1,23,33,25-35
+Dubai Mall,Evening,Monday,3,0,15,33,25-35
+Dubai Mall,Morning,Sunday,8,8,64,34,25-35
+Dubai Mall,Afternoon,Friday,12,4,72,34,25-35
+Dubai Mall,Morning,Wednesday,3,1,18,34,25-35
+Dubai Mall,Evening,Thursday,1,1,8,34,25-35
+Dubai Mall,Evening,Wednesday,2,0,10,34,25-35
+Dubai Mall,Evening,Saturday,4,4,32,34,25-35
+Dubai Mall,Afternoon,Friday,16,8,104,34,25-35
+Dubai Mall,Morning,Tuesday,4,2,26,34,25-35
+Dubai Mall,Evening,Wednesday,2,0,10,34,25-35
+Dubai Mall,Morning,Monday,4,1,23,34,25-35
+Dubai Mall,Afternoon,Saturday,12,8,84,34,25-35
+Dubai Mall,Evening,Friday,12,4,72,35,35-50
+Dubai Mall,Morning,Tuesday,4,2,26,35,35-50
+Dubai Mall,Afternoon,Tuesday,2,2,16,35,35-50
+Dubai Mall,Afternoon,Sunday,8,8,64,35,35-50
+Dubai Mall,Morning,Wednesday,3,2,21,35,35-50
+Dubai Mall,Afternoon,Tuesday,2,1,13,35,35-50
+Dubai Mall,Morning,Saturday,16,4,92,36,35-50
+Dubai Mall,Morning,Thursday,4,1,23,36,35-50
+Dubai Mall,Afternoon,Thursday,3,1,18,36,35-50
+Dubai Mall,Afternoon,Sunday,8,0,40,36,35-50
+Dubai Mall,Afternoon,Wednesday,1,1,8,36,35-50
+Dubai Mall,Afternoon,Thursday,1,2,11,37,35-50
+Dubai Mall,Afternoon,Tuesday,4,1,23,37,35-50
+Dubai Mall,Afternoon,Wednesday,1,2,11,37,35-50
+Dubai Mall,Morning,Friday,12,8,84,37,35-50
+Dubai Mall,Afternoon,Saturday,8,0,40,37,35-50
+Dubai Mall,Evening,Monday,2,2,16,37,35-50
+Dubai Mall,Afternoon,Thursday,2,2,16,37,35-50
+Dubai Mall,Morning,Wednesday,4,0,20,37,35-50
+Dubai Mall,Morning,Monday,1,0,5,38,35-50
+Dubai Mall,Morning,Thursday,1,2,11,38,35-50
+Dubai Mall,Morning,Sunday,12,0,60,38,35-50
+Dubai Mall,Evening,Friday,16,4,92,38,35-50
+Dubai Mall,Morning,Sunday,4,4,32,38,35-50
+Dubai Mall,Afternoon,Friday,8,4,52,38,35-50
+Dubai Mall,Morning,Thursday,1,0,5,38,35-50
+Dubai Mall,Morning,Friday,12,0,60,38,35-50
+Dubai Mall,Evening,Saturday,4,0,20,39,35-50
+Dubai Mall,Morning,Thursday,4,2,26,39,35-50
+Dubai Mall,Evening,Monday,2,2,16,39,35-50
+Dubai Mall,Afternoon,Monday,3,0,15,39,35-50
+Dubai Mall,Afternoon,Thursday,2,0,10,39,35-50
+Dubai Mall,Evening,Wednesday,1,0,5,39,35-50
+Dubai Mall,Morning,Wednesday,1,2,11,39,35-50
+Dubai Mall,Morning,Thursday,3,0,15,39,35-50
+Dubai Mall,Afternoon,Monday,2,1,13,39,35-50
+Dubai Mall,Morning,Monday,2,0,10,39,35-50
+Dubai Mall,Afternoon,Thursday,1,1,8,39,35-50
+Dubai Mall,Evening,Monday,1,2,11,40,35-50
+Dubai Mall,Afternoon,Wednesday,1,2,11,40,35-50
+Dubai Mall,Morning,Tuesday,3,0,15,40,35-50
+Dubai Mall,Morning,Tuesday,4,1,23,40,35-50
+Dubai Mall,Evening,Wednesday,1,2,11,40,35-50
+Dubai Mall,Evening,Friday,12,0,60,40,35-50
+Dubai Mall,Afternoon,Monday,3,1,18,40,35-50
+Dubai Mall,Evening,Wednesday,4,1,23,40,35-50
+Dubai Mall,Evening,Saturday,12,4,72,40,35-50
+Dubai Mall,Morning,Friday,16,8,104,41,35-50
+Dubai Mall,Afternoon,Thursday,4,0,20,41,35-50
+Dubai Mall,Afternoon,Tuesday,3,0,15,41,35-50
+Dubai Mall,Afternoon,Sunday,12,8,84,41,35-50
+Dubai Mall,Morning,Wednesday,1,1,8,41,35-50
+Dubai Mall,Afternoon,Friday,16,0,80,41,35-50
+Dubai Mall,Evening,Monday,1,1,8,41,35-50
+Dubai Mall,Evening,Thursday,1,1,8,41,35-50
+Dubai Mall,Evening,Saturday,12,4,72,41,35-50
+Dubai Mall,Evening,Saturday,16,0,80,41,35-50
+Dubai Mall,Afternoon,Monday,3,2,21,41,35-50
+Dubai Mall,Afternoon,Tuesday,3,1,18,42,35-50
+Dubai Mall,Afternoon,Monday,1,2,11,42,35-50
+Dubai Mall,Morning,Friday,4,8,44,43,35-50
+Dubai Mall,Evening,Saturday,16,0,80,43,35-50
+Dubai Mall,Afternoon,Thursday,1,0,5,43,35-50
+Dubai Mall,Morning,Saturday,8,8,64,43,35-50
+Dubai Mall,Afternoon,Thursday,4,2,26,43,35-50
+Dubai Mall,Evening,Thursday,4,0,20,43,35-50
+Dubai Mall,Evening,Wednesday,3,2,21,43,35-50
+Dubai Mall,Afternoon,Friday,4,0,20,43,35-50
+Dubai Mall,Afternoon,Wednesday,1,2,11,43,35-50
+Dubai Mall,Morning,Friday,4,4,32,44,35-50
+Dubai Mall,Evening,Friday,12,8,84,44,35-50
+Dubai Mall,Afternoon,Tuesday,4,0,20,44,35-50
+Dubai Mall,Evening,Sunday,8,8,64,44,35-50
+Dubai Mall,Evening,Tuesday,4,0,20,44,35-50
+Dubai Mall,Evening,Thursday,4,0,20,44,35-50
+Dubai Mall,Morning,Friday,8,8,64,45,35-50
+Dubai Mall,Evening,Wednesday,4,2,26,45,35-50
+Dubai Mall,Afternoon,Thursday,2,2,16,45,35-50
+Dubai Mall,Morning,Saturday,8,0,40,45,35-50
+Dubai Mall,Morning,Saturday,12,4,72,45,35-50
+Dubai Mall,Evening,Saturday,4,4,32,45,35-50
+Dubai Mall,Evening,Friday,4,8,44,45,35-50
+Dubai Mall,Afternoon,Thursday,3,0,15,45,35-50
+Dubai Mall,Morning,Friday,8,8,64,45,35-50
+Dubai Mall,Afternoon,Saturday,8,8,64,45,35-50
+Dubai Mall,Morning,Wednesday,4,1,23,45,35-50
+Dubai Mall,Morning,Sunday,12,8,84,46,35-50
+Dubai Mall,Morning,Wednesday,2,1,13,46,35-50
+Dubai Mall,Morning,Monday,2,2,16,46,35-50
+Dubai Mall,Morning,Wednesday,3,0,15,46,35-50
+Dubai Mall,Morning,Monday,2,1,13,46,35-50
+Dubai Mall,Morning,Sunday,12,0,60,47,35-50
+Dubai Mall,Evening,Sunday,4,4,32,47,35-50
+Dubai Mall,Afternoon,Sunday,12,8,84,47,35-50
+Dubai Mall,Morning,Sunday,4,4,32,47,35-50
+Dubai Mall,Evening,Tuesday,1,0,5,47,35-50
+Dubai Mall,Evening,Thursday,3,0,15,47,35-50
+Dubai Mall,Morning,Wednesday,2,2,16,47,35-50
+Dubai Mall,Morning,Monday,4,1,23,47,35-50
+Dubai Mall,Afternoon,Sunday,16,0,80,47,35-50
+Dubai Mall,Afternoon,Wednesday,4,2,26,47,35-50
+Dubai Mall,Morning,Tuesday,3,1,18,47,35-50
+Dubai Mall,Morning,Sunday,12,8,84,47,35-50
+Dubai Mall,Afternoon,Monday,1,2,11,47,35-50
+Dubai Mall,Afternoon,Saturday,12,8,84,48,35-50
+Dubai Mall,Morning,Tuesday,4,1,23,48,35-50
+Dubai Mall,Afternoon,Friday,16,0,80,48,35-50
+Dubai Mall,Evening,Monday,3,1,18,48,35-50
+Dubai Mall,Afternoon,Tuesday,4,2,26,48,35-50
+Dubai Mall,Afternoon,Monday,2,0,10,49,35-50
+Dubai Mall,Afternoon,Tuesday,2,2,16,49,35-50
+Dubai Mall,Afternoon,Sunday,16,8,104,49,35-50
+Dubai Mall,Morning,Monday,4,2,26,49,35-50
+Dubai Mall,Morning,Sunday,12,8,84,49,35-50
+Dubai Mall,Evening,Friday,4,8,44,49,35-50
+Dubai Mall,Evening,Thursday,1,2,11,49,35-50
+Dubai Mall,Afternoon,Saturday,8,0,40,50,50+
+Dubai Mall,Afternoon,Saturday,16,0,80,50,50+
+Dubai Mall,Evening,Tuesday,4,1,23,50,50+
+Dubai Mall,Evening,Thursday,4,0,20,50,50+
+Dubai Mall,Afternoon,Friday,8,8,64,50,50+
+Dubai Mall,Morning,Monday,2,0,10,50,50+
+Dubai Mall,Morning,Sunday,16,4,92,50,50+
+Dubai Mall,Morning,Saturday,8,8,64,50,50+
+Dubai Mall,Evening,Thursday,4,2,26,50,50+
+Dubai Mall,Evening,Wednesday,2,0,10,50,50+
+Dubai Mall,Evening,Tuesday,2,0,10,50,50+
+Dubai Mall,Evening,Thursday,4,2,26,51,50+
+Dubai Mall,Afternoon,Saturday,12,0,60,51,50+
+Dubai Mall,Evening,Tuesday,3,1,18,51,50+
+Dubai Mall,Evening,Wednesday,4,2,26,51,50+
+Dubai Mall,Afternoon,Saturday,16,4,92,51,50+
+Dubai Mall,Morning,Friday,12,0,60,51,50+
+Dubai Mall,Morning,Wednesday,4,2,26,51,50+
+Dubai Mall,Evening,Monday,1,1,8,51,50+
+Dubai Mall,Evening,Monday,2,0,10,52,50+
+Dubai Mall,Morning,Wednesday,1,0,5,52,50+
+Dubai Mall,Evening,Wednesday,3,1,18,52,50+
+Dubai Mall,Afternoon,Tuesday,3,2,21,52,50+
+Dubai Mall,Afternoon,Saturday,12,4,72,52,50+
+Dubai Mall,Morning,Wednesday,2,1,13,52,50+
+Dubai Mall,Morning,Tuesday,2,0,10,52,50+
+Dubai Mall,Morning,Monday,2,1,13,52,50+
+Dubai Mall,Afternoon,Tuesday,3,1,18,53,50+
+Dubai Mall,Morning,Monday,4,0,20,53,50+
+Dubai Mall,Evening,Sunday,16,0,80,53,50+
+Dubai Mall,Morning,Monday,1,2,11,53,50+
+Dubai Mall,Afternoon,Monday,3,2,21,53,50+
+Dubai Mall,Evening,Wednesday,3,0,15,53,50+
+Dubai Mall,Afternoon,Wednesday,3,0,15,54,50+
+Dubai Mall,Evening,Friday,16,4,92,54,50+
+Dubai Mall,Morning,Saturday,12,4,72,54,50+
+Dubai Mall,Afternoon,Sunday,16,4,92,54,50+
+Dubai Mall,Evening,Sunday,16,0,80,54,50+
+Dubai Mall,Afternoon,Sunday,12,4,72,55,50+
+Dubai Mall,Evening,Tuesday,3,0,15,55,50+
+Dubai Mall,Evening,Sunday,8,0,40,55,50+
+Dubai Mall,Afternoon,Sunday,8,0,40,55,50+
+Dubai Mall,Evening,Monday,4,1,23,55,50+
+Dubai Mall,Morning,Saturday,8,4,52,55,50+
+Dubai Mall,Afternoon,Friday,4,0,20,55,50+
+Dubai Mall,Evening,Thursday,4,1,23,55,50+
+Dubai Mall,Evening,Sunday,12,8,84,55,50+
+Dubai Mall,Morning,Monday,1,2,11,74,50+
+Dubai Mall,Morning,Wednesday,1,2,11,63,50+
+Dubai Mall,Morning,Saturday,12,4,72,74,50+
+Dubai Mall,Morning,Tuesday,2,2,16,82,50+
+Dubai Mall,Morning,Thursday,2,2,16,65,50+
+Dubai Mall,Morning,Saturday,16,4,92,63,50+
+Dubai Mall,Afternoon,Wednesday,2,1,13,59,50+
+Dubai Mall,Afternoon,Friday,12,0,60,83,50+
+Dubai Mall,Evening,Thursday,2,2,16,74,50+
+Dubai Mall,Evening,Saturday,8,0,40,77,50+
+Dubai Mall,Morning,Tuesday,4,0,20,79,50+
+Dubai Mall,Morning,Thursday,3,2,21,73,50+
+Dubai Mall,Afternoon,Monday,4,0,20,81,50+
+Dubai Mall,Afternoon,Friday,8,4,52,79,50+
+Dubai Mall,Evening,Wednesday,1,1,8,81,50+
+Dubai Mall,Evening,Friday,12,0,60,78,50+
+Dubai Mall,Afternoon,Wednesday,4,2,26,66,50+
+Dubai Mall,Afternoon,Saturday,8,4,52,82,50+
+Dubai Mall,Evening,Tuesday,3,2,21,59,50+
+Dubai Mall,Evening,Wednesday,1,0,5,71,50+
+Dubai Mall,Evening,Friday,8,8,64,81,50+
+Dubai Mall,Afternoon,Wednesday,2,2,16,69,50+
+Dubai Mall,Evening,Wednesday,3,2,21,72,50+
+Dubai Mall,Evening,Friday,8,8,64,81,50+
+Dubai Mall,Evening,Saturday,16,0,80,64,50+
+Dubai Mall,Morning,Tuesday,2,2,16,61,50+
+Dubai Mall,Evening,Saturday,4,4,32,82,50+
+Dubai Mall,Evening,Sunday,4,4,32,85,50+
+Dubai Mall,Morning,Friday,4,4,32,67,50+
+Dubai Mall,Afternoon,Wednesday,3,1,18,56,50+
+Dubai Mall,Afternoon,Sunday,12,4,72,64,50+
+Dubai Mall,Morning,Wednesday,2,2,16,67,50+
+Dubai Mall,Afternoon,Sunday,16,0,80,78,50+
+Dubai Mall,Morning,Tuesday,2,2,16,61,50+
+Dubai Mall,Afternoon,Wednesday,3,1,18,78,50+
+Dubai Mall,Afternoon,Thursday,1,2,11,81,50+
+Dubai Mall,Afternoon,Saturday,8,8,64,79,50+
+Dubai Mall,Evening,Thursday,2,1,13,59,50+
+Dubai Mall,Evening,Friday,4,4,32,72,50+
+Dubai Mall,Morning,Monday,1,2,11,70,50+
+Dubai Mall,Afternoon,Tuesday,3,1,18,64,50+
+Dubai Mall,Afternoon,Wednesday,2,0,10,56,50+
+Dubai Mall,Afternoon,Thursday,3,1,18,65,50+
+Dubai Mall,Morning,Saturday,16,8,104,67,50+
+Dubai Mall,Afternoon,Tuesday,3,2,21,64,50+
+Dubai Mall,Afternoon,Wednesday,3,2,21,68,50+
+Dubai Mall,Evening,Monday,1,2,11,59,50+
+Dubai Mall,Evening,Tuesday,2,2,16,76,50+
+Dubai Mall,Morning,Tuesday,1,0,5,73,50+
+Dubai Mall,Morning,Sunday,12,8,84,84,50+
+Dubai Mall,Evening,Thursday,4,1,23,80,50+
+Dubai Mall,Morning,Monday,3,0,15,79,50+
+Dubai Mall,Evening,Sunday,16,4,92,82,50+
+Dubai Mall,Morning,Saturday,4,4,32,66,50+
+Dubai Mall,Afternoon,Wednesday,4,2,26,63,50+
+Dubai Mall,Afternoon,Saturday,8,8,64,67,50+
+Dubai Mall,Evening,Thursday,1,1,8,68,50+
+Dubai Mall,Morning,Friday,4,0,20,73,50+
+Dubai Mall,Afternoon,Monday,1,0,5,71,50+
+Dubai Mall,Afternoon,Wednesday,1,0,5,67,50+
+Dubai Mall,Afternoon,Saturday,16,0,80,79,50+
+Dubai Mall,Evening,Tuesday,4,1,23,66,50+
+Dubai Mall,Evening,Friday,12,0,60,77,50+
+Dubai Mall,Morning,Friday,12,0,60,59,50+
+Dubai Mall,Morning,Saturday,16,8,104,74,50+
+Dubai Mall,Morning,Sunday,4,8,44,60,50+
+Dubai Mall,Afternoon,Tuesday,1,1,8,63,50+
+Dubai Mall,Afternoon,Saturday,16,0,80,78,50+
+Dubai Mall,Morning,Sunday,16,4,92,67,50+
+Dubai Mall,Afternoon,Monday,1,0,5,85,50+
+Dubai Mall,Afternoon,Tuesday,3,0,15,73,50+
+Dubai Mall,Afternoon,Friday,4,8,44,65,50+
+Dubai Mall,Afternoon,Sunday,16,8,104,75,50+
+Dubai Mall,Evening,Saturday,4,0,20,76,50+
+Dubai Mall,Morning,Wednesday,4,0,20,64,50+
+Dubai Mall,Morning,Friday,16,8,104,77,50+
+Dubai Mall,Afternoon,Tuesday,1,1,8,76,50+
+Dubai Mall,Afternoon,Friday,8,8,64,65,50+
+Dubai Mall,Evening,Friday,4,0,20,77,50+
+Dubai Mall,Evening,Saturday,16,4,92,57,50+
+Dubai Mall,Evening,Sunday,0,0,0,55,50+
+Dubai Mall,Morning,Saturday,2,0,10,77,50+
+Dubai Mall,Evening,Saturday,1,1,8,64,50+
+Dubai Mall,Afternoon,Tuesday,2,1,13,66,50+
+Dubai Mall,Evening,Wednesday,0,0,0,84,50+
+Dubai Mall,Morning,Friday,2,1,13,76,50+
+Dubai Mall,Morning,Thursday,0,1,3,58,50+
+Dubai Mall,Morning,Sunday,1,1,8,63,50+
+Dubai Mall,Evening,Sunday,2,0,10,66,50+
+Dubai Mall,Afternoon,Monday,0,0,0,85,50+
+Dubai Mall,Afternoon,Monday,0,0,0,57,50+
+Dubai Mall,Evening,Tuesday,1,0,5,82,50+
+Dubai Mall,Morning,Wednesday,1,0,5,80,50+
+Dubai Mall,Morning,Sunday,1,0,5,64,50+
+Dubai Mall,Evening,Thursday,1,1,8,60,50+
+Dubai Mall,Morning,Saturday,1,0,5,64,50+
+Dubai Mall,Evening,Sunday,1,1,8,78,50+
+Dubai Mall,Morning,Friday,2,1,13,66,50+
+Dubai Mall,Afternoon,Monday,2,0,10,57,50+
+Dubai Mall,Evening,Saturday,1,0,5,62,50+
+Dubai Mall,Evening,Friday,1,0,5,61,50+
+Dubai Mall,Evening,Saturday,1,0,5,75,50+
+Dubai Mall,Morning,Saturday,0,1,3,57,50+
+Dubai Mall,Evening,Saturday,1,0,5,59,50+
+Dubai Mall,Afternoon,Thursday,1,0,5,58,50+
+Dubai Mall,Evening,Sunday,2,0,10,58,50+
+Dubai Mall,Morning,Friday,2,0,10,71,50+
+Dubai Mall,Afternoon,Thursday,1,0,5,62,50+
+Dubai Mall,Afternoon,Saturday,1,0,5,68,50+
+Dubai Mall,Evening,Monday,1,0,5,85,50+
+Dubai Mall,Evening,Saturday,1,0,5,79,50+
+Knowledge Village,Evening,Sunday,1,1,8,16,18-24
+Knowledge Village,Afternoon,Friday,4,0,20,16,18-24
+Knowledge Village,Evening,Monday,0,0,0,16,18-24
+Knowledge Village,Morning,Saturday,0,0,0,16,18-24
+Knowledge Village,Evening,Tuesday,1,0,5,16,18-24
+Knowledge Village,Evening,Friday,1,1,8,16,18-24
+Knowledge Village,Evening,Tuesday,4,2,26,16,18-24
+Knowledge Village,Morning,Saturday,2,0,10,16,18-24
+Knowledge Village,Afternoon,Friday,2,1,13,16,18-24
+Knowledge Village,Morning,Monday,14,4,82,16,18-24
+Knowledge Village,Morning,Monday,14,4,82,16,18-24
+Knowledge Village,Evening,Wednesday,4,2,26,17,18-24
+Knowledge Village,Morning,Saturday,4,3,29,17,18-24
+Knowledge Village,Morning,Monday,14,0,70,17,18-24
+Knowledge Village,Evening,Sunday,7,1,38,17,18-24
+Knowledge Village,Evening,Monday,9,0,45,17,18-24
+Knowledge Village,Morning,Wednesday,14,9,97,17,18-24
+Knowledge Village,Afternoon,Friday,7,3,44,17,18-24
+Knowledge Village,Morning,Sunday,1,3,14,17,18-24
+Knowledge Village,Evening,Friday,1,1,8,17,18-24
+Knowledge Village,Morning,Friday,0,1,3,17,18-24
+Knowledge Village,Morning,Tuesday,9,4,57,17,18-24
+Knowledge Village,Morning,Thursday,19,0,95,17,18-24
+Knowledge Village,Evening,Monday,7,2,41,17,18-24
+Knowledge Village,Afternoon,Tuesday,0,1,3,17,18-24
+Knowledge Village,Evening,Thursday,2,0,10,17,18-24
+Knowledge Village,Evening,Friday,7,0,35,17,18-24
+Knowledge Village,Evening,Friday,3,1,18,17,18-24
+Knowledge Village,Morning,Monday,1,0,5,17,18-24
+Knowledge Village,Evening,Monday,0,0,0,17,18-24
+Knowledge Village,Evening,Monday,2,2,16,18,18-24
+Knowledge Village,Morning,Saturday,7,3,44,18,18-24
+Knowledge Village,Morning,Wednesday,14,0,70,18,18-24
+Knowledge Village,Afternoon,Thursday,9,0,45,18,18-24
+Knowledge Village,Afternoon,Friday,4,0,20,18,18-24
+Knowledge Village,Afternoon,Saturday,4,1,23,18,18-24
+Knowledge Village,Afternoon,Friday,7,0,35,18,18-24
+Knowledge Village,Evening,Thursday,2,4,22,18,18-24
+Knowledge Village,Evening,Sunday,1,0,5,18,18-24
+Knowledge Village,Evening,Wednesday,2,2,16,18,18-24
+Knowledge Village,Morning,Monday,2,1,13,18,18-24
+Knowledge Village,Evening,Wednesday,1,0,5,18,18-24
+Knowledge Village,Morning,Monday,0,0,0,18,18-24
+Knowledge Village,Afternoon,Monday,14,0,70,18,18-24
+Knowledge Village,Evening,Saturday,1,0,5,18,18-24
+Knowledge Village,Afternoon,Monday,2,0,10,18,18-24
+Knowledge Village,Evening,Wednesday,0,1,3,18,18-24
+Knowledge Village,Morning,Saturday,0,0,0,18,18-24
+Knowledge Village,Evening,Monday,0,0,0,18,18-24
+Knowledge Village,Afternoon,Tuesday,0,1,3,18,18-24
+Knowledge Village,Morning,Thursday,4,9,47,18,18-24
+Knowledge Village,Morning,Sunday,7,1,38,18,18-24
+Knowledge Village,Afternoon,Wednesday,4,4,32,18,18-24
+Knowledge Village,Morning,Monday,4,0,20,18,18-24
+Knowledge Village,Evening,Wednesday,2,2,16,18,18-24
+Knowledge Village,Morning,Friday,1,0,5,18,18-24
+Knowledge Village,Morning,Wednesday,19,0,95,18,18-24
+Knowledge Village,Afternoon,Tuesday,9,9,72,18,18-24
+Knowledge Village,Afternoon,Sunday,7,0,35,18,18-24
+Knowledge Village,Morning,Tuesday,9,9,72,18,18-24
+Knowledge Village,Evening,Friday,3,1,18,18,18-24
+Knowledge Village,Afternoon,Monday,14,4,82,18,18-24
+Knowledge Village,Afternoon,Thursday,19,9,122,18,18-24
+Knowledge Village,Evening,Friday,7,0,35,18,18-24
+Knowledge Village,Evening,Thursday,2,4,22,18,18-24
+Knowledge Village,Evening,Saturday,4,0,20,18,18-24
+Knowledge Village,Afternoon,Saturday,7,3,44,18,18-24
+Knowledge Village,Morning,Wednesday,4,0,20,19,18-24
+Knowledge Village,Evening,Friday,1,0,5,19,18-24
+Knowledge Village,Afternoon,Monday,14,9,97,19,18-24
+Knowledge Village,Afternoon,Saturday,4,3,29,19,18-24
+Knowledge Village,Morning,Sunday,4,0,20,19,18-24
+Knowledge Village,Afternoon,Sunday,1,3,14,19,18-24
+Knowledge Village,Afternoon,Wednesday,9,9,72,19,18-24
+Knowledge Village,Evening,Wednesday,1,0,5,19,18-24
+Knowledge Village,Evening,Sunday,7,1,38,19,18-24
+Knowledge Village,Afternoon,Sunday,1,0,5,19,18-24
+Knowledge Village,Morning,Tuesday,4,0,20,19,18-24
+Knowledge Village,Afternoon,Sunday,0,0,0,19,18-24
+Knowledge Village,Afternoon,Friday,4,1,23,19,18-24
+Knowledge Village,Afternoon,Wednesday,19,4,107,19,18-24
+Knowledge Village,Morning,Monday,14,4,82,19,18-24
+Knowledge Village,Evening,Monday,4,4,32,19,18-24
+Knowledge Village,Evening,Friday,7,0,35,19,18-24
+Knowledge Village,Afternoon,Monday,19,4,107,19,18-24
+Knowledge Village,Afternoon,Thursday,9,4,57,19,18-24
+Knowledge Village,Evening,Wednesday,9,2,51,19,18-24
+Knowledge Village,Morning,Tuesday,14,4,82,19,18-24
+Knowledge Village,Evening,Sunday,3,3,24,19,18-24
+Knowledge Village,Afternoon,Wednesday,14,0,70,19,18-24
+Knowledge Village,Afternoon,Thursday,9,9,72,19,18-24
+Knowledge Village,Morning,Saturday,1,0,5,19,18-24
+Knowledge Village,Morning,Thursday,9,0,45,19,18-24
+Knowledge Village,Afternoon,Thursday,9,0,45,19,18-24
+Knowledge Village,Morning,Saturday,3,1,18,19,18-24
+Knowledge Village,Evening,Tuesday,9,0,45,19,18-24
+Knowledge Village,Evening,Sunday,3,1,18,19,18-24
+Knowledge Village,Afternoon,Sunday,0,0,0,20,18-24
+Knowledge Village,Afternoon,Sunday,1,0,5,20,18-24
+Knowledge Village,Afternoon,Wednesday,1,0,5,20,18-24
+Knowledge Village,Morning,Tuesday,19,4,107,20,18-24
+Knowledge Village,Morning,Wednesday,9,0,45,20,18-24
+Knowledge Village,Afternoon,Tuesday,19,4,107,20,18-24
+Knowledge Village,Afternoon,Tuesday,9,9,72,20,18-24
+Knowledge Village,Evening,Wednesday,7,4,47,20,18-24
+Knowledge Village,Morning,Thursday,2,0,10,20,18-24
+Knowledge Village,Morning,Thursday,4,4,32,20,18-24
+Knowledge Village,Evening,Wednesday,2,0,10,20,18-24
+Knowledge Village,Afternoon,Thursday,9,9,72,20,18-24
+Knowledge Village,Evening,Saturday,4,0,20,20,18-24
+Knowledge Village,Evening,Saturday,4,3,29,20,18-24
+Knowledge Village,Afternoon,Tuesday,19,9,122,20,18-24
+Knowledge Village,Afternoon,Sunday,1,0,5,20,18-24
+Knowledge Village,Morning,Sunday,7,1,38,20,18-24
+Knowledge Village,Afternoon,Sunday,4,0,20,20,18-24
+Knowledge Village,Evening,Monday,2,4,22,20,18-24
+Knowledge Village,Evening,Tuesday,9,0,45,20,18-24
+Knowledge Village,Evening,Thursday,7,2,41,20,18-24
+Knowledge Village,Afternoon,Friday,7,1,38,20,18-24
+Knowledge Village,Afternoon,Monday,19,0,95,20,18-24
+Knowledge Village,Afternoon,Thursday,9,0,45,20,18-24
+Knowledge Village,Morning,Sunday,4,1,23,20,18-24
+Knowledge Village,Afternoon,Saturday,4,3,29,20,18-24
+Knowledge Village,Morning,Thursday,9,9,72,20,18-24
+Knowledge Village,Afternoon,Wednesday,9,9,72,20,18-24
+Knowledge Village,Morning,Sunday,1,1,8,20,18-24
+Knowledge Village,Evening,Saturday,3,3,24,20,18-24
+Knowledge Village,Evening,Tuesday,0,0,0,21,18-24
+Knowledge Village,Evening,Sunday,4,3,29,21,18-24
+Knowledge Village,Evening,Tuesday,9,0,45,21,18-24
+Knowledge Village,Afternoon,Thursday,9,0,45,21,18-24
+Knowledge Village,Evening,Wednesday,0,0,0,21,18-24
+Knowledge Village,Afternoon,Sunday,2,0,10,21,18-24
+Knowledge Village,Afternoon,Monday,14,0,70,21,18-24
+Knowledge Village,Afternoon,Friday,4,3,29,21,18-24
+Knowledge Village,Morning,Sunday,7,3,44,21,18-24
+Knowledge Village,Afternoon,Monday,9,0,45,21,18-24
+Knowledge Village,Afternoon,Sunday,3,3,24,21,18-24
+Knowledge Village,Morning,Friday,3,1,18,21,18-24
+Knowledge Village,Morning,Tuesday,14,4,82,21,18-24
+Knowledge Village,Evening,Monday,9,2,51,21,18-24
+Knowledge Village,Evening,Wednesday,4,2,26,21,18-24
+Knowledge Village,Morning,Wednesday,19,9,122,21,18-24
+Knowledge Village,Evening,Sunday,7,0,35,21,18-24
+Knowledge Village,Evening,Saturday,3,3,24,21,18-24
+Knowledge Village,Morning,Tuesday,14,0,70,21,18-24
+Knowledge Village,Evening,Monday,9,4,57,21,18-24
+Knowledge Village,Evening,Tuesday,4,4,32,21,18-24
+Knowledge Village,Morning,Tuesday,9,4,57,21,18-24
+Knowledge Village,Afternoon,Saturday,4,1,23,21,18-24
+Knowledge Village,Morning,Friday,7,3,44,21,18-24
+Knowledge Village,Evening,Friday,4,0,20,21,18-24
+Knowledge Village,Afternoon,Friday,2,0,10,22,18-24
+Knowledge Village,Morning,Sunday,3,1,18,22,18-24
+Knowledge Village,Afternoon,Wednesday,4,0,20,22,18-24
+Knowledge Village,Morning,Tuesday,19,0,95,22,18-24
+Knowledge Village,Morning,Saturday,1,0,5,22,18-24
+Knowledge Village,Evening,Sunday,7,1,38,22,18-24
+Knowledge Village,Morning,Saturday,1,3,14,22,18-24
+Knowledge Village,Evening,Sunday,4,0,20,22,18-24
+Knowledge Village,Afternoon,Thursday,1,0,5,22,18-24
+Knowledge Village,Afternoon,Tuesday,14,4,82,22,18-24
+Knowledge Village,Evening,Tuesday,7,2,41,22,18-24
+Knowledge Village,Morning,Saturday,7,1,38,22,18-24
+Knowledge Village,Evening,Saturday,3,3,24,22,18-24
+Knowledge Village,Evening,Thursday,7,4,47,22,18-24
+Knowledge Village,Evening,Saturday,1,0,5,22,18-24
+Knowledge Village,Afternoon,Thursday,1,0,5,22,18-24
+Knowledge Village,Afternoon,Tuesday,1,1,8,22,18-24
+Knowledge Village,Evening,Sunday,2,1,13,22,18-24
+Knowledge Village,Afternoon,Saturday,1,1,8,22,18-24
+Knowledge Village,Evening,Tuesday,2,0,10,22,18-24
+Knowledge Village,Evening,Friday,1,1,8,22,18-24
+Knowledge Village,Morning,Wednesday,19,0,95,22,18-24
+Knowledge Village,Morning,Thursday,19,0,95,22,18-24
+Knowledge Village,Afternoon,Sunday,1,0,5,22,18-24
+Knowledge Village,Morning,Thursday,9,4,57,22,18-24
+Knowledge Village,Morning,Saturday,1,3,14,22,18-24
+Knowledge Village,Afternoon,Sunday,7,0,35,22,18-24
+Knowledge Village,Evening,Wednesday,7,2,41,22,18-24
+Knowledge Village,Morning,Monday,19,9,122,22,18-24
+Knowledge Village,Afternoon,Wednesday,9,4,57,22,18-24
+Knowledge Village,Evening,Thursday,4,2,26,22,18-24
+Knowledge Village,Afternoon,Wednesday,19,9,122,22,18-24
+Knowledge Village,Evening,Monday,4,2,26,22,18-24
+Knowledge Village,Evening,Friday,3,0,15,22,18-24
+Knowledge Village,Morning,Thursday,4,4,32,22,18-24
+Knowledge Village,Afternoon,Monday,19,0,95,23,18-24
+Knowledge Village,Morning,Sunday,2,1,13,23,18-24
+Knowledge Village,Morning,Thursday,14,9,97,23,18-24
+Knowledge Village,Morning,Wednesday,4,9,47,23,18-24
+Knowledge Village,Afternoon,Thursday,4,0,20,23,18-24
+Knowledge Village,Morning,Friday,4,0,20,23,18-24
+Knowledge Village,Afternoon,Tuesday,4,4,32,23,18-24
+Knowledge Village,Afternoon,Friday,1,1,8,23,18-24
+Knowledge Village,Afternoon,Monday,2,0,10,23,18-24
+Knowledge Village,Evening,Tuesday,7,4,47,23,18-24
+Knowledge Village,Afternoon,Tuesday,4,9,47,23,18-24
+Knowledge Village,Afternoon,Friday,3,3,24,23,18-24
+Knowledge Village,Morning,Monday,4,0,20,23,18-24
+Knowledge Village,Afternoon,Sunday,4,3,29,23,18-24
+Knowledge Village,Afternoon,Thursday,2,1,13,23,18-24
+Knowledge Village,Morning,Tuesday,2,0,10,23,18-24
+Knowledge Village,Morning,Monday,2,0,10,23,18-24
+Knowledge Village,Morning,Tuesday,19,4,107,23,18-24
+Knowledge Village,Morning,Wednesday,14,4,82,23,18-24
+Knowledge Village,Morning,Saturday,1,3,14,23,18-24
+Knowledge Village,Morning,Sunday,4,1,23,23,18-24
+Knowledge Village,Evening,Sunday,1,3,14,23,18-24
+Knowledge Village,Morning,Thursday,19,4,107,23,18-24
+Knowledge Village,Afternoon,Thursday,1,1,8,23,18-24
+Knowledge Village,Afternoon,Tuesday,1,0,5,23,18-24
+Knowledge Village,Evening,Thursday,4,2,26,23,18-24
+Knowledge Village,Evening,Friday,7,1,38,23,18-24
+Knowledge Village,Afternoon,Sunday,1,3,14,23,18-24
+Knowledge Village,Afternoon,Thursday,19,4,107,23,18-24
+Knowledge Village,Afternoon,Sunday,1,3,14,23,18-24
+Knowledge Village,Afternoon,Saturday,1,1,8,23,18-24
+Knowledge Village,Morning,Wednesday,14,4,82,23,18-24
+Knowledge Village,Morning,Saturday,7,0,35,23,18-24
+Knowledge Village,Afternoon,Saturday,7,1,38,23,18-24
+Knowledge Village,Evening,Tuesday,7,4,47,23,18-24
+Knowledge Village,Evening,Thursday,2,2,16,23,18-24
+Knowledge Village,Morning,Friday,1,0,5,23,18-24
+Knowledge Village,Morning,Saturday,7,0,35,23,18-24
+Knowledge Village,Afternoon,Wednesday,14,0,70,23,18-24
+Knowledge Village,Afternoon,Friday,3,1,18,23,18-24
+Knowledge Village,Afternoon,Saturday,4,0,20,23,18-24
+Knowledge Village,Evening,Sunday,7,0,35,23,18-24
+Knowledge Village,Afternoon,Monday,4,4,32,23,18-24
+Knowledge Village,Evening,Thursday,7,4,47,23,18-24
+Knowledge Village,Afternoon,Tuesday,9,0,45,23,18-24
+Knowledge Village,Afternoon,Thursday,4,4,32,23,18-24
+Knowledge Village,Evening,Tuesday,2,0,10,23,18-24
+Knowledge Village,Evening,Sunday,4,3,29,23,18-24
+Knowledge Village,Evening,Saturday,4,3,29,23,18-24
+Knowledge Village,Morning,Wednesday,4,4,32,23,18-24
+Knowledge Village,Evening,Wednesday,2,4,22,23,18-24
+Knowledge Village,Morning,Sunday,7,1,38,23,18-24
+Knowledge Village,Afternoon,Tuesday,9,0,45,23,18-24
+Knowledge Village,Afternoon,Friday,3,3,24,23,18-24
+Knowledge Village,Afternoon,Sunday,7,0,35,23,18-24
+Knowledge Village,Evening,Tuesday,2,2,16,24,25-35
+Knowledge Village,Afternoon,Wednesday,2,0,10,24,25-35
+Knowledge Village,Evening,Friday,7,0,35,24,25-35
+Knowledge Village,Evening,Friday,3,0,15,24,25-35
+Knowledge Village,Morning,Tuesday,14,0,70,24,25-35
+Knowledge Village,Evening,Wednesday,4,0,20,24,25-35
+Knowledge Village,Evening,Monday,4,0,20,24,25-35
+Knowledge Village,Afternoon,Sunday,1,1,8,24,25-35
+Knowledge Village,Evening,Saturday,3,1,18,24,25-35
+Knowledge Village,Morning,Tuesday,14,9,97,24,25-35
+Knowledge Village,Evening,Friday,4,3,29,24,25-35
+Knowledge Village,Afternoon,Sunday,3,3,24,24,25-35
+Knowledge Village,Morning,Wednesday,19,9,122,24,25-35
+Knowledge Village,Evening,Monday,9,2,51,24,25-35
+Knowledge Village,Afternoon,Thursday,19,0,95,24,25-35
+Knowledge Village,Afternoon,Tuesday,19,4,107,24,25-35
+Knowledge Village,Morning,Friday,1,0,5,24,25-35
+Knowledge Village,Morning,Saturday,1,0,5,24,25-35
+Knowledge Village,Evening,Monday,0,1,3,24,25-35
+Knowledge Village,Morning,Sunday,3,1,18,24,25-35
+Knowledge Village,Morning,Friday,4,1,23,24,25-35
+Knowledge Village,Afternoon,Tuesday,4,4,32,24,25-35
+Knowledge Village,Evening,Friday,7,0,35,24,25-35
+Knowledge Village,Evening,Wednesday,1,0,5,24,25-35
+Knowledge Village,Afternoon,Tuesday,2,1,13,24,25-35
+Knowledge Village,Morning,Monday,3,1,18,24,25-35
+Knowledge Village,Morning,Wednesday,14,9,97,24,25-35
+Knowledge Village,Evening,Thursday,9,2,51,24,25-35
+Knowledge Village,Afternoon,Wednesday,19,4,107,24,25-35
+Knowledge Village,Afternoon,Sunday,3,3,24,24,25-35
+Knowledge Village,Morning,Monday,9,9,72,24,25-35
+Knowledge Village,Evening,Wednesday,2,2,16,24,25-35
+Knowledge Village,Afternoon,Saturday,4,0,20,24,25-35
+Knowledge Village,Evening,Sunday,4,0,20,24,25-35
+Knowledge Village,Morning,Sunday,3,1,18,24,25-35
+Knowledge Village,Afternoon,Wednesday,19,4,107,24,25-35
+Knowledge Village,Morning,Saturday,1,0,5,24,25-35
+Knowledge Village,Afternoon,Monday,19,9,122,24,25-35
+Knowledge Village,Morning,Thursday,19,9,122,24,25-35
+Knowledge Village,Evening,Saturday,4,3,29,25,25-35
+Knowledge Village,Afternoon,Monday,2,0,10,25,25-35
+Knowledge Village,Morning,Wednesday,14,4,82,25,25-35
+Knowledge Village,Morning,Friday,7,3,44,25,25-35
+Knowledge Village,Afternoon,Friday,7,3,44,25,25-35
+Knowledge Village,Evening,Sunday,1,1,8,25,25-35
+Knowledge Village,Afternoon,Tuesday,14,0,70,25,25-35
+Knowledge Village,Afternoon,Friday,7,1,38,25,25-35
+Knowledge Village,Evening,Wednesday,4,4,32,25,25-35
+Knowledge Village,Morning,Monday,19,9,122,25,25-35
+Knowledge Village,Morning,Saturday,4,0,20,25,25-35
+Knowledge Village,Morning,Thursday,14,9,97,25,25-35
+Knowledge Village,Evening,Wednesday,7,0,35,25,25-35
+Knowledge Village,Morning,Thursday,19,4,107,25,25-35
+Knowledge Village,Afternoon,Thursday,9,4,57,25,25-35
+Knowledge Village,Morning,Saturday,4,1,23,25,25-35
+Knowledge Village,Evening,Tuesday,9,2,51,25,25-35
+Knowledge Village,Afternoon,Monday,9,9,72,25,25-35
+Knowledge Village,Afternoon,Saturday,3,0,15,25,25-35
+Knowledge Village,Evening,Thursday,9,4,57,25,25-35
+Knowledge Village,Evening,Monday,7,4,47,25,25-35
+Knowledge Village,Evening,Saturday,7,3,44,25,25-35
+Knowledge Village,Morning,Saturday,1,3,14,25,25-35
+Knowledge Village,Afternoon,Saturday,1,3,14,25,25-35
+Knowledge Village,Evening,Sunday,4,0,20,25,25-35
+Knowledge Village,Morning,Monday,14,9,97,25,25-35
+Knowledge Village,Evening,Thursday,4,4,32,26,25-35
+Knowledge Village,Evening,Tuesday,9,4,57,26,25-35
+Knowledge Village,Evening,Saturday,7,0,35,26,25-35
+Knowledge Village,Afternoon,Friday,4,3,29,26,25-35
+Knowledge Village,Morning,Monday,4,9,47,26,25-35
+Knowledge Village,Morning,Friday,3,3,24,26,25-35
+Knowledge Village,Morning,Sunday,3,3,24,26,25-35
+Knowledge Village,Evening,Wednesday,4,4,32,26,25-35
+Knowledge Village,Morning,Tuesday,4,9,47,26,25-35
+Knowledge Village,Morning,Monday,4,0,20,27,25-35
+Knowledge Village,Evening,Saturday,7,0,35,27,25-35
+Knowledge Village,Afternoon,Tuesday,14,0,70,27,25-35
+Knowledge Village,Evening,Wednesday,7,4,47,27,25-35
+Knowledge Village,Evening,Monday,9,4,57,27,25-35
+Knowledge Village,Evening,Thursday,4,4,32,27,25-35
+Knowledge Village,Evening,Tuesday,7,0,35,27,25-35
+Knowledge Village,Morning,Wednesday,4,0,20,27,25-35
+Knowledge Village,Morning,Saturday,7,0,35,27,25-35
+Knowledge Village,Morning,Friday,3,3,24,28,25-35
+Knowledge Village,Evening,Saturday,3,3,24,28,25-35
+Knowledge Village,Afternoon,Saturday,3,1,18,29,25-35
+Knowledge Village,Morning,Friday,1,1,8,29,25-35
+Knowledge Village,Morning,Thursday,9,9,72,29,25-35
+Knowledge Village,Morning,Thursday,14,9,97,29,25-35
+Knowledge Village,Morning,Friday,1,0,5,29,25-35
+Knowledge Village,Morning,Sunday,7,0,35,29,25-35
+Knowledge Village,Evening,Tuesday,9,2,51,29,25-35
+Knowledge Village,Evening,Saturday,3,1,18,29,25-35
+Knowledge Village,Morning,Friday,4,1,23,29,25-35
+Knowledge Village,Evening,Wednesday,4,4,32,29,25-35
+Knowledge Village,Evening,Thursday,7,0,35,30,25-35
+Knowledge Village,Evening,Thursday,4,4,32,30,25-35
+Knowledge Village,Morning,Friday,4,3,29,30,25-35
+Knowledge Village,Afternoon,Saturday,3,3,24,30,25-35
+Knowledge Village,Evening,Tuesday,2,2,16,30,25-35
+Knowledge Village,Morning,Wednesday,9,4,57,30,25-35
+Knowledge Village,Morning,Tuesday,4,4,32,30,25-35
+Knowledge Village,Afternoon,Monday,14,4,82,31,25-35
+Knowledge Village,Afternoon,Friday,4,1,23,31,25-35
+Knowledge Village,Evening,Saturday,4,0,20,31,25-35
+Knowledge Village,Afternoon,Monday,14,4,82,31,25-35
+Knowledge Village,Evening,Sunday,4,3,29,31,25-35
+Knowledge Village,Afternoon,Sunday,7,0,35,31,25-35
+Knowledge Village,Morning,Monday,4,0,20,18,18-24
+Knowledge Village,Afternoon,Wednesday,9,9,72,20,18-24
+Knowledge Village,Afternoon,Sunday,1,3,14,24,25-35
+Knowledge Village,Evening,Thursday,7,0,35,24,25-35
+Knowledge Village,Afternoon,Tuesday,9,9,72,20,18-24
+Knowledge Village,Morning,Tuesday,19,0,95,21,18-24
+Knowledge Village,Evening,Monday,7,2,41,23,18-24
+Knowledge Village,Morning,Wednesday,9,9,72,18,18-24
+Knowledge Village,Afternoon,Wednesday,19,4,107,24,25-35
+Knowledge Village,Evening,Sunday,4,1,23,21,18-24
+Knowledge Village,Morning,Monday,19,9,122,21,18-24
+Knowledge Village,Evening,Friday,4,0,20,19,18-24
+Knowledge Village,Morning,Monday,4,9,47,22,18-24
+Knowledge Village,Evening,Monday,7,0,35,24,25-35
+Knowledge Village,Afternoon,Saturday,7,0,35,20,18-24
+Knowledge Village,Evening,Monday,9,2,51,18,18-24
+Knowledge Village,Morning,Saturday,7,0,35,18,18-24
+Knowledge Village,Morning,Friday,3,3,24,24,25-35
+Knowledge Village,Afternoon,Monday,19,0,95,24,25-35
+Knowledge Village,Afternoon,Saturday,3,0,15,21,18-24
+Knowledge Village,Afternoon,Monday,4,0,20,20,18-24
+Knowledge Village,Afternoon,Thursday,14,0,70,20,18-24
+Knowledge Village,Morning,Friday,7,3,44,23,18-24
+Knowledge Village,Afternoon,Saturday,3,0,15,18,18-24
+Knowledge Village,Afternoon,Tuesday,4,9,47,35,35-50
+Knowledge Village,Evening,Monday,4,0,20,35,35-50
+Knowledge Village,Morning,Friday,3,3,24,36,35-50
+Knowledge Village,Evening,Tuesday,4,4,32,36,35-50
+Knowledge Village,Afternoon,Sunday,7,1,38,36,35-50
+Knowledge Village,Afternoon,Thursday,19,9,122,36,35-50
+Knowledge Village,Afternoon,Sunday,3,0,15,36,35-50
+Knowledge Village,Evening,Friday,1,0,5,36,35-50
+Knowledge Village,Evening,Saturday,1,0,5,36,35-50
+Knowledge Village,Morning,Sunday,7,0,35,37,35-50
+Knowledge Village,Evening,Saturday,7,3,44,37,35-50
+Knowledge Village,Afternoon,Tuesday,9,0,45,37,35-50
+Knowledge Village,Evening,Tuesday,9,4,57,37,35-50
+Knowledge Village,Afternoon,Tuesday,9,0,45,38,35-50
+Knowledge Village,Morning,Thursday,9,4,57,38,35-50
+Knowledge Village,Afternoon,Monday,9,0,45,38,35-50
+Knowledge Village,Afternoon,Wednesday,14,9,97,19,18-24
+Knowledge Village,Afternoon,Wednesday,9,0,45,20,18-24
+Knowledge Village,Afternoon,Wednesday,4,9,47,20,18-24
+Knowledge Village,Afternoon,Saturday,4,0,20,23,18-24
+Knowledge Village,Afternoon,Monday,14,4,82,21,18-24
+Knowledge Village,Evening,Thursday,4,4,32,19,18-24
+Knowledge Village,Morning,Tuesday,9,9,72,23,18-24
+Knowledge Village,Morning,Sunday,7,3,44,20,18-24
+Knowledge Village,Evening,Friday,3,0,15,23,18-24
+Knowledge Village,Morning,Thursday,4,9,47,23,18-24
+Knowledge Village,Evening,Sunday,3,1,18,24,25-35
+Knowledge Village,Afternoon,Saturday,4,3,29,23,18-24
+Knowledge Village,Morning,Friday,1,1,8,18,18-24
+Knowledge Village,Afternoon,Thursday,4,0,20,24,25-35
+Knowledge Village,Evening,Wednesday,2,0,10,23,18-24
+Knowledge Village,Afternoon,Monday,9,0,45,21,18-24
+Knowledge Village,Morning,Saturday,7,3,44,24,25-35
+Knowledge Village,Morning,Monday,19,0,95,20,18-24
+Knowledge Village,Evening,Monday,9,0,45,24,25-35
+Knowledge Village,Afternoon,Thursday,4,4,32,24,25-35
+Knowledge Village,Afternoon,Monday,14,0,70,21,18-24
+Knowledge Village,Morning,Sunday,4,0,20,20,18-24
+Knowledge Village,Afternoon,Saturday,1,0,5,24,25-35
+Knowledge Village,Evening,Friday,7,3,44,23,18-24
+Knowledge Village,Morning,Thursday,4,0,20,44,35-50
+Knowledge Village,Afternoon,Sunday,4,3,29,44,35-50
+Knowledge Village,Evening,Sunday,1,0,5,45,35-50
+Knowledge Village,Morning,Tuesday,9,4,57,45,35-50
+Knowledge Village,Afternoon,Wednesday,4,0,20,45,35-50
+Knowledge Village,Morning,Saturday,1,3,14,45,35-50
+Knowledge Village,Morning,Monday,9,9,72,45,35-50
+Knowledge Village,Afternoon,Friday,7,3,44,45,35-50
+Knowledge Village,Morning,Tuesday,4,9,47,45,35-50
+Knowledge Village,Afternoon,Tuesday,4,9,47,46,35-50
+Knowledge Village,Morning,Friday,1,0,5,46,35-50
+Knowledge Village,Morning,Saturday,3,0,15,46,35-50
+Knowledge Village,Evening,Friday,3,1,18,46,35-50
+Knowledge Village,Afternoon,Friday,7,3,44,46,35-50
+Knowledge Village,Evening,Saturday,1,1,8,46,35-50
+Knowledge Village,Afternoon,Thursday,4,4,32,46,35-50
+Knowledge Village,Morning,Sunday,1,0,5,24,25-35
+Knowledge Village,Evening,Wednesday,2,4,22,21,18-24
+Knowledge Village,Afternoon,Wednesday,9,4,57,20,18-24
+Knowledge Village,Evening,Thursday,7,0,35,19,18-24
+Knowledge Village,Morning,Sunday,7,3,44,23,18-24
+Knowledge Village,Afternoon,Friday,7,0,35,18,18-24
+Knowledge Village,Evening,Sunday,7,0,35,21,18-24
+Knowledge Village,Afternoon,Tuesday,14,4,82,24,25-35
+Knowledge Village,Morning,Thursday,19,0,95,21,18-24
+Knowledge Village,Evening,Monday,2,0,10,22,18-24
+Knowledge Village,Evening,Saturday,1,1,8,19,18-24
+Knowledge Village,Evening,Monday,1,0,5,20,18-24
+Knowledge Village,Evening,Saturday,3,3,24,21,18-24
+Knowledge Village,Evening,Thursday,2,0,10,22,18-24
+Knowledge Village,Evening,Friday,1,3,14,18,18-24
+Knowledge Village,Evening,Wednesday,4,2,26,22,18-24
+Knowledge Village,Afternoon,Thursday,4,0,20,23,18-24
+Knowledge Village,Evening,Tuesday,4,4,32,19,18-24
+Knowledge Village,Afternoon,Friday,4,1,23,20,18-24
+Knowledge Village,Evening,Monday,9,4,57,20,18-24
+Knowledge Village,Evening,Thursday,9,2,51,18,18-24
+Knowledge Village,Morning,Monday,19,0,95,23,18-24
+Knowledge Village,Morning,Monday,19,9,122,24,25-35
+Knowledge Village,Morning,Wednesday,9,9,72,23,18-24
+Knowledge Village,Afternoon,Wednesday,4,4,32,53,50+
+Knowledge Village,Afternoon,Friday,3,3,24,53,50+
+Knowledge Village,Afternoon,Saturday,7,1,38,53,50+
+Knowledge Village,Morning,Friday,3,3,24,53,50+
+Knowledge Village,Morning,Wednesday,4,4,32,54,50+
+Knowledge Village,Morning,Tuesday,14,4,82,85,50+
+Mirdif,Afternoon,Thursday,2,1,13,18,18-24
+Mirdif,Evening,Friday,2,1,13,18,18-24
+Mirdif,Morning,Thursday,1,0,5,18,18-24
+Mirdif,Evening,Wednesday,2,1,13,18,18-24
+Mirdif,Evening,Wednesday,1,0,5,19,18-24
+Mirdif,Afternoon,Wednesday,0,0,0,19,18-24
+Mirdif,Afternoon,Thursday,1,1,8,19,18-24
+Mirdif,Evening,Wednesday,0,0,0,19,18-24
+Mirdif,Afternoon,Wednesday,2,1,13,19,18-24
+Mirdif,Evening,Thursday,1,1,8,19,18-24
+Mirdif,Morning,Saturday,1,0,5,20,18-24
+Mirdif,Afternoon,Sunday,2,0,10,20,18-24
+Mirdif,Afternoon,Thursday,2,1,13,20,18-24
+Mirdif,Evening,Thursday,1,1,8,20,18-24
+Mirdif,Morning,Monday,2,1,13,20,18-24
+Mirdif,Evening,Thursday,1,1,8,20,18-24
+Mirdif,Evening,Sunday,2,0,10,20,18-24
+Mirdif,Evening,Wednesday,1,0,5,20,18-24
+Mirdif,Afternoon,Sunday,2,0,10,20,18-24
+Mirdif,Evening,Monday,1,1,8,21,18-24
+Mirdif,Morning,Monday,1,0,5,21,18-24
+Mirdif,Evening,Thursday,0,0,0,21,18-24
+Mirdif,Morning,Saturday,2,0,10,21,18-24
+Mirdif,Afternoon,Thursday,0,0,0,21,18-24
+Mirdif,Morning,Thursday,2,0,10,21,18-24
+Mirdif,Morning,Wednesday,0,0,0,21,18-24
+Mirdif,Afternoon,Wednesday,0,0,0,21,18-24
+Mirdif,Morning,Friday,2,0,10,21,18-24
+Mirdif,Morning,Monday,0,0,0,21,18-24
+Mirdif,Afternoon,Sunday,0,1,3,21,18-24
+Mirdif,Evening,Tuesday,0,0,0,21,18-24
+Mirdif,Morning,Friday,1,0,5,22,18-24
+Mirdif,Morning,Tuesday,1,1,8,22,18-24
+Mirdif,Morning,Sunday,1,1,8,22,18-24
+Mirdif,Evening,Friday,1,0,5,22,18-24
+Mirdif,Morning,Friday,1,0,5,22,18-24
+Mirdif,Morning,Saturday,1,0,5,22,18-24
+Mirdif,Evening,Wednesday,1,0,5,22,18-24
+Mirdif,Evening,Wednesday,2,1,13,22,18-24
+Mirdif,Afternoon,Sunday,2,0,10,22,18-24
+Mirdif,Evening,Tuesday,0,1,3,22,18-24
+Mirdif,Afternoon,Wednesday,1,0,5,23,18-24
+Mirdif,Evening,Tuesday,1,0,5,23,18-24
+Mirdif,Morning,Tuesday,2,1,13,23,18-24
+Mirdif,Evening,Tuesday,2,0,10,23,18-24
+Mirdif,Evening,Thursday,2,0,10,23,18-24
+Mirdif,Morning,Friday,2,1,13,23,18-24
+Mirdif,Afternoon,Saturday,1,1,8,23,18-24
+Mirdif,Evening,Sunday,1,1,8,23,18-24
+Mirdif,Afternoon,Monday,0,0,0,23,18-24
+Mirdif,Afternoon,Monday,1,0,5,23,18-24
+Mirdif,Evening,Wednesday,2,0,10,24,25-35
+Mirdif,Evening,Saturday,0,1,3,24,25-35
+Mirdif,Afternoon,Thursday,1,1,8,24,25-35
+Mirdif,Morning,Thursday,1,0,5,24,25-35
+Mirdif,Morning,Thursday,0,0,0,24,25-35
+Mirdif,Morning,Thursday,1,1,8,25,25-35
+Mirdif,Afternoon,Thursday,1,0,5,25,25-35
+Mirdif,Morning,Tuesday,1,0,5,25,25-35
+Mirdif,Morning,Tuesday,1,1,8,25,25-35
+Mirdif,Morning,Saturday,1,0,5,25,25-35
+Mirdif,Morning,Tuesday,0,0,0,25,25-35
+Mirdif,Afternoon,Wednesday,2,0,10,25,25-35
+Mirdif,Evening,Tuesday,1,0,5,25,25-35
+Mirdif,Afternoon,Sunday,0,1,3,26,25-35
+Mirdif,Afternoon,Friday,0,1,3,26,25-35
+Mirdif,Evening,Saturday,2,0,10,26,25-35
+Mirdif,Afternoon,Friday,1,0,5,26,25-35
+Mirdif,Morning,Friday,1,0,5,26,25-35
+Mirdif,Morning,Wednesday,1,0,5,26,25-35
+Mirdif,Afternoon,Tuesday,1,1,8,26,25-35
+Mirdif,Morning,Saturday,2,1,13,26,25-35
+Mirdif,Afternoon,Monday,2,0,10,27,25-35
+Mirdif,Afternoon,Thursday,0,0,0,27,25-35
+Mirdif,Evening,Tuesday,1,1,8,27,25-35
+Mirdif,Afternoon,Friday,0,0,0,27,25-35
+Mirdif,Morning,Sunday,1,1,8,27,25-35
+Mirdif,Morning,Friday,0,1,3,28,25-35
+Mirdif,Evening,Monday,2,0,10,28,25-35
+Mirdif,Morning,Saturday,1,1,8,28,25-35
+Mirdif,Evening,Monday,1,1,8,28,25-35
+Mirdif,Evening,Monday,0,1,3,28,25-35
+Mirdif,Afternoon,Thursday,1,1,8,28,25-35
+Mirdif,Afternoon,Friday,1,0,5,28,25-35
+Mirdif,Evening,Friday,2,1,13,28,25-35
+Mirdif,Evening,Sunday,1,0,5,28,25-35
+Mirdif,Afternoon,Saturday,0,0,0,29,25-35
+Mirdif,Evening,Monday,2,0,10,29,25-35
+Mirdif,Afternoon,Tuesday,1,0,5,29,25-35
+Mirdif,Morning,Sunday,1,0,5,29,25-35
+Mirdif,Evening,Wednesday,1,0,5,29,25-35
+Mirdif,Afternoon,Wednesday,2,1,13,29,25-35
+Mirdif,Evening,Monday,0,0,0,29,25-35
+Mirdif,Evening,Monday,1,0,5,29,25-35
+Mirdif,Morning,Thursday,1,0,5,30,25-35
+Mirdif,Afternoon,Sunday,1,0,5,30,25-35
+Mirdif,Evening,Thursday,2,1,13,30,25-35
+Mirdif,Evening,Tuesday,1,0,5,30,25-35
+Mirdif,Evening,Monday,1,0,5,30,25-35
+Mirdif,Evening,Thursday,1,1,8,30,25-35
+Mirdif,Evening,Sunday,2,0,10,30,25-35
+Mirdif,Morning,Wednesday,1,0,5,31,25-35
+Mirdif,Afternoon,Thursday,0,1,3,31,25-35
+Mirdif,Evening,Thursday,1,1,8,31,25-35
+Mirdif,Evening,Sunday,1,0,5,31,25-35
+Mirdif,Evening,Tuesday,2,1,13,31,25-35
+Mirdif,Morning,Tuesday,2,0,10,32,25-35
+Mirdif,Afternoon,Friday,2,0,10,32,25-35
+Mirdif,Afternoon,Friday,1,0,5,32,25-35
+Mirdif,Afternoon,Wednesday,0,1,3,33,25-35
+Mirdif,Morning,Tuesday,1,0,5,33,25-35
+Mirdif,Evening,Saturday,1,0,5,33,25-35
+Mirdif,Evening,Friday,1,0,5,33,25-35
+Mirdif,Afternoon,Thursday,1,0,5,33,25-35
+Mirdif,Morning,Monday,1,0,5,33,25-35
+Mirdif,Afternoon,Saturday,1,0,5,33,25-35
+Mirdif,Evening,Friday,0,0,0,34,25-35
+Mirdif,Afternoon,Sunday,2,1,13,34,25-35
+Mirdif,Morning,Tuesday,0,0,0,34,25-35
+Mirdif,Afternoon,Sunday,1,0,5,35,35-50
+Mirdif,Evening,Saturday,1,0,5,35,35-50
+Mirdif,Afternoon,Sunday,0,0,0,35,35-50
+Mirdif,Evening,Wednesday,1,1,8,35,35-50
+Mirdif,Evening,Saturday,0,0,0,35,35-50
+Mirdif,Evening,Thursday,2,1,13,35,35-50
+Mirdif,Morning,Wednesday,1,0,5,35,35-50
+Mirdif,Morning,Tuesday,1,1,8,36,35-50
+Mirdif,Afternoon,Wednesday,0,1,3,36,35-50
+Mirdif,Afternoon,Monday,1,1,8,36,35-50
+Mirdif,Afternoon,Monday,2,0,10,36,35-50
+Mirdif,Afternoon,Tuesday,0,0,0,36,35-50
+Mirdif,Evening,Monday,2,0,10,36,35-50
+Mirdif,Evening,Friday,1,0,5,36,35-50
+Mirdif,Morning,Sunday,0,0,0,36,35-50
+Mirdif,Afternoon,Monday,1,0,5,36,35-50
+Mirdif,Afternoon,Monday,2,0,10,37,35-50
+Mirdif,Morning,Tuesday,1,0,5,37,35-50
+Mirdif,Evening,Saturday,0,0,0,37,35-50
+Mirdif,Evening,Sunday,1,0,5,37,35-50
+Mirdif,Evening,Thursday,0,1,3,37,35-50
+Mirdif,Morning,Wednesday,0,0,0,37,35-50
+Mirdif,Afternoon,Tuesday,2,0,10,38,35-50
+Mirdif,Afternoon,Saturday,1,0,5,38,35-50
+Mirdif,Morning,Friday,0,0,0,38,35-50
+Mirdif,Afternoon,Thursday,0,0,0,38,35-50
+Mirdif,Afternoon,Friday,1,0,5,38,35-50
+Mirdif,Evening,Friday,1,0,5,38,35-50
+Mirdif,Afternoon,Tuesday,1,0,5,39,35-50
+Mirdif,Afternoon,Saturday,0,0,0,39,35-50
+Mirdif,Morning,Thursday,1,1,8,39,35-50
+Mirdif,Morning,Friday,1,0,5,39,35-50
+Mirdif,Evening,Sunday,2,0,10,40,35-50
+Mirdif,Evening,Monday,2,1,13,40,35-50
+Mirdif,Morning,Monday,0,0,0,40,35-50
+Mirdif,Evening,Sunday,0,1,3,40,35-50
+Mirdif,Afternoon,Thursday,0,1,3,41,35-50
+Mirdif,Afternoon,Friday,1,1,8,41,35-50
+Mirdif,Evening,Friday,1,0,5,41,35-50
+Mirdif,Afternoon,Tuesday,1,0,5,41,35-50
+Mirdif,Evening,Saturday,2,1,13,41,35-50
+Mirdif,Afternoon,Monday,1,1,8,42,35-50
+Mirdif,Afternoon,Saturday,1,0,5,42,35-50
+Mirdif,Evening,Tuesday,1,1,8,42,35-50
+Mirdif,Evening,Thursday,0,1,3,42,35-50
+Mirdif,Afternoon,Tuesday,1,1,8,42,35-50
+Mirdif,Morning,Sunday,1,0,5,42,35-50
+Mirdif,Evening,Saturday,2,0,10,42,35-50
+Mirdif,Afternoon,Friday,1,0,5,42,35-50
+Mirdif,Afternoon,Saturday,1,0,5,42,35-50
+Mirdif,Morning,Tuesday,2,0,10,42,35-50
+Mirdif,Morning,Thursday,1,0,5,42,35-50
+Mirdif,Afternoon,Thursday,2,0,10,42,35-50
+Mirdif,Afternoon,Monday,1,0,5,43,35-50
+Mirdif,Morning,Tuesday,1,0,5,43,35-50
+Mirdif,Afternoon,Thursday,2,0,10,43,35-50
+Mirdif,Afternoon,Saturday,1,0,5,43,35-50
+Mirdif,Afternoon,Tuesday,2,1,13,44,35-50
+Mirdif,Afternoon,Monday,1,0,5,44,35-50
+Mirdif,Afternoon,Saturday,1,0,5,44,35-50
+Mirdif,Evening,Thursday,1,0,5,44,35-50
+Mirdif,Evening,Friday,0,1,3,44,35-50
+Mirdif,Evening,Monday,2,0,10,45,35-50
+Mirdif,Afternoon,Wednesday,1,0,5,45,35-50
+Mirdif,Evening,Sunday,1,1,8,45,35-50
+Mirdif,Morning,Saturday,1,0,5,45,35-50
+Mirdif,Evening,Wednesday,1,1,8,45,35-50
+Mirdif,Afternoon,Sunday,0,0,0,45,35-50
+Mirdif,Morning,Friday,1,0,5,45,35-50
+Mirdif,Morning,Wednesday,0,0,0,46,35-50
+Mirdif,Morning,Monday,1,0,5,46,35-50
+Mirdif,Morning,Tuesday,1,0,5,46,35-50
+Mirdif,Morning,Wednesday,2,1,13,46,35-50
+Mirdif,Morning,Thursday,0,0,0,46,35-50
+Mirdif,Afternoon,Saturday,1,1,8,46,35-50
+Mirdif,Afternoon,Wednesday,1,1,8,46,35-50
+Mirdif,Evening,Wednesday,2,1,13,46,35-50
+Mirdif,Afternoon,Saturday,2,1,13,47,35-50
+Mirdif,Afternoon,Friday,1,0,5,47,35-50
+Mirdif,Morning,Monday,1,0,5,47,35-50
+Mirdif,Afternoon,Saturday,1,1,8,47,35-50
+Mirdif,Evening,Thursday,1,0,5,47,35-50
+Mirdif,Afternoon,Tuesday,2,1,13,47,35-50
+Mirdif,Morning,Monday,2,0,10,47,35-50
+Mirdif,Morning,Sunday,2,0,10,47,35-50
+Mirdif,Morning,Sunday,1,0,5,47,35-50
+Mirdif,Morning,Sunday,2,0,10,48,35-50
+Mirdif,Morning,Thursday,1,0,5,48,35-50
+Mirdif,Afternoon,Saturday,1,1,8,48,35-50
+Mirdif,Evening,Saturday,1,0,5,48,35-50
+Mirdif,Afternoon,Sunday,2,0,10,48,35-50
+Mirdif,Evening,Thursday,2,1,13,48,35-50
+Mirdif,Evening,Monday,0,0,0,49,35-50
+Mirdif,Morning,Sunday,1,0,5,49,35-50
+Mirdif,Afternoon,Saturday,0,0,0,49,35-50
+Mirdif,Afternoon,Tuesday,1,0,5,49,35-50
+Mirdif,Morning,Wednesday,1,0,5,49,35-50
+Mirdif,Afternoon,Wednesday,1,0,5,49,35-50
+Mirdif,Morning,Saturday,2,0,10,50,50+
+Mirdif,Morning,Thursday,2,1,13,50,50+
+Mirdif,Morning,Friday,0,0,0,50,50+
+Mirdif,Afternoon,Friday,1,1,8,50,50+
+Mirdif,Morning,Sunday,0,0,0,50,50+
+Mirdif,Evening,Tuesday,1,0,5,50,50+
+Mirdif,Evening,Tuesday,1,0,5,51,50+
+Mirdif,Evening,Thursday,2,1,13,51,50+
+Mirdif,Evening,Friday,0,0,0,51,50+
+Mirdif,Morning,Wednesday,2,0,10,51,50+
+Mirdif,Afternoon,Sunday,0,0,0,51,50+
+Mirdif,Morning,Monday,0,0,0,51,50+
+Mirdif,Evening,Monday,1,0,5,51,50+
+Mirdif,Afternoon,Monday,0,0,0,52,50+
+Mirdif,Evening,Wednesday,2,0,10,52,50+
+Mirdif,Morning,Wednesday,1,0,5,52,50+
+Mirdif,Afternoon,Sunday,0,1,3,52,50+
+Mirdif,Morning,Saturday,0,1,3,52,50+
+Mirdif,Morning,Saturday,1,0,5,52,50+
+Mirdif,Afternoon,Friday,0,0,0,52,50+
+Mirdif,Morning,Wednesday,1,0,5,52,50+
+Mirdif,Afternoon,Tuesday,0,0,0,52,50+
+Mirdif,Morning,Thursday,0,1,3,53,50+
+Mirdif,Afternoon,Sunday,1,0,5,53,50+
+Mirdif,Afternoon,Monday,2,0,10,53,50+
+Mirdif,Evening,Monday,0,1,3,53,50+
+Mirdif,Morning,Sunday,2,0,10,53,50+
+Mirdif,Morning,Monday,1,1,8,53,50+
+Mirdif,Afternoon,Tuesday,1,1,8,53,50+
+Mirdif,Evening,Thursday,1,0,5,54,50+
+Mirdif,Afternoon,Thursday,1,0,5,54,50+
+Mirdif,Evening,Saturday,1,0,5,54,50+
+Mirdif,Evening,Wednesday,2,0,10,54,50+
+Mirdif,Morning,Sunday,0,0,0,54,50+
+Mirdif,Morning,Wednesday,2,1,13,54,50+
+Mirdif,Afternoon,Monday,0,1,3,54,50+
+Mirdif,Morning,Monday,1,1,8,54,50+
+Mirdif,Morning,Tuesday,2,0,10,54,50+
+Mirdif,Evening,Saturday,1,0,5,55,50+
+Mirdif,Evening,Monday,1,0,5,55,50+
+Mirdif,Afternoon,Wednesday,0,0,0,55,50+
+Mirdif,Evening,Monday,1,0,5,55,50+
+Mirdif,Morning,Saturday,1,0,5,55,50+
+Mirdif,Morning,Monday,1,1,8,70,50+
+Mirdif,Morning,Tuesday,2,0,10,80,50+
+Mirdif,Morning,Wednesday,0,0,0,56,50+
+Mirdif,Morning,Saturday,2,1,13,80,50+
+Mirdif,Morning,Sunday,2,0,10,72,50+
+Mirdif,Afternoon,Wednesday,2,1,13,81,50+
+Mirdif,Afternoon,Friday,1,0,5,78,50+
+Mirdif,Afternoon,Saturday,0,0,0,57,50+
+Mirdif,Evening,Tuesday,0,0,0,71,50+
+Mirdif,Evening,Wednesday,2,0,10,85,50+
+Mirdif,Evening,Friday,2,0,10,84,50+
+Mirdif,Morning,Monday,2,1,13,77,50+
+Mirdif,Morning,Tuesday,2,0,10,63,50+
+Mirdif,Morning,Wednesday,1,0,5,83,50+
+Mirdif,Morning,Friday,2,0,10,71,50+
+Mirdif,Morning,Sunday,0,0,0,58,50+
+Mirdif,Afternoon,Tuesday,2,0,10,74,50+
+Mirdif,Afternoon,Wednesday,1,1,8,81,50+
+Mirdif,Afternoon,Friday,2,0,10,67,50+
+Mirdif,Afternoon,Sunday,0,0,0,62,50+
+Mirdif,Evening,Monday,2,0,10,71,50+
+Mirdif,Evening,Wednesday,0,0,0,82,50+
+Mirdif,Evening,Friday,1,0,5,76,50+
+Mirdif,Evening,Sunday,2,0,10,80,50+
+Mirdif,Morning,Monday,1,0,5,56,50+
+Mirdif,Morning,Thursday,2,0,10,80,50+
+Mirdif,Morning,Sunday,1,0,5,82,50+
+Mirdif,Afternoon,Tuesday,0,1,3,64,50+
+Mirdif,Afternoon,Wednesday,2,0,10,59,50+
+Mirdif,Afternoon,Saturday,1,0,5,67,50+
+Mirdif,Evening,Tuesday,1,0,5,59,50+
+Mirdif,Evening,Sunday,1,1,8,78,50+
+Mirdif,Morning,Monday,2,0,10,76,50+
+Mirdif,Morning,Wednesday,1,0,5,60,50+
+Mirdif,Morning,Thursday,2,0,10,83,50+
+Mirdif,Morning,Friday,0,1,3,63,50+
+Mirdif,Morning,Saturday,1,0,5,85,50+
+Mirdif,Afternoon,Thursday,1,1,8,85,50+
+Mirdif,Afternoon,Friday,0,0,0,73,50+
+Mirdif,Afternoon,Sunday,1,0,5,56,50+
+Mirdif,Evening,Tuesday,1,0,5,74,50+
+Mirdif,Evening,Thursday,1,0,5,74,50+
+Mirdif,Evening,Sunday,1,0,5,61,50+
+Mirdif,Morning,Monday,1,1,8,60,50+
+Mirdif,Morning,Thursday,2,0,10,84,50+
+Mirdif,Afternoon,Friday,2,0,10,84,50+
+Mirdif,Evening,Tuesday,1,1,8,83,50+
+Mirdif,Evening,Friday,1,0,5,80,50+
+Mirdif,Morning,Friday,1,0,5,69,50+
+Mirdif,Morning,Saturday,2,1,13,71,50+
+Mirdif,Afternoon,Monday,0,0,0,64,50+
+Mirdif,Afternoon,Tuesday,1,1,8,72,50+
+Mirdif,Evening,Friday,0,0,0,84,50+
+Mirdif,Morning,Wednesday,1,0,5,73,50+
+Mirdif,Morning,Friday,1,1,8,60,50+
+Mirdif,Morning,Sunday,1,0,5,72,50+
+Mirdif,Afternoon,Wednesday,1,1,8,58,50+
+Mirdif,Evening,Friday,0,0,0,83,50+
+Mirdif,Morning,Wednesday,2,0,10,79,50+
+Mirdif,Morning,Saturday,2,0,10,75,50+
+Mirdif,Evening,Friday,2,1,13,69,50+
+Mirdif,Morning,Thursday,2,1,13,59,50+
+Mirdif,Afternoon,Wednesday,0,0,0,67,50+
+Mirdif,Afternoon,Friday,1,0,5,56,50+
+Mirdif,Afternoon,Sunday,1,0,5,85,50+
+Mirdif,Evening,Monday,1,0,5,79,50+
+Mirdif,Afternoon,Tuesday,0,0,0,62,50+
+Mirdif,Evening,Wednesday,1,0,5,74,50+
+Mirdif,Evening,Saturday,0,0,0,59,50+
+Mirdif,Morning,Friday,1,0,5,58,50+
+Mirdif,Afternoon,Monday,1,0,5,69,50+
+Mirdif,Afternoon,Wednesday,0,0,0,56,50+
+Mirdif,Evening,Tuesday,0,0,0,68,50+
+Mirdif,Evening,Saturday,1,1,8,82,50+
+Mirdif,Morning,Tuesday,1,0,5,65,50+
+Mirdif,Morning,Sunday,1,1,8,83,50+
+Mirdif,Afternoon,Thursday,1,0,5,69,50+
+Mirdif,Afternoon,Friday,1,0,5,70,50+
+Mirdif,Evening,Tuesday,1,1,8,61,50+
+Mirdif,Evening,Friday,1,0,5,75,50+
+Mirdif,Evening,Sunday,0,0,0,85,50+
+Mirdif,Morning,Monday,1,1,8,57,50+
+Mirdif,Afternoon,Friday,0,0,0,70,50+
+Mirdif,Afternoon,Sunday,2,1,13,61,50+
+Mirdif,Evening,Sunday,2,0,10,77,50+
+Mirdif,Afternoon,Saturday,2,0,10,84,50+
+Mirdif,Evening,Wednesday,1,0,5,62,50+
+Mirdif,Evening,Sunday,2,1,13,70,50+
+Mirdif,Morning,Monday,0,0,0,72,50+
+Mirdif,Morning,Thursday,2,0,10,62,50+
+Mirdif,Evening,Saturday,1,1,8,79,50+
+Mirdif,Afternoon,Tuesday,1,0,5,57,50+
+Mirdif,Afternoon,Sunday,0,1,3,85,50+
+Mirdif,Morning,Tuesday,0,0,0,69,50+
+Mirdif,Morning,Wednesday,2,1,13,81,50+
+Mirdif,Afternoon,Tuesday,2,1,13,84,50+
+Mirdif,Evening,Wednesday,0,1,3,72,50+
+Mirdif,Morning,Tuesday,1,1,8,75,50+
+Mirdif,Morning,Friday,1,1,8,73,50+
+Mirdif,Afternoon,Saturday,2,0,10,66,50+
+Mirdif,Evening,Friday,0,0,0,75,50+
+Mirdif,Morning,Monday,1,0,5,82,50+
+Mirdif,Morning,Thursday,1,0,5,85,50+
+Mirdif,Morning,Saturday,0,1,3,83,50+
+Mirdif,Afternoon,Monday,1,0,5,78,50+
+Mirdif,Afternoon,Wednesday,2,0,10,64,50+
+Mirdif,Evening,Tuesday,1,0,5,65,50+
+Mirdif,Evening,Thursday,1,0,5,80,50+
